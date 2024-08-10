@@ -1,0 +1,314 @@
+Chris’ Corner: Things I Like | https://blog.codepen.io/2024/04/15/chris-corner-things-i-like/
+
+A Nationwide Drive Time Matrix Between U.S. ZIP Code Areas: Methodology | https://hackernoon.com/a-nationwide-drive-time-matrix-between-us-zip-code-areas-methodology?source=rss
+
+Chris’ Corner: More Surprising Powers of CSS | https://blog.codepen.io/2023/12/11/chris-corner-more-surprising-powers-of-css/
+
+Chris’ Corner: Dreamy, Folded, Bendy CSS | https://blog.codepen.io/2023/01/25/chris-corner-dreamy-folded-bendy-css/
+
+Smashing Hour With Dave Rupert | https://css-tricks.com/smashing-hour-with-dave-rupert/
+
+Understanding Your Data: The Essentials of Exploratory Data Analysis | https://dev.to/stephenndegwanderitu/understanding-your-data-the-essentials-of-exploratory-data-analysis-18ci
+
+Chris’ Corner: Real World CSS | https://blog.codepen.io/2024/03/25/chris-corner-real-world-css/
+
+What Are General Search Engines? | https://hackernoon.com/what-are-general-search-engines?source=rss
+
+Chris’ Corner: Very Simple Web Components | https://blog.codepen.io/2023/12/20/chris-corner-very-simple-web-components/
+
+The Importance of Compliance Tools for Web3 Enterprises | https://dev.to/vaibhavaher219/the-importance-of-compliance-tools-for-web3-enterprises-bn6
+
+Chris’ Corner: Can Has Blurs, Filters, and Masks | https://blog.codepen.io/2023/10/09/chris-corner-can-has-blurs-filters-and-masks/
+
+Common React Mistakes to Avoid | https://www.freecodecamp.org/news/react-common-mistakes/
+
+Chris’ Corner: Overflow, Documents, and Visibility | https://blog.codepen.io/2023/01/30/chris-corner-overflow-documents-and-visibility/
+
+Chris’ Corner: Dithering | https://blog.codepen.io/2023/05/08/chris-corner-dithering/
+
+Angular Lifecycle Hooks: A High Level Overview | https://dev.to/chukwuma1976/angular-lifecycle-hooks-a-high-level-overview-11i
+
+Blaze Slider | https://blog.codepen.io/2023/02/02/blaze-slider/
+
+Chris’ Corner: Baseline | https://blog.codepen.io/2023/05/22/chris-corner-baseline/
+
+How to Build a Quantum AI Model for Predicting Iris Flower Data with Python | https://www.freecodecamp.org/news/how-to-build-an-ai-model-for-predicting-data-with-python/
+
+Why I chose Codepen PRO over Copilot | https://blog.codepen.io/2023/09/20/why-i-chose-codepen-pro-over-copilot/
+
+Chris’ Corner: Better CSS Animation | https://blog.codepen.io/2023/09/25/chris-corner-better-css-animation/
+
+Chris’ Corner: Font Size, Document Hierarchy, and Dialog | https://blog.codepen.io/2023/02/20/chris-corner-font-size-document-hierarchy-and-dialog/
+
+Chris’ Corner: More Like Celebrating Style Skills | https://blog.codepen.io/2024/01/29/chris-corner-more-like-celebrating-style-skills/
+
+GPT-4 Demo Turns a Crude Sketch of a “My Joke Website” into a Functional Website for Revealing Jokes | https://blog.codepen.io/2023/03/15/gpt-4-demo-turns-a-crude-sketch-of-a-my-joke-website-into-a-functional-website-for-revealing-jokes/
+
+Chris’ Corner: Have You Ever | https://blog.codepen.io/2023/04/17/chris-corner-have-you-ever/
+
+Amazon, Apple, AT&T, and More Get Referenced in the U.S. v Google Antitrust Lawsuit | https://hackernoon.com/amazon-apple-atandt-and-more-get-referenced-in-the-us-v-google-antitrust-lawsuit?source=rss
+
+Chris’ Corner: Performance Talk | https://blog.codepen.io/2023/01/08/chris-corner-performance-talk/
+
+OpenAI's Corporate Structure Questioned in Musk Lawsuit | https://hackernoon.com/openais-corporate-structure-questioned-in-musk-lawsuit?source=rss
+
+# Storing Data in the Database with JavaScript | https://dev.to/michaelmoranis/-storing-data-in-the-database-with-javascript-2bkf
+
+Chris’ Corner: Useful HTML and CSS Patterns | https://blog.codepen.io/2023/08/08/chris-corner-useful-html-and-css-patterns/
+
+Chris’ Corner: Fresh SVG Drop | https://blog.codepen.io/2023/03/27/chris-corner-fresh-svg-drop/
+
+Chris’ Corner: Stand Alones | https://blog.codepen.io/2024/05/20/chris-corner-stand-alones/
+
+Chris’ Corner: Design Shrinking | https://blog.codepen.io/2024/07/15/chris-corner-design-shrinking/
+
+Easy Solana Token Airdrops: A TypeScript Guide | https://dev.to/sumana10/easy-solana-token-airdrops-a-typescript-guide-3clg
+
+Musk Seeks Substantial Damages from OpenAI | https://hackernoon.com/musk-seeks-substantial-damages-from-openai?source=rss
+
+Chris’ Corner: Design | https://blog.codepen.io/2023/07/03/chris-corner-design/
+
+Here's Why Scale Is Vital for Search Engines | https://hackernoon.com/heres-why-scale-is-vital-for-search-engines?source=rss
+
+Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe | https://css-tricks.com/letter-spacing-is-broken-and-theres-nothing-we-can-do-about-it-maybe/
+
+Chris’ Corner: A Balancing Act | https://blog.codepen.io/2023/05/02/chris-corner-a-balancing-act/
+
+Chris’ Corner: Galleries, Grids, and GreenPrimaryDark6 | https://blog.codepen.io/2023/11/14/chris-corner-galleries-grids-and-greenprimarydark6/
+
+Chris’ Corner: Little Useful Websites | https://blog.codepen.io/2023/06/19/chris-corner-little-useful-websites/
+
+Pop(over) the Balloons | https://css-tricks.com/popover-the-balloons/
+
+(Hyper) Links About (Hyper) Links | https://css-tricks.com/hyper-links-about-hyper-links/
+
+399: Data Munging | https://blog.codepen.io/2023/02/01/399-data-munging/
+
+Don’t Miss Editor Settings! | https://blog.codepen.io/2023/01/16/dont-miss-editor-settings/
+
+Chris’ Corner: More Like CSBest | https://blog.codepen.io/2023/07/17/chris-corner-more-like-csbest/
+
+Chris’ Corner: Scroll Driven Delight | https://blog.codepen.io/2024/02/19/chris-corner-scroll-driven-delight/
+
+Chris’ Corner: Resizing, Conditionals, and Initials | https://blog.codepen.io/2023/03/13/chris-corner-resizing-conditionals-and-initials/
+
+Chris’ Corner: People Be Doing Web Components | https://blog.codepen.io/2024/02/05/chris-corner-people-be-doing-web-components/
+
+Chris’ Corner: Signals | https://blog.codepen.io/2023/05/29/chris-corner-signals/
+
+Google Search Ads in the U.S.: Why They Compose a Relevant Market | https://hackernoon.com/google-search-ads-in-the-us-why-they-compose-a-relevant-market?source=rss
+
+Chris’ Corner: Mentals and Models | https://blog.codepen.io/2023/12/04/chris-corner-mentals-and-models/
+
+Chris’ Corner: Design the Job | https://blog.codepen.io/2024/04/29/chris-corner-design-the-job/
+
+Chris’ Corner: Cool Ideas | https://blog.codepen.io/2024/03/18/chris-corner-cool-ideas/
+
+Chris’ Corner: Tricks With CSS | https://blog.codepen.io/2024/04/08/chris-corner-tricks-with-css/
+
+Learn About Operating Systems In-Depth | https://www.freecodecamp.org/news/learn-about-operating-systems-in-depth/
+
+Chris’ Corner: Little Websites | https://blog.codepen.io/2023/04/10/chris-corner-little-websites/
+
+CSS Selectors | https://css-tricks.com/css-selectors/
+
+Chris’ Corner: Let’s Look at Type! | https://blog.codepen.io/2024/06/10/chris-corner-lets-look-at-type/
+
+Chris’ Corner: Shifting | https://blog.codepen.io/2023/06/12/chris-corner-shifting/
+
+Chris’ Corner: Websites, Highlights, and Guesses | https://blog.codepen.io/2023/03/20/chris-corner-websites-highlights-and-guesses/
+
+Chris’ Corner: A Little Back and Forth | https://blog.codepen.io/2023/04/03/chris-corner-a-little-back-and-forth/
+
+Chris’ Corner: Trends, Beziers, and the Free Betterment of Subgrid | https://blog.codepen.io/2023/02/06/chris-corner-trends-beziers-and-the-free-betterment-of-subgrid/
+
+Chris’ Corner: React is Good, Bad, Old, Reliable, Stodgy, Stable, and Obsoleted | https://blog.codepen.io/2023/08/14/chris-corner-react-is-good-bad-old-reliable-stodgy-stable-and-obsoleted/
+
+What is a Kalman Filter? How to Simplify Noisy Data in Navigation and Finance | https://www.freecodecamp.org/news/what-is-a-kalman-filter-with-python-code-examples/
+
+Developer and inventor with 27 software patents [Angie Jones Interview #136] | https://www.freecodecamp.org/news/developer-and-inventor-with-27-software-patents-angie-jones-interview-134/
+
+Hyperplexed Videos | https://blog.codepen.io/2023/04/13/hyperplexed-videos/
+
+392: Project Management Refresh | https://blog.codepen.io/2022/11/30/392-project-management-refresh/
+
+Musk Claims OpenAI Violated Original Partnership Deal | https://hackernoon.com/musk-claims-openai-violated-original-partnership-deal?source=rss
+
+Chris’ Corner: Considering Code | https://blog.codepen.io/2023/10/30/chris-corner-considering-code/
+
+Google Log In | https://blog.codepen.io/2023/05/12/google-log-in/
+
+ডেভেলপারদের নিত্যদিনের সঙ্গী মার্কডাউন | https://dev.to/aiarnob/maatrbhaassaa-baanlaayy-sieses-phleksbks-2hng
+
+Google’s Distribution Agreements: The Agreements They Had With Apple and Android | https://hackernoon.com/googles-distribution-agreements-the-agreements-they-had-with-apple-and-android?source=rss
+
+Chris’ Corner: Gradients, Generators, and Glows | https://blog.codepen.io/2023/02/27/chris-corner-gradients-generators-and-glows/
+
+Chris’ Corner: Swinging For It | https://blog.codepen.io/2024/01/08/chris-corner-swinging-for-it/
+
+395: The Most Hearted of 2022 | https://blog.codepen.io/2023/01/04/395-the-most-hearted-of-2022/
+
+Some Best-Ofs | https://blog.codepen.io/2023/01/20/some-best-ofs/
+
+Understanding Your Data: The Essentials of Exploratory Data Analysis | https://dev.to/octavia_wellsi_5a738282dc/understanding-your-data-the-essentials-of-exploratory-data-analysis-58ii
+
+Chris’ Corner: Server Side Reconnaissance | https://blog.codepen.io/2024/04/22/chris-corner-server-side-reconnaissance/
+
+Chris Corner: Git it | https://blog.codepen.io/2024/06/17/chris-corner-git-it/
+
+What Are Search Access Points? Explaining How Google Works | https://hackernoon.com/what-are-search-access-points-explaining-how-google-works?source=rss
+
+Chris’ Corner: Write Once, Read Anywhere | https://blog.codepen.io/2023/04/24/chris-corner-write-once-read-anywhere/
+
+Chris’ Corner: Here’s some things you should know | https://blog.codepen.io/2024/08/05/chris-corner-heres-some-things-you-should-know/
+
+Chris’ Corner: Incremental Adoption | https://blog.codepen.io/2024/07/08/chris-corner-incremental-adoption/
+
+Chris’ Corner: Things I Totally Didn’t Know About That I Learned From Taking the State of HTML 2023 Survey | https://blog.codepen.io/2023/10/02/chris-corner-things-i-totally-didnt-know-about-that-i-learned-from-taking-the-state-of-html-2023-survey/
+
+Chris’ Corner: Fresh Type | https://blog.codepen.io/2023/10/23/chris-corner-fresh-type/
+
+Chris’ Corner: If these computers are so smart, how come I have tell them what to do? | https://blog.codepen.io/2023/06/26/chris-corner-if-these-computers-are-so-smart-how-come-i-have-tell-them-what-to-do/
+
+How to Host Your Project on GitHub – Explained With Examples | https://www.freecodecamp.org/news/host-your-first-project-on-github/
+
+Mastodon Verification of CodePen Profiles | https://blog.codepen.io/2022/12/29/mastodon-verification-of-codepen-profiles/
+
+Container Orchestration | https://dev.to/gurunadh234/container-orchestration-367
+
+Elon Musk Accuses OpenAI Leaders of Conspiring to Violate RICO Laws | https://hackernoon.com/elon-musk-accuses-openai-leaders-of-conspiring-to-violate-rico-laws?source=rss
+
+Why Does MEV Protection is Crucial for RPC nodes? | https://hackernoon.com/why-does-mev-protection-is-crucial-for-rpc-nodes?source=rss
+
+398: DevOops | https://blog.codepen.io/2023/01/25/398-devoops/
+
+Musk Sues OpenAI for Breach of Trust | https://hackernoon.com/musk-sues-openai-for-breach-of-trust?source=rss
+
+CSS Olympic Rings | https://css-tricks.com/css-olympic-rings/
+
+How does ChatGPT generate human-like text? | https://dev.to/giridharans1729/how-does-chatgpt-generate-human-like-text-46km
+
+Learn TypeScript – A Comprehensive Guide for Beginners | https://www.freecodecamp.org/news/typescript-for-beginners-guide/
+
+Chris’ Corner: Variables | https://blog.codepen.io/2024/07/29/chris-corner-variables/
+
+Google vs Bing vs Yahoo: The Search Engine Competition | https://hackernoon.com/google-vs-bing-vs-yahoo-the-search-engine-competition?source=rss
+
+React Email | https://blog.codepen.io/2023/03/24/react-email/
+
+Build a Dice Roll Simulator | https://dev.to/abhishekgurjar/build-a-dice-roll-simulator-3jd2
+
+How Java HashMaps Work – Internal Mechanics Explained | https://www.freecodecamp.org/news/how-java-hashmaps-work-internal-mechanics-explained/
+
+How to Build a Rocket Control System: Basic Control Theory with Python | https://www.freecodecamp.org/news/basic-control-theory-with-python/
+
+Chris’ Corner: Performance is Good for Brains | https://blog.codepen.io/2024/03/04/chris-corner-performance-is-good-for-brains/
+
+HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! | https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/
+
+400: Hiatus | https://blog.codepen.io/2023/02/08/400-hiatus/
+
+Chris’ Corner: Even More SVG Tricks | https://blog.codepen.io/2023/08/28/chris-corner-even-more-svg-tricks/
+
+Chris Corner: Platforms and Tools | https://blog.codepen.io/2024/05/13/chris-corner-platforms-and-tools/
+
+Chris’ Corner: Esoteric Stuff in CSS | https://blog.codepen.io/2024/06/24/chris-corner-esoteric-stuff-in-css/
+
+Classless CSS library Almond.css | https://blog.codepen.io/2023/02/23/classless-css-library-almond-css/
+
+Chris’ Corner: Some AdviCSS | https://blog.codepen.io/2024/02/26/chris-corner-some-advicss/
+
+Musk sues Sam Altman for Fraud | https://hackernoon.com/musk-sues-sam-altman-for-fraud?source=rss
+
+How Does Google Make Money: Search Ads and Text Ads Explained | https://hackernoon.com/how-does-google-make-money-search-ads-and-text-ads-explained?source=rss
+
+Chris’ Corner: Type | https://blog.codepen.io/2024/01/22/chris-corner-type/
+
+393: Challenges in 2022 | https://blog.codepen.io/2022/12/07/393-challenges-in-2022/
+
+CSS One-Liners to Improve (Almost) Every Project | https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/
+
+Angular: Framework für Single Page Applications🌐 | https://dev.to/disane/angular-framework-fur-single-page-applications-ha3
+
+Pivoting to Programming | https://dev.to/neffcodes/pivoting-to-programming-4eh5
+
+Chris’ Corner: Portals, Pages, Potential Polyfills, and the Pretty Reasonable | https://blog.codepen.io/2023/02/16/chris-corner-portals-pages-potential-polyfills-and-the-pretty-reasonable/
+
+394: Very Remote Work | https://blog.codepen.io/2022/12/14/394-very-remote-work/
+
+Chris Corner: The Tao of Demos¹ | https://blog.codepen.io/2023/08/21/chris-corner-the-tao-of-demos%c2%b9/
+
+CSS Functions and Mixins Module Notes | https://css-tricks.com/css-functions-and-mixins-module-notes/
+
+Everybody’s Free (To Write Websites) | https://css-tricks.com/sara-joy-everybodys-free-to-write-websites/
+
+Let’s make a simpler, more accessible web | https://css-tricks.com/christian-heilmann-lets-make-a-simpler-more-accessible-web/
+
+Chris Corner: Unusual Ideas with Great Results | https://blog.codepen.io/2024/05/06/chris-corner-unusual-ideas-with-great-results/
+
+A Nationwide Drive Time Matrix Between U.S. ZIP Code Areas: Abstract and Introduction | https://hackernoon.com/a-nationwide-drive-time-matrix-between-us-zip-code-areas-abstract-and-introduction?source=rss
+
+Create a PC game using JavaScript | https://www.freecodecamp.org/news/create-a-pc-game-using-javascript/
+
+Chris’ Corner: A Variety of Ways to Fail | https://blog.codepen.io/2024/06/03/chris-corner-a-variety-of-ways-to-fail/
+
+Chris’ Corner: Let’s Talk Web Components | https://blog.codepen.io/2023/05/15/chris-corner-lets-talk-web-components/
+
+Chris’ Corner: Clever CSS Ideas & Explanations | https://blog.codepen.io/2023/07/31/chris-corner-clever-css-ideas-explanations/
+
+It’s Time To Talk About “CSS5” | https://css-tricks.com/its-time-to-talk-about-css5/
+
+Chris’ Corner: More Like Scalable Vector Goodness | https://blog.codepen.io/2024/02/12/chris-corner-more-like-scalable-vector-goodness/
+
+397: User-Generated Content Saftey | https://blog.codepen.io/2023/01/18/397-user-generated-content-saftey/
+
+Chris’ Corner: Hard Things | https://blog.codepen.io/2024/04/01/chris-corner-hard-things/
+
+Chris’ Corner: Web Components Don’t Need You | https://blog.codepen.io/2023/09/04/chris-corner-web-components-dont-need-you/
+
+Chris’ Corner: Buttons, Modes, and a Couple of Layout Situations That Are Still a Bit Tricky | https://blog.codepen.io/2023/11/06/chris-corner-buttons-modes-and-a-couple-of-layout-situations-that-are-still-a-bit-tricky/
+
+391: Early TypeScript at CodePen | https://blog.codepen.io/2022/11/23/391-early-typescript-at-codepen/
+
+Musk Seeks Damages for Breach of Implied Partnership with OpenAI | https://hackernoon.com/musk-seeks-damages-for-breach-of-implied-partnership-with-openai?source=rss
+
+Chris’ Corner: Good & Useful Ideas | https://blog.codepen.io/2023/11/27/chris-corner-good-useful-ideas/
+
+Chris’ Corner: Relatively Recent Great CSS Writing | https://blog.codepen.io/2023/01/18/chris-corner-relatively-recent-great-css-writing/
+
+Chris’ Corner: Debugging & Tech Video Getting Shorter | https://blog.codepen.io/2023/01/02/chris-corner-debugging-tech-video-getting-shorter/
+
+Chris’ Corner: Variations on What Not to Do | https://blog.codepen.io/2023/09/11/chris-corner-variations-on-what-not-to-do/
+
+Chris’ Corner: Hot New Web Features | https://blog.codepen.io/2023/07/24/chris-corner-hot-new-web-features/
+
+Chris’ Corner: Complexity | https://blog.codepen.io/2023/07/10/chris-corner-complexity/
+
+Chris’ Corner: Scoping | https://blog.codepen.io/2023/06/05/chris-corner-scoping/
+
+Chris’ Corner: More Like Hypography | https://blog.codepen.io/2023/03/06/chris-corner-more-like-hypography/
+
+Chris’ Corner: Switch | https://blog.codepen.io/2024/01/08/chris-corner-switch/
+
+Chris’ Corner: Monaspace | https://blog.codepen.io/2023/11/20/chris-corner-monaspace/
+
+Chris’ Corner: Naming, Tiles, and Simplicity | https://blog.codepen.io/2023/10/16/chris-corner-naming-tiles-and-simplicity/
+
+Chris’ Corner: Subgrid | https://blog.codepen.io/2023/09/18/chris-corner-subgrid/
+
+Move An Element from Any Website to CodePen | https://blog.codepen.io/2022/12/13/move-an-element-from-any-website-to-codepen/
+
+The Complex Road From P to NP: The Magic of the Solution Space | https://hackernoon.com/the-complex-road-from-p-to-np-the-magic-of-the-solution-space?source=rss
+
+Rive | https://blog.codepen.io/2023/01/24/rive/
+
+Where You Can Still Get A Book Apart Titles | https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/
+
+396: Open Source | https://blog.codepen.io/2023/01/11/396-open-source/
+
+HashKey Capital To Host Decode: Legacy, The World’s First Crypto-Themed Immersive Theatre Experience | https://hackernoon.com/hashkey-capital-to-host-decode-legacy-the-worlds-first-crypto-themed-immersive-theatre-experience?source=rss
+
+CSS Chronicles XLII | https://css-tricks.com/css-chronicles-xlii/
+
+CSS Stuff I’m Excited After the Last CSSWG Meeting | https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/
+
