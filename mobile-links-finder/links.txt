@@ -1,0 +1,138 @@
+Prepare your app for the new Samsung Galaxy foldables and watches! | http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html
+
+Top 3 Updates for Building Excellent Apps at Google I/O ‘24 | http://android-developers.googleblog.com/2024/05/top-3-updates-for-building-excellent-apps-at-google-io-2024.html
+
+Convert Your Native Project to Kotlin Multiplatform — Developer’s Guide | https://proandroiddev.com/convert-your-native-project-to-kotlin-multiplatform-developers-guide-bce1ae20bd32?source=rss----c72404660798---4
+
+The importance of a game design document & how to create one – part 1 | https://blog.theknightsofunity.com/the-importance-of-a-game-design-document-how-to-create-one-part-1/
+
+Top 3 Updates with Compose across Form Factors at Google I/O '24 | http://android-developers.googleblog.com/2024/06/top-3-updates-around-compose-across-form-factors-google-io.html
+
+===
+
+
+Database System in Unity using Resources and ScriptableObjects | https://blog.theknightsofunity.com/database-system-in-unity-using-resources-and-scriptableobjects/
+
+Create Scene Thumbnail Image using OnSceneSaved & OnPreviewGUI | https://unitycoder.com/blog/2024/04/07/create-scene-thumbnail-image-using-onscenesaved-onpreviewgui/
+
+Using 3D gameobject prefabs with Unity Tilemap + NavMesh Surface | https://unitycoder.com/blog/2024/03/09/using-3d-gameobjects-with-unity-tilemap-navmesh-surface/
+
+
+New ways of optimizing stability in Jetpack Compose | https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4
+
+Top 3 Updates for Building with AI on Android at Google I/O ‘24 | http://android-developers.googleblog.com/2024/06/top-3-updates-for-building-with-ai-on-android-google-io-24.html
+
+#WeArePlay | 4 stories of founders building apps for the LGBTQIA+ community | http://android-developers.googleblog.com/2024/06/weareplay-founders-building-apps-for-lgbtqia-community.html
+
+Composing Suspend Functions | https://proandroiddev.com/composing-suspend-functions-a4ad61703442?source=rss----c72404660798---4
+
+Building Jetcaster on all Form Factors | https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4
+
+Making security easy: How we are helping you fix vulnerabilities in your Android apps | http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html
+
+Now in Android #108 | https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4
+
+Precise Intent Resolution -Android 15 | https://proandroiddev.com/precise-intent-resolution-android-15-735cbf39b2a7?source=rss----c72404660798---4
+
+
+Little Racer – Design | https://blog.theknightsofunity.com/little-racer-design/
+
+The Fourth Beta of Android 15 | http://android-developers.googleblog.com/2024/07/the-fourth-beta-of-android-15.html
+
+Lifetime Value | https://blog.theknightsofunity.com/lifetime-value/
+
+3 fun experiments to try for your next Android app, using Google AI Studio | http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html
+
+Developers for adidas CONFIRMED build features 30% faster using Jetpack Compose | http://android-developers.googleblog.com/2024/06/developers-for-adidas-confirmed-build-features-faster-using-jetpack-compose.html
+
+Now in Android #107 | https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4
+
+Use TikTok-TTS in Unity (with WebRequest) | https://unitycoder.com/blog/2024/04/24/use-tiktok-tts-in-unity-with-webrequest/
+
+UnityHub: Make Hub application background Translucent | https://unitycoder.com/blog/2024/07/05/unityhub-make-hub-application-background-translucent/
+
+How to Provide Accessibility in your Android App | Part 4: List, Link Semantics and Testing | https://proandroiddev.com/how-to-provide-accessibility-in-your-android-app-part-4-list-link-semantics-and-testing-f5a4ca5e8f6b?source=rss----c72404660798---4
+
+Now in Android #104 | https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4
+
+Android for Cars: Bringing more apps to cars | http://android-developers.googleblog.com/2024/05/android-for-cars-bringing-more-apps-to-cars.html
+
+The best way to load data in ViewModels | https://proandroiddev.com/the-best-way-to-load-data-in-viewmodels-a112ced54e07?source=rss----c72404660798---4
+
+Android App Bars vs Toolbars vs Other Bars, Explained | https://proandroiddev.com/android-app-bars-vs-toolbars-vs-other-bars-explained-c2a8a4ba8fa8?source=rss----c72404660798---4
+
+Little Racer – General and Development | https://blog.theknightsofunity.com/little-racer-general-and-development/
+
+Android Device Streaming, powered by Firebase, is now in Beta | http://android-developers.googleblog.com/2024/06/android-device-streaming-powered-by-firebse-now-in-beta.html
+
+Practical Use of Render Textures | https://blog.theknightsofunity.com/practical-use-of-render-textures/
+
+webgl+javascript TTS | https://unitycoder.com/blog/2024/03/18/webgljavascript-tts/
+
+Home APIs: Enabling all developers to build for the home | http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html
+
+UnityHub: Enable built-in Login Dialog (no more browser login/logout issues!) | https://unitycoder.com/blog/2024/04/26/unityhub-enable-builtin-login-dialog-no-more-browser-login-logout-issues/
+
+Enabling safe AI experiences on Google Play | http://android-developers.googleblog.com/2024/06/enabling-safe-ai-experiences.html
+
+Using Moonsharp (LUA) + Unity Webgl | https://unitycoder.com/blog/2024/03/13/using-moonsharp-lua-unity-webgl/
+
+MutableState or MutableStateFlow: A Perspective On What To Use In Jetpack Compose | https://proandroiddev.com/mutablestate-or-mutablestateflow-a-perspective-on-what-to-use-in-jetpack-compose-ccec0af7abbf?source=rss----c72404660798---4
+
+Editor tool: Copy selected gameobject’s names into clipboard as rows (for Excel) | https://unitycoder.com/blog/2024/05/17/editor-tool-copy-selected-gameobjects-names-into-clipboard-as-rows-for-excel/
+
+#WeArePlay | How Zülal is using AI to help people with low vision | http://android-developers.googleblog.com/2024/06/weareplay-how-zulal-is-using-ai-to-help-people-with-low-vision.html
+
+
+Material3 PullToRefresh for Jetpack Compose | https://proandroiddev.com/material3-pulltorefresh-for-jetpack-compose-ebce277b9bca?source=rss----c72404660798---4
+
+Fast and easy way to modify HTTP response for your application | https://proandroiddev.com/fast-and-easy-way-to-modify-http-response-for-your-application-4efbef997188?source=rss----c72404660798---4
+
+Now in Android #106 | https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4
+
+#WeArePlay | Meet the people creating apps and games in Australia | http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html
+
+Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs | http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html
+
+Stop throwing exceptions! | https://proandroiddev.com/stop-throwing-exceptions-4282c8472027?source=rss----c72404660798---4
+
+3 must-know updates from Google Play at I/O '24 | http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html
+
+Customize SpriteShapeRenderer quality (but has issues) | https://unitycoder.com/blog/2024/05/26/customize-spriteshaperenderer-quality-but-has-issues/
+
+
+Max implemented UI changes 30% faster using Jetpack Compose | http://android-developers.googleblog.com/2024/06/max-implemented-ui-changes-faster-using-jetpack-compose.html
+
+Hyper Casuals in Gaming Industry | https://blog.theknightsofunity.com/hyper-casuals-in-gaming-industry/
+
+Little Racer – 3D Art | https://blog.theknightsofunity.com/little-racer-3d-art/
+
+The importance of a game design document & how to create one – part 2 | https://blog.theknightsofunity.com/the-importance-of-a-game-design-document-how-to-create-one-part-2/
+
+Introducing Collections, a new on-device surface for your content | http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html
+
+A Developer’s Roadmap to Predictive Back (Views) | http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html
+
+#WeArePlay | 153 new stories from people creating apps and games in the U.S. | http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html
+
+Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements | https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26?source=rss----95b274b437c2---4
+
+
+#WeArePlay | How Jakub is infusing Czech mythology into his games | http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html
+
+Efficient Render Passes — On Tile-Based Rendering Hardware | https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4
+
+Editor tool: Replace string in selected gameobject’s names | https://unitycoder.com/blog/2024/05/17/editor-tool-replace-string-in-selected-gameobjects-names/
+
+Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware | https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4
+
+The Third Beta of Android 15 | http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html
+
+Pathfinding on a hexagonal grid – A* Algorithm | https://blog.theknightsofunity.com/pathfinding-on-a-hexagonal-grid-a-algorithm/
+
+Everything you need to know about Google TV and Android TV OS | http://android-developers.googleblog.com/2024/05/android-14-and-compose-on-tv.html
+
+Navigation Compose meet Type Safety | https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8?source=rss----95b274b437c2---4
+
+Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more | http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html
+

@@ -1,7 +1,6 @@
 import feedparser
 import random
 
-# make an array of the top 2- developer blogs and their rss feeds
 blogs = [
     {
         "name": "Dev.to",
