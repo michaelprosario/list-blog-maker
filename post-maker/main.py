@@ -57,7 +57,12 @@ def getPostDataFromUrl(url):
     response = model.generate_content(url)
     return response.text
 
-urls = ['https://innovativeteams.net/librechat-ai-privacy-focused-client-to-your-favorite-llm-tools/']
+urls = [
+'https://innovativeteams.net/librechat-ai-privacy-focused-client-to-your-favorite-llm-tools/'
+'https://dev.to/crisclacerda/continuous-delivery-is-killing-software-quality-2kpl',
+'https://dev.to/kartikmehta8/advanced-css-animations-1bo9',
+'https://dev.to/samkamuli/understanding-your-data-the-essentials-of-exploratory-data-analysis-35g'
+]
 posts = buildPosts(urls)
 #print(posts)
 renderBlogs(posts, 'template.md', 'output.md')

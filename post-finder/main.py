@@ -55,6 +55,16 @@ def getWebDevBlogs():
     
     return blogs
 
+def getWebDevBlogs2():
+    blogs = [
+        {
+            "name": "Dev.to",
+            "rss_feed": "https://dev.to/feed"
+        },
+    ]
+    
+    return blogs
+
 def getAndroidDevBlogs():
     blogs = [
         {
@@ -86,7 +96,7 @@ def getAndroidDevBlogs():
     
     return blogs
 
-blogs = getWebDevBlogs()
+blogs = getWebDevBlogs2()
 
 # create function to blog posts from a rss feed
 def get_blog_posts(rss_feed):    
