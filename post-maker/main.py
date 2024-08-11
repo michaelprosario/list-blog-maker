@@ -19,7 +19,7 @@ model = genai.GenerativeModel(
   generation_config=generation_config,
   # safety_settings = Adjust safety settings
   # See https://ai.google.dev/gemini-api/docs/safety-settings
-  system_instruction="Extract the following data from the input.  Return data json.  Return the following.\n- title: title of the web page\n- summary: summary should be limited to 3 sentences\n- tags: recommended hash tags based on summary\n- blogName: blog name",
+  system_instruction="Extract the following data from the input.  Return data json.  Return the following.\n- title: title of the web page\n- summary: summary should be limited to 4 sentences\n- tags: recommended hash tags based on summary\n- blogName: blog name",
 )
 
 def buildPosts(urls):
