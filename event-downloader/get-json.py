@@ -1,7 +1,3 @@
-from jinja2 import Environment, FileSystemLoader
-import google.generativeai as genai
-import os
-import json
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -31,10 +27,6 @@ def extract_event_data(url):
         A dictionary containing the event name, date, time, and description.
     """
 
-    # using url remove https://www.meetup.com and assign to variable called meetup_name
-    meetup_name = url.split('/')[3]
-    print(meetup_name)
-
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -61,12 +53,11 @@ def extract_event_data(url):
     event_group_link_url = event_group_link['href']
 
     return {
-        'title': event_name,
+        'tile': event_name,
         'url': url,
         'date': event_date,
         'time': event_time,
-        'group_url': event_group_link_url,
-        'meetup_name': meetup_name
+        'group_url': event_group_link_url
     }
 
 def getMeetupGroupList():
@@ -81,25 +72,13 @@ def getMeetupGroupList():
         'https://www.meetup.com/orlandoaws',
         'https://www.meetup.com/orlando-ai-ml-study-group',
         'https://www.meetup.com/orlandojs',
-        'https://www.meetup.com/indienomicon',
-        'https://www.meetup.com/hacktivate',
-        'https://www.meetup.com/angularcommunity',
-        'https://www.meetup.com/Beginning-Web-Development',
-        'https://www.meetup.com/meetup-group-sklbvjas',
+        'https://www.meetup.com/indienomicon/?eventOrigin=home_page_groups_you_are_in',
+        'https://www.meetup.com/hacktivate/?eventOrigin=home_page_groups_you_are_in',
+        'https://www.meetup.com/angularcommunity/?eventOrigin=home_page_groups_you_are_in',
+        'https://www.meetup.com/Beginning-Web-Development/?eventOrigin=home_page_groups_you_are_in',
+        'https://www.meetup.com/meetup-group-sklbvjas/?eventOrigin=home_page_groups_you_are_in',
+        'https://www.meetup.com/GDG-Central-Florida/?eventOrigin=home_groups_you_organize'
     ]
-
-def renderBlogs(records, template, outputFile):
-    # Set up the Jinja2 environment and load the template
-    env = Environment(loader=FileSystemLoader('templates'))
-    template = env.get_template(template)
-
-    # Render the template with the blog posts
-    output = template.render(posts=records)
-
-    # Write the output to a file
-    with open(outputFile, 'w') as f:
-        f.write(output)
-
 
 if __name__ == '__main__':
     groupLinks = getMeetupGroupList()
@@ -109,6 +88,6 @@ if __name__ == '__main__':
         if first_event_url != '':
             event_data = extract_event_data(first_event_url)
             eventData.append(event_data)
-    renderBlogs(eventData, 'template.md', 'output.md')
-    
+
+    print(json.dumps(eventData, indent=2))
 
