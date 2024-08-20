@@ -46,11 +46,7 @@ def getWebDevBlogs():
         {
             "name": "CSS Tricks",
             "rss_feed": "https://css-tricks.com/feed"
-        },
-        {
-            "name": "Codepen",
-            "rss_feed": "https://blog.codepen.io/feed"
-        }   
+        }  
     ]
     
     return blogs
@@ -96,7 +92,7 @@ def getAndroidDevBlogs():
     
     return blogs
 
-blogs = getWebDevBlogs2()
+blogs = getAndroidDevBlogs()
 
 # create function to blog posts from a rss feed
 def get_blog_posts(rss_feed):    
