@@ -1,65 +1,110 @@
 import feedparser
 import random
 
-# make a list of blogs with their rss feeds related to gaming
-# put 5 blogs in the list
-def getGamingBlogs():
+
+def getBlogs():
     blogs = [
         {
-            "name": "Kotaku",
-            "rss_feed": "https://kotaku.com/rss"
+            "name": "InspiredToEducate.NET",
+            "rss_feed": "https://inspiredtoeducate.net/inspiredtoeducate/feed"
         },
         {
-            "name": "Rock Paper Shotgun",
-            "rss_feed": "https://www.rockpapershotgun.com/feed"
+            "name": "InnovativeTeams.NET",
+            "rss_feed": "https://InnovativeTeams.NET/feed"
         },
         {
-            "name": "Polygon",
-            "rss_feed": "https://www.polygon.com/rss/index.xml"
+            "name": "Google Developers Blog",
+            "rss_feed": "http://feeds.feedburner.com/GDBcode"
         },
         {
-            "name": "PC Gamer",
-            "rss_feed": "https://www.pcgamer.com/rss/"
+            "name": "The GitHub Blog",
+            "rss_feed": "https://github.blog/feed/"
         },
         {
-            "name": "Game Informer",
-            "rss_feed": "https://www.gameinformer.com/feed"
+            "name": "Smashing Magazine",
+            "rss_feed": "http://www.smashingmagazine.com/feed/"
+        },
+        {
+            "name": "web.dev: Blog",
+            "rss_feed": "https://web.dev/static/blog/feed.xml"
+        },
+        {
+            "name": "web.dev: Articles",
+            "rss_feed": "https://web.dev/static/articles/feed.xml"
+        },
+        {
+            "name": "SitePoint",
+            "rss_feed": "https://www.sitepoint.com/sitepoint.rss"
+        },
+        {
+            "name": "dev.to",
+            "rss_feed": "https://dev.to/feed"
+        },
+        {
+            "name": "MDN Blog",
+            "rss_feed": "https://developer.mozilla.org/en-US/blog/rss.xml"
+        },
+        {
+            "name": "ChangeLog",
+            "rss_feed": "https://changelog.com/feed"
+        },
+        {
+            "name": "Facebook Engineering blog",
+            "rss_feed": "https://engineering.fb.com/feed/"
+        },
+        {
+            "name": "InfoQ",
+            "rss_feed": "https://feed.infoq.com"
+        },
+        {
+            "name": "Martin Fowler",
+            "rss_feed": "https://martinfowler.com/feed.atom"
+        },
+        {
+            "name": "coolcatteacher.com",
+            "rss_feed": "https://www.coolcatteacher.com/feed/"
+        },
+        {
+            "name": "FLOSS Weekly",
+            "rss_feed": "https://feeds.twit.tv/floss.xml"
+        },
+        {
+            "name": "Coding Newbie",
+            "rss_feed": "http://feeds.codenewbie.org/cnpodcast.xml"
+        },
+        {
+            "name": "Leadership freak",
+            "rss_feed": "https://leadershipfreak.blog/feed"
+        },
+        {
+            "name": "VSCode Blog",
+            "rss_feed": "https://code.visualstudio.com/feed.xml"
+        },
+        {
+            "name": "Dzone",
+            "rss_feed": "https://feeds.dzone.com/javascript"
+        },
+        {
+            "name": "Google TechTalks",
+            "rss_feed": "https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks"
+        },
+        {
+            "name": "Facebook Engineering",
+            "rss_feed": "https://engineering.fb.com/feed/"
+        },
+        {
+            "name": "Coding Horror",
+            "rss_feed": "https://feeds.feedburner.com/codinghorror"
+        },
+        {
+            "name": "LinkedIn Engineering",
+            "rss_feed": "https://engineering.linkedin.com/blog.rss.html"
         }
-    ]
-    
+        ]
+
     return blogs
 
-def getWebDevBlogs():
-    blogs = [
-        {
-            "name": "Dev.to",
-            "rss_feed": "https://dev.to/feed"
-        },
-        {
-            "name": "Hacker Noon",
-            "rss_feed": "https://hackernoon.com/feed"
-        },
-        {
-            "name": "FreeCodeCamp",
-            "rss_feed": "https://www.freecodecamp.org/news/rss/"
-        },
-        {
-            "name": "CSS Tricks",
-            "rss_feed": "https://css-tricks.com/feed"
-        }  
-    ]
-    
-    return blogs
 
-def getWebDevBlogs2():
-    blogs = [
-        {
-            "name": "Dev.to",
-            "rss_feed": "https://dev.to/feed"
-        },
-    ]
-    
-    return blogs
 
 def getAndroidDevBlogs():
     blogs = [
@@ -92,7 +137,7 @@ def getAndroidDevBlogs():
     
     return blogs
 
-blogs = getAndroidDevBlogs()
+blogs = getBlogs()
 
 # create function to blog posts from a rss feed
 def get_blog_posts(rss_feed):    

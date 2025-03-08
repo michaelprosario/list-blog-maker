@@ -1,133 +1,1651 @@
 
 
+Introducing PaliGemma 2 mix: A vision-language model for multiple tasks | https://developers.googleblog.com/en/introducing-paligemma-2-mix/
 
 
-3 must-know updates from Google Play at I/O '24 | http://android-developers.googleblog.com/2024/06/3-must-know-updates-from-google-play-io-24.html
 
-Top 3 Updates for Building with AI on Android at Google I/O ‘24 | http://android-developers.googleblog.com/2024/06/top-3-updates-for-building-with-ai-on-android-google-io-24.html
 
-Multisampled Anti-aliasing For Almost Free — On Tile-Based Rendering Hardware | https://medium.com/androiddevelopers/multisampled-anti-aliasing-for-almost-free-on-tile-based-rendering-hardware-21794c479cb9?source=rss----95b274b437c2---4
 
-Editor tool: Copy selected gameobject’s names into clipboard as rows (for Excel) | https://unitycoder.com/blog/2024/05/17/editor-tool-copy-selected-gameobjects-names-into-clipboard-as-rows-for-excel/
 
-Enabling safe AI experiences on Google Play | http://android-developers.googleblog.com/2024/06/enabling-safe-ai-experiences.html
 
-Android App Bars vs Toolbars vs Other Bars, Explained | https://proandroiddev.com/android-app-bars-vs-toolbars-vs-other-bars-explained-c2a8a4ba8fa8?source=rss----c72404660798---4
 
-Now in Android #107 | https://medium.com/androiddevelopers/now-in-android-107-d334239c7c5b?source=rss----95b274b437c2---4
 
-The Fourth Beta of Android 15 | http://android-developers.googleblog.com/2024/07/the-fourth-beta-of-android-15.html
 
-#WeArePlay | How Zülal is using AI to help people with low vision | http://android-developers.googleblog.com/2024/06/weareplay-how-zulal-is-using-ai-to-help-people-with-low-vision.html
+How to Make a Simple JavaScript Quiz | https://www.sitepoint.com/simple-javascript-quiz/?utm_source=rss
 
-Android Internationalization / Localization: List Formatter in Android | https://proandroiddev.com/android-localization-list-formatter-in-android-05659d848a61?source=rss----c72404660798---4
 
-Prepare your app for the new Samsung Galaxy foldables and watches! | http://android-developers.googleblog.com/2024/07/updates-samsung-galaxy-unpacked.html
 
-Top 3 Updates with Compose across Form Factors at Google I/O '24 | http://android-developers.googleblog.com/2024/06/top-3-updates-around-compose-across-form-factors-google-io.html
 
-Indie Games Fund: Google Play’s $2m fund in Latin America is back | http://android-developers.googleblog.com/2024/08/indie-games-fund-google-plays-2m-fund-in-latin-america-is-back.html
 
-Efficient Render Passes — On Tile-Based Rendering Hardware | https://medium.com/androiddevelopers/efficient-render-passes-on-tile-based-rendering-hardware-621070158e40?source=rss----95b274b437c2---4
+FLOSS Weekly 746: Don't Hesitate, Enculturate! - Claude Warren Jr, Open Source Culture | https://twit.tv/shows/floss-weekly/episodes/746
 
-KMPNotifier Update: Web, Desktop, and New Features for Kotlin Multiplatform Notifications | https://proandroiddev.com/kmpnotifier-update-web-desktop-and-new-features-for-kotlin-multiplatform-notifications-529b489f5d9c?source=rss----c72404660798---4
+S23:E3 - Saying Yes to Opportunities (Frankie Nicoletti) | https://www.codenewbie.org/podcast/saying-yes-to-opportunities
 
-Hyper Casuals in Gaming Industry | https://blog.theknightsofunity.com/hyper-casuals-in-gaming-industry/
+Get back to school! Supercharge your learning with MDN and Scrimba | https://developer.mozilla.org/en-US/blog/mdn-scrimba-back2school/
 
-Top 3 Updates for Building Excellent Apps at Google I/O ‘24 | http://android-developers.googleblog.com/2024/05/top-3-updates-for-building-excellent-apps-at-google-io-2024.html
+Using Artificial Intelligence for Analysis of Automated Testing Results | https://www.infoq.com/news/2025/03/AI-analysis-automated-test/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 
-Little Racer – 3D Art | https://blog.theknightsofunity.com/little-racer-3d-art/
+S7:E8 - How do you build a great product? (Ryan Hoover) | https://www.codenewbie.org/podcast/how-do-you-build-a-great-product
 
-Using 3D gameobject prefabs with Unity Tilemap + NavMesh Surface | https://unitycoder.com/blog/2024/03/09/using-3d-gameobjects-with-unity-tilemap-navmesh-surface/
+S10:E4 - Building a personal brand early in your development career (Amy Chen) | https://www.codenewbie.org/podcast/the-benefits-of-building-a-personal-brand-early-in-your-development-career
 
-Pathfinding on a hexagonal grid – A* Algorithm | https://blog.theknightsofunity.com/pathfinding-on-a-hexagonal-grid-a-algorithm/
+S18:E7 - How a coding background can give you an edge in product management (Shruti Anand) | https://www.codenewbie.org/podcast/how-a-coding-background-can-give-you-an-edge-in-product-management
 
-Android Process Lifecycle + Coroutines == ❤ | https://proandroiddev.com/android-process-lifecycle-coroutines-7a8128470dd4?source=rss----c72404660798---4
+Border images in CSS: A key focus area for Interop 2023 | https://developer.mozilla.org/en-US/blog/border-images-interop-2023/
 
-webgl+javascript TTS | https://unitycoder.com/blog/2024/03/18/webgljavascript-tts/
+Ep. 31 - Girl Develop It (Corinne Warnshuis) | https://www.codenewbie.org/podcast/girl-develop-it
 
-Now in Android #106 | https://medium.com/androiddevelopers/now-in-android-106-1b72759c5f0c?source=rss----95b274b437c2---4
+S12:E4 - How no-code tools can help your coding (David Hoang) | https://www.codenewbie.org/podcast/how-no-code-tools-can-help-your-coding
 
-New ways of optimizing stability in Jetpack Compose | https://medium.com/androiddevelopers/new-ways-of-optimizing-stability-in-jetpack-compose-038106c283cc?source=rss----95b274b437c2---4
+Build AI-powered applications using OpenLLM and Vultr Cloud GPU | https://developer.mozilla.org/en-US/blog/build-ai-powered-apps-openllm-vultr-gpu/
 
-Create exceptional experiences on Pixel’s new watches and foldables | http://android-developers.googleblog.com/2024/08/create-exceptional-experiences-pixel-new-watches-and-foldables.html
+FLOSS Weekly 734: Organic Maps - Roman Tsisyk, Organic Maps | https://twit.tv/shows/floss-weekly/episodes/734
 
-Building Jetcaster on all Form Factors | https://medium.com/androiddevelopers/building-jetcaster-on-all-form-factors-8e3418eeac13?source=rss----95b274b437c2---4
+MDN doc updates: CSS selectors & media queries, WebGPU & WebTransport APIs, Progressive web apps | https://developer.mozilla.org/en-US/blog/mdn-docs-june-2023/
 
-Developers for adidas CONFIRMED build features 30% faster using Jetpack Compose | http://android-developers.googleblog.com/2024/06/developers-for-adidas-confirmed-build-features-faster-using-jetpack-compose.html
+Top 7 High-Paying Affiliate Programs for Developers and Content Creators | https://www.sitepoint.com/high-paying-affiliate-programs-for-developers/?utm_source=rss
 
-Practical Use of Render Textures | https://blog.theknightsofunity.com/practical-use-of-render-textures/
+Assessing the results of using the Strangler Fig on a Mobile App | https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results
 
-Little Racer – General and Development | https://blog.theknightsofunity.com/little-racer-general-and-development/
+Alternatives To Typical Technical Illustrations And Data Visualisations | https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/
 
-Max implemented UI changes 30% faster using Jetpack Compose | http://android-developers.googleblog.com/2024/06/max-implemented-ui-changes-faster-using-jetpack-compose.html
+How to Shorten the Line at the Principal’s Office | https://www.coolcatteacher.com/e881/
 
-MutableState or MutableStateFlow: A Perspective On What To Use In Jetpack Compose | https://proandroiddev.com/mutablestate-or-mutablestateflow-a-perspective-on-what-to-use-in-jetpack-compose-ccec0af7abbf?source=rss----c72404660798---4
+Designing Data Products: next steps | https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe
 
-A Developer’s Roadmap to Predictive Back (Views) | http://android-developers.googleblog.com/2024/05/a-developers-roadmap-to-predictive-back.html
+Fostering open source culture | https://changelog.com/podcast/628
 
-Google @ KotlinConf 2024: A Look Inside Multiplatform Development with KMP and more | http://android-developers.googleblog.com/2024/05/google-kotlinconf-2024-look-inside.html
+Ep. 117 - Diversity in Tech - Part II (Ashe Dryden) | https://www.codenewbie.org/podcast/diversity-in-tech-part-ii
 
-Customize SpriteShapeRenderer quality (but has issues) | https://unitycoder.com/blog/2024/05/26/customize-spriteshaperenderer-quality-but-has-issues/
+S27:E5 - Navigating the AI Evolution (Chelsea Kaufman) | https://www.codenewbie.org/podcast/navigating-the-ai-evolution
 
-Composing Suspend Functions | https://proandroiddev.com/composing-suspend-functions-a4ad61703442?source=rss----c72404660798---4
+Google AI Developers Community Spotlight Contest | https://developers.googleblog.com/en/google-ai-developers-community-spotlight-contest/
 
-UnityHub: Enable built-in Login Dialog (no more browser login/logout issues!) | https://unitycoder.com/blog/2024/04/26/unityhub-enable-builtin-login-dialog-no-more-browser-login-logout-issues/
+7 Reasons to Host a Teacher Work Sprint (And How to Do It) | https://www.coolcatteacher.com/teacher-work-sprint/
 
-Editor tool: Replace string in selected gameobject’s names | https://unitycoder.com/blog/2024/05/17/editor-tool-replace-string-in-selected-gameobjects-names/
+New JavaScript Set methods | https://developer.mozilla.org/en-US/blog/javascript-set-methods/
 
-Lifetime Value | https://blog.theknightsofunity.com/lifetime-value/
+Ep. 16 - Code Ghost (Jenn Schiffer) | https://www.codenewbie.org/podcast/code-ghost
 
-#WeArePlay | How Jakub is infusing Czech mythology into his games | http://android-developers.googleblog.com/2024/08/weareplay-how-jakub-is-infusing-czech-mythology-into-his-games.html
+Debug layout shifts | https://web.dev/articles/debug-layout-shifts?hl=en
 
-Home APIs: Enabling all developers to build for the home | http://android-developers.googleblog.com/2024/05/home-apis-enabling-all-developers-to-build-for-the-home.html
+Ep. 112 - Comedy and Code - Part II (Baratunde Thurston) | https://www.codenewbie.org/podcast/comedy-and-code-part-ii
 
-#WeArePlay | 153 new stories from people creating apps and games in the U.S. | http://android-developers.googleblog.com/2024/07/weareplay-stories-from-people-creating-apps-and-games-in-the-us.html
+How Top HR Agencies Build Trust Through Logo Designs | https://www.sitepoint.com/how-top-hr-agencies-build-trust-through-logo-designs/?utm_source=rss
 
-Little Racer – Design | https://blog.theknightsofunity.com/little-racer-design/
+S2:E5 - How to create an afro-futuristic virtual reality beauty salon (Carmen Aguilar y Wedge) | https://www.codenewbie.org/podcast/how-to-create-an-afro-futuristic-virtual-reality-beauty-salon
 
-Now in Android #104 | https://medium.com/androiddevelopers/now-in-android-104-ee3acabae7fe?source=rss----95b274b437c2---4
+S24:E4 - From Occupational Therapy to Code (Africa Mincey) | https://www.codenewbie.org/podcast/from-occupational-therapy-to-code-9bdf0aef-ccb2-423d-9084-da2623c253fc
 
-#WeArePlay | Meet the people creating apps and games in Australia | http://android-developers.googleblog.com/2024/06/weareplay-meet-people-creating-apps-and-games-australia.html
+Why You Don’t Need That New JavaScript Library | https://feeds.dzone.com/link/23564/16951173/why-you-dont-need-that-new-javascript-library
 
-Introducing Collections, a new on-device surface for your content | http://android-developers.googleblog.com/2024/07/introducing-collections-powered-by-engage-sdk.html
+Ep. 102 - My Very First App (Aurelian Sennett) | https://www.codenewbie.org/podcast/my-very-first-app
 
-Using Moonsharp (LUA) + Unity Webgl | https://unitycoder.com/blog/2024/03/13/using-moonsharp-lua-unity-webgl/
+Robust Distortion-free Watermarks for Language Models | https://www.youtube.com/watch?v=jkwUUAnCI_A
 
-Android Device Streaming: Announcing Early Access to Samsung, Xiaomi, and Oppo Device Labs | http://android-developers.googleblog.com/2024/08/android-device-streaming-announcing-early-access.html
+Best AI Programming Languages | https://www.sitepoint.com/best-programming-language-for-ai/?utm_source=rss
 
-The best way to load data in ViewModels | https://proandroiddev.com/the-best-way-to-load-data-in-viewmodels-a112ced54e07?source=rss----c72404660798---4
+8 AI Tips for Web Developers (and Their Careers) | https://www.sitepoint.com/ai-tips-for-web-developers-and-their-careers/?utm_source=rss
 
-Making security easy: How we are helping you fix vulnerabilities in your Android apps | http://android-developers.googleblog.com/2024/07/making-security-easy-vuln-remediation.html
+Ep. 44 - CSS Tricks (Chris Coyier) | https://www.codenewbie.org/podcast/css-tricks
 
-Android Device Streaming, powered by Firebase, is now in Beta | http://android-developers.googleblog.com/2024/06/android-device-streaming-powered-by-firebse-now-in-beta.html
+Ep. 50 - The Pragmatic Programmer Part I (Dave Thomas) | https://www.codenewbie.org/podcast/the-pragmatic-programmer-i
 
-UnityHub: Make Hub application background Translucent | https://unitycoder.com/blog/2024/07/05/unityhub-make-hub-application-background-translucent/
+State-of-the-art text embedding via the Gemini API | https://developers.googleblog.com/en/gemini-embedding-text-model-now-available-gemini-api/
 
-3 fun experiments to try for your next Android app, using Google AI Studio | http://android-developers.googleblog.com/2024/06/3-fun-experiments-to-try-for-your-next-android-app-using-google-ai-studio.html
+Interviewed by Book Overflow podcast on Refactoring | https://www.youtube.com/watch?v=CjCJ76oZXTE
 
-Use TikTok-TTS in Unity (with WebRequest) | https://unitycoder.com/blog/2024/04/24/use-tiktok-tts-in-unity-with-webrequest/
+An Introduction to Object Mutation in JavaScript | https://feeds.dzone.com/link/23564/16967095/an-introduction-to-object-mutation-in-javascript
 
+How Meta is translating its Java codebase to Kotlin | https://engineering.fb.com/2025/02/25/android/how-meta-is-translating-its-java-codebase-to-kotlin/
 
-Now in Android #108 | https://medium.com/androiddevelopers/now-in-android-108-42291f14ba37?source=rss----95b274b437c2---4
+FLOSS Weekly 723: Freedom to Fork - Open Source Communities & Democracy With Seth Frey | https://twit.tv/shows/floss-weekly/episodes/723
 
-Fast and easy way to modify HTTP response for your application | https://proandroiddev.com/fast-and-easy-way-to-modify-http-response-for-your-application-4efbef997188?source=rss----c72404660798---4
+Article: Virtual Panel: Increasing Engineering Productivity, Develop Software Fast and in a Sustainable Way | https://www.infoq.com/articles/virtual-panel-engineering-productivity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
 
-Navigation Compose meet Type Safety | https://medium.com/androiddevelopers/navigation-compose-meet-type-safety-e081fb3cf2f8?source=rss----95b274b437c2---4
+Ep. 106 - Open Sourcing Mental Health - Part II (Julia Nguyen) | https://www.codenewbie.org/podcast/open-sourcing-mental-health-part-ii
 
-The importance of a game design document & how to create one – part 2 | https://blog.theknightsofunity.com/the-importance-of-a-game-design-document-how-to-create-one-part-2/
+Kaizen! Pipely goes BAM | https://changelog.com/friends/82
 
-The importance of a game design document & how to create one – part 1 | https://blog.theknightsofunity.com/the-importance-of-a-game-design-document-how-to-create-one-part-1/
+Getting started with CSS container queries | https://developer.mozilla.org/en-US/blog/getting-started-with-css-container-queries/
 
-Forbidden Love of Preference and DataStore — Part 1 | https://proandroiddev.com/forbidden-love-of-preference-and-datastore-part-1-7770e8d98604?source=rss----c72404660798---4
+Ep. 62 - Hello Ruby (Linda Liukas) | https://www.codenewbie.org/podcast/hello-ruby
 
-How to Provide Accessibility in your Android App | Part 4: List, Link Semantics and Testing | https://proandroiddev.com/how-to-provide-accessibility-in-your-android-app-part-4-list-link-semantics-and-testing-f5a4ca5e8f6b?source=rss----c72404660798---4
+What Are the Most Common Security Measures to Implement in Cakephp Projects? | https://dev.to/jordankeurope/what-are-the-most-common-security-measures-to-implement-in-cakephp-projects-3gg1
 
-Create Scene Thumbnail Image using OnSceneSaved & OnPreviewGUI | https://unitycoder.com/blog/2024/04/07/create-scene-thumbnail-image-using-onscenesaved-onpreviewgui/
+S12:E9 - Introducing DevDiscuss (Penelope Phippen, Ben Halpern, Jess Lee) | https://www.codenewbie.org/podcast/introducing-devdiscuss-why-tech-s-deadnaming-problem-matters
 
-Tools and libraries to help your Wear OS app satisfy Google Play app quality requirements | https://medium.com/androiddevelopers/tools-and-libraries-to-help-your-wear-os-app-satisfy-google-play-app-quality-requirements-a4f061f18e26?source=rss----95b274b437c2---4
+How to draw any regular shape with just one JavaScript function | https://developer.mozilla.org/en-US/blog/javascript-shape-drawing-function/
 
-The Third Beta of Android 15 | http://android-developers.googleblog.com/2024/06/the-third-beta-of-android-15.html
+FLOSS Weekly 715: Lower Cloud Costs for Java - Bellsoft, Alpaquita Linux, Liberica JDK | https://twit.tv/shows/floss-weekly/episodes/715
 
-#WeArePlay | 4 stories of founders building apps for the LGBTQIA+ community | http://android-developers.googleblog.com/2024/06/weareplay-founders-building-apps-for-lgbtqia-community.html
+Building multimodal AI for Ray-Ban Meta glasses | https://engineering.fb.com/2025/03/04/virtual-reality/building-multimodal-ai-for-ray-ban-meta-glasses/
+
+There is no longer any such thing as Computer Security | https://blog.codinghorror.com/there-is-no-longer-any-such-thing-as-computer-security/
+
+Ep. 66 - Laboratoria (Mariana Costa) | https://www.codenewbie.org/podcast/laboratoria
+
+ruby-align is Baseline Newly available | https://web.dev/blog/baseline-ruby-align?hl=en
+
+Creating custom easing effects in CSS animations using the linear() function | https://developer.mozilla.org/en-US/blog/custom-easing-in-css-with-linear/
+
+S18:E3 - How you develop a CI/CD workflow (Victoria Lo) | https://www.codenewbie.org/podcast/how-you-develop-a-ci-cd-workflow
+
+S21:E2 - What your bootcamp isn't teaching you (Caitlyn Greffly) | https://www.codenewbie.org/podcast/what-your-bootcamp-isn-t-teaching-you
+
+S2:E6 - Who decides the future of CSS? (Jen Simmons) | https://www.codenewbie.org/podcast/who-decides-the-future-of-css
+
+FLOSS Weekly 753: Small Is Beautiful - Aral Balkan, Small Technology Foundation | https://twit.tv/shows/floss-weekly/episodes/753
+
+Designing data products: Working backwards from use cases | https://martinfowler.com/articles/designing-data-products.html
+
+How OWASP Helps You Secure Your Full-Stack Web Applications | https://smashingmagazine.com/2025/02/how-owasp-helps-secure-full-stack-web-applications/
+
+Tech is supposed to make our lives easier | https://changelog.com/news/131
+
+Psychology and UX: Decoding the Science Behind User Clicks | https://www.sitepoint.com/psychology-ux-user-click-science/?utm_source=rss
+
+Teaching Writing in an AI World: A Practical Guide | https://www.coolcatteacher.com/e880/
+
+7 Easy Ways to Make a Magento 2 Website Faster | https://www.sitepoint.com/make-magento-faster/?utm_source=rss
+
+S12:E7 - What it looks like to be a frontend developer for 20 years (Crysfel Villa) | https://www.codenewbie.org/podcast/what-it-looks-like-to-be-a-frontend-developer-for-20-years
+
+FLOSS Weekly 719: Let the Wiki Win! - Peter Kaminski, Decentralized vs Centralized, Massive Wiki | https://twit.tv/shows/floss-weekly/episodes/719
+
+Reflections on AI Explain: A postmortem | https://developer.mozilla.org/en-US/blog/ai-explain-postmortem/
+
+CalCam: Transforming Food Tracking with the Gemini API | https://developers.googleblog.com/en/calcam-transforming-food-tracking-with-the-gemini-api/
+
+Ep. 75 - Coding In Colombia (Juan Pablo Buriticá) | https://www.codenewbie.org/podcast/coding-in-columbia
+
+Orlando Dev Meetups for March | https://innovativeteams.net/orlando-dev-meetups-for-march/
+
+The state of homelab tech (2025) | https://changelog.com/friends/79
+
+S8:E7 - How do you transform your career? (Kanika Tolver) | https://www.codenewbie.org/podcast/how-do-you-transform-your-career
+
+Ep. 118 - Truck Driver (George Moore) | https://www.codenewbie.org/podcast/truck-driver
+
+Hash Functions: Bridging the Gap from Theory to Practice | https://www.youtube.com/watch?v=UyuAQctHnhE
+
+S2:E7 - How to get started in Augmented Reality (Molmol Kuo, Zach Lieberman) | https://www.codenewbie.org/podcast/how-to-get-started-in-augmented-reality
+
+Build the future of home with Google Home APIs | https://developers.googleblog.com/en/build-the-future-of-home-with-google-home-apis/
+
+Ep. 100 - Creating CodeNewbie () | https://www.codenewbie.org/podcast/creating-codenewbie
+
+Cloud Native: How Ampere Is Improving Nightly Arm64 Builds | https://www.sitepoint.com/cloud-native-how-ampere-is-improving-nightly-arm64-builds/?utm_source=rss
+
+S6:E3 - What’s it like to code for NASA? (Jesslyn Tannady) | https://www.codenewbie.org/podcast/what-s-it-like-to-code-for-nasa
+
+New functions, gradients, and hues in CSS colors (Level 4) | https://developer.mozilla.org/en-US/blog/css-color-module-level-4/
+
+A beginner’s guide to Retrieval-Augmented Generation (RAG) | https://www.sitepoint.com/beginners-guide-to-retrieval-augmented-generation-rag/?utm_source=rss
+
+Exploring Gen AI: Copilot's new multi-file editing | https://martinfowler.com/articles/exploring-gen-ai.html#memo-11
+
+Thread-Safety Pitfalls in XML Processing | https://feeds.dzone.com/link/23564/16973092/thread-safety-pitfalls-in-xml-processing
+
+Your Ultimate Guide to VS Code Day 2024 | https://code.visualstudio.com/blogs/2024/04/15/vscode-day
+
+Stay Gold, America | https://blog.codinghorror.com/stay-gold-america/
+
+Comprehensive Guide to New Relic Metrics: Application & Infrastructure Monitoring | https://dev.to/devcorner/comprehensive-guide-to-new-relic-metrics-application-infrastructure-monitoring-516g
+
+S26:E7 - Thoughts on Degrees and Bootcamps (Johnny Proano) | https://www.codenewbie.org/podcast/thoughts-on-degrees-and-bootcamps
+
+Warehouse Woes | https://dev.to/rmion/warehouse-woes-41i0
+
+Prompt Ideas for Requirements Development | https://innovativeteams.net/prompt-ideas-for-requirements-development/
+
+Mozart to Megadeath at CHRP | https://changelog.com/practicalai/300
+
+S13:E1 - How live coding can level up your development (Jesse Weigel) | https://www.codenewbie.org/podcast/how-live-coding-can-level-up-your-development
+
+Ep. 108 - Tech Internships (Dara Oke) | https://www.codenewbie.org/podcast/tech-internships
+
+S22:E5 - Bonus: How should we handle failure?  (Compiler) | https://www.codenewbie.org/podcast/bonus-how-should-we-handle-failure
+
+How To Fix Largest Contentful Issues With Subpart Analysis | https://smashingmagazine.com/2025/03/how-fix-largest-contentful-issues-subpart-analysis/
+
+Looking back at our Bug Bounty program in 2024 | https://engineering.fb.com/2025/02/13/security/looking-back-at-our-bug-bounty-program-in-2024/
+
+S12:E1 - What is vanilla JS and how can it help you  (Chris Ferdinandi) | https://www.codenewbie.org/podcast/what-is-vanilla-js-and-how-can-it-help-you
+
+AI is stifling tech adoption | https://changelog.com/news/132
+
+Tips for Freelancers Looking to Maximize Passive Income Streams | https://www.sitepoint.com/tips-for-freelancers-passive-income-streams/?utm_source=rss
+
+That's Go Time! | https://changelog.com/gotime/340
+
+S18:E9 - DevNews: Potential Effects of a Cyberwar Between Russia and Ukraine, a Coding Bootcamp Stands Strong In Afghanistan, and More (Josh Puetz, Jamshid Hashimi, Hector X. Monsegur) | https://www.codenewbie.org/podcast/devnews-potential-effects-of-a-cyberwar-between-russia-and-ukraine-a-coding-bootcamp-stands-strong-in-afghanistan-and-more
+
+Orlando Tech Meetup Update – 9/19 | https://innovativeteams.net/orlando-tech-meetup-update-9-19/
+
+Full-duplex, real-time dialogue with Kyutai | https://changelog.com/practicalai/298
+
+Bundle Up And Save On Smashing Books And Workshops | https://smashingmagazine.com/2024/11/bundle-up-and-save/
+
+S24:E2 - Understanding and Supporting Neurodivergence in Tech (Frankie Nicoletti) | https://www.codenewbie.org/podcast/understanding-and-supporting-neurodivergence-in-tech
+
+Leveraging Progressive Web Apps (PWAs) for Enhanced Mobile User Engagement | https://www.sitepoint.com/pwa-mobile-user-engagement/?utm_source=rss
+
+Ep. 123 - Rails Girls Summer of Code (Laura Gaetano) | https://www.codenewbie.org/podcast/rails-girls-summer-of-code
+
+Presentation: Powering User Experiences with Streaming Dataflow | https://www.infoq.com/presentations/readyset-dataflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+Hack Club takes to the High Seas | https://changelog.com/podcast/620
+
+Using WebAssembly for Extension Development | https://code.visualstudio.com/blogs/2024/05/08/wasm
+
+How to Build Lightning Fast Surveys with Next.js and SurveyJS | https://www.sitepoint.com/nextjs-surveyjs-lightning-fast-surveys/?utm_source=rss
+
+Interop 2025: another year of web platform improvements | https://web.dev/blog/interop-2025?hl=en
+
+Using Containers to move from Local to Remote Development | https://code.visualstudio.com/blogs/2022/04/04/increase-productivity-with-containers
+
+State of the "log" 2024 | https://changelog.com/friends/74
+
+S17:E1 - What is Linux and when is it right for you? (Courtney Wilburn) | https://www.codenewbie.org/podcast/what-is-linux-and-when-is-it-right-for-you
+
+FLOSS Weekly 741: This Is the F-Droid You're Looking For - Hans-Christoph Steiner, F-Droid | https://twit.tv/shows/floss-weekly/episodes/741
+
+Ep. 122 - The Ethics of Coding (Bill Sourour) | https://www.codenewbie.org/podcast/the-ethics-of-coding
+
+S27:E4 - Living the Dream with AI (Rob Frelow) | https://www.codenewbie.org/podcast/living-the-dream-with-ai
+
+S11:E5 - Why defining your narrative arc is important to getting hired (Caitlin Cooke) | https://www.codenewbie.org/podcast/why-defining-your-narrative-arc-is-important-to-getting-hired
+
+Beyond the Chatbot: Agentic AI with Gemma | https://developers.googleblog.com/en/beyond-the-chatbot-agentic-ai-with-gemma/
+
+How :not() chains multiple selectors | https://developer.mozilla.org/en-US/blog/css-not-pseudo-multiple-selectors/
+
+On-Device AI: Building Smarter, Faster, And Private Applications | https://smashingmagazine.com/2025/01/on-device-ai-building-smarter-faster-private-applications/
+
+Lift-off: The MDN Curriculum launch | https://developer.mozilla.org/en-US/blog/mdn-curriculum-launch/
+
+Best Programming Languages for Game Development | https://www.sitepoint.com/best-programming-language-for-game-development/?utm_source=rss
+
+Supply Chain Security with Go | https://www.youtube.com/watch?v=ORVzCcX0gzE
+
+How to Apply CSS3 Transforms to Background Images | https://www.sitepoint.com/css3-transform-background-image/?utm_source=rss
+
+Introducing Baseline: a unified view of stable web features | https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/
+
+Ep. 128 - Progressive Coders Network (Rapi Castillo) | https://www.codenewbie.org/podcast/progressive-coders-network
+
+Create a Toggle Switch in React as a Reusable Component | https://www.sitepoint.com/react-toggle-switch-reusable-component/?utm_source=rss
+
+S16:E4 - Which back-end should I use as a front-end developer ( Lee Robinson) | https://www.codenewbie.org/podcast/which-back-end-should-i-use-as-a-front-end-developer
+
+Ep. 111 - Comedy and Code - Part I (Baratunde Thurston) | https://www.codenewbie.org/podcast/comedy-and-code-part-i
+
+Ep. 146 - Codeland - Mentorship, Technical Blogging, and Open Source Talks from Katrina Owen, Quincy Larson, and Nell Shamrell-Harrington (Katrina Owen, Quincy Larson, Nell Shamrell-Harrington) | https://www.codenewbie.org/podcast/codeland-mentorship-technical-blogging-and-open-source-talks-from-katrina-owen-quincy-larson-and-nell-shamrell-harrington
+
+Get ready for Google I/O May 20-21 | https://developers.googleblog.com/en/get-ready-for-google-io-2025/
+
+Ep. 74 - Startup Box (Majora Carter) | https://www.codenewbie.org/podcast/startup-box
+
+🚀 Celebrating the WeCoded Challenge with Code! 🎉 | https://dev.to/hanzla-baig/celebrating-the-wecoded-challenge-with-code-2ohi
+
+Advanced Web Deployment With Plesk on Vultr | https://www.sitepoint.com/web-deployment-with-plesk-on-vultr/?utm_source=rss
+
+Ep. 59 - The GitHub Nomad (John Britton) | https://www.codenewbie.org/podcast/the-github-nomad
+
+Navigating The Challenges Of Modern Open-Source Authoring: Lessons Learned | https://smashingmagazine.com/2025/01/navigating-challenges-modern-open-source-authoring/
+
+Ep. 64 - Write Speak Code (Rebecca Miller Webster) | https://www.codenewbie.org/podcast/write-speak-code
+
+New Tools. Old Complaints. Why AI Won’t Kill Education or Fix it | https://www.coolcatteacher.com/artificial-intelligence-in-schools/
+
+Look Closer, Inspiration Lies Everywhere (February 2025 Wallpapers Edition) | https://smashingmagazine.com/2025/01/desktop-wallpaper-calendars-february-2025/
+
+Cloudways Autonomous: Fully-Managed Scalable WordPress Hosting | https://www.sitepoint.com/cloudways-autonomous-fully-managed-scalable-wordpress-hosting/?utm_source=rss
+
+S13:E5 - Why you should consider learning Ruby ( Jay McGavren) | https://www.codenewbie.org/podcast/why-you-should-consider-learning-ruby
+
+Build a URL Shortener With Neon, Azure Serverless Functions | https://feeds.dzone.com/link/23564/16957350/build-url-shortener-neon-azure-serverless-functions
+
+S5:E7 - What's an Indie Hacker? (Courtland Allen) | https://www.codenewbie.org/podcast/what-s-an-indiehacker
+
+S4:E2 - What's a quiet developer? (Seán Hanson) | https://www.codenewbie.org/podcast/what-s-a-quiet-developer
+
+S19:E4 - What does WordPress development look like (Ebonie Butler) | https://www.codenewbie.org/podcast/what-does-wordpress-development-look-like
+
+Ep. 35 - Stellar (David Mazières) | https://www.codenewbie.org/podcast/stellar
+
+Gitpod: Cloud Dev Environment That Saves You Time | https://inspiredtoeducate.net/inspiredtoeducate/gitpod-cloud-dev-environment-that-saves-you-time/
+
+Coming Soon: MDN Observatory 2.0 | https://developer.mozilla.org/en-US/blog/mdn-observatory/
+
+Ep. 131 - Take My Money (Noel Rappin) | https://www.codenewbie.org/podcast/take-my-money
+
+The Digital Playbook: A Crucial Counterpart To Your Design System | https://smashingmagazine.com/2025/01/digital-playbook-crucial-counterpart-design-system/
+
+Commenting on removing "X" on US passports | https://martinfowler.com/articles/2025-passport-x.html
+
+S19:E1 - What are the benefits of learning in public (Gift Egwuenu) | https://www.codenewbie.org/podcast/what-are-the-benefits-of-learning-in-public
+
+Ep. 21 - Teaching Kids To Code (Rebecca Garcia) | https://www.codenewbie.org/podcast/teaching-kids-to-code
+
+Prompt Engineering for Web Development | https://www.sitepoint.com/prompt-engineering-for-web-development/?utm_source=rss
+
+S8:E2 - How to build a community (Michael Berhane) | https://www.codenewbie.org/podcast/how-to-build-a-community
+
+10 Artificial Intelligence APIs for Developers | https://www.sitepoint.com/top-ai-apis-for-developers/?utm_source=rss
+
+Looking back at our Bug Bounty program in 2024 | https://engineering.fb.com/2025/02/13/security/looking-back-at-our-bug-bounty-program-in-2024/
+
+Understanding Vultr Content Delivery Networks (CDNs) | https://www.sitepoint.com/understanding-vultr-content-delivery-networks-cdns/?utm_source=rss
+
+S27:E7 - Tech and Art (Chris Immel) | https://www.codenewbie.org/podcast/tech-and-art
+
+September 2023 (version 1.83) | https://code.visualstudio.com/updates/v1_83
+
+To Serve Man, with Software | https://blog.codinghorror.com/to-serve-man-with-software/
+
+Comparing Docker and Podman: A Guide to Container Management Tools | https://www.sitepoint.com/comparing-docker-and-podman/?utm_source=rss
+
+April 2024 (version 1.89) | https://code.visualstudio.com/updates/v1_89
+
+February 2023 (version 1.76) | https://code.visualstudio.com/updates/v1_76
+
+S23:E5 - Going from Ministry to Tech (Kyle Shevlin) | https://www.codenewbie.org/podcast/going-from-ministry-to-tech
+
+Securing APIs: Express rate limit and slow down | https://developer.mozilla.org/en-US/blog/securing-apis-express-rate-limit-and-slow-down/
+
+It's a peccadillo circus | https://changelog.com/friends/75
+
+FLOSS Weekly 731: Confidential Computing - Dan Middleton, Confidential Computing Consortium | https://twit.tv/shows/floss-weekly/episodes/731
+
+S2:E8 - Getting started on open source when you don't know where to start (Richard Schneeman) | https://www.codenewbie.org/podcast/getting-started-on-open-source-when-you-don-t-know-where-to-start
+
+A more complex codemod | https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent
+
+Can AI That Lets Kids Struggle Productively Be Better? | https://www.coolcatteacher.com/ai-productive-struggle/
+
+Ep. 87 - Vets Who Code (Jerome Hardaway) | https://www.codenewbie.org/podcast/vets-who-code
+
+Ep. 25 - From Software To Hardware (Sara Chipps) | https://www.codenewbie.org/podcast/from-software-to-hardware
+
+Ep. 103 - Algorithms  (Carina C. Zona) | https://www.codenewbie.org/podcast/algorithms
+
+Visual Studio Code and GitHub Copilot | https://code.visualstudio.com/blogs/2023/03/30/vscode-copilot
+
+S22:E7 - Starting out in Open Source (Brian Douglas) | https://www.codenewbie.org/podcast/starting-out-in-open-source
+
+Developer essentials: JavaScript console methods | https://developer.mozilla.org/en-US/blog/learn-javascript-console-methods/
+
+Getting Started with PhaserJs and TypeScript | https://inspiredtoeducate.net/inspiredtoeducate/getting-started-with-phaserjs-and-typescript/
+
+Core Web Vitals workflows with Google tools | https://web.dev/articles/vitals-tools?hl=en
+
+Ep. 90 - Creating EmberJS - Part I (Yehuda Katz) | https://www.codenewbie.org/podcast/creating-emberjs-part-i
+
+Ep. 52 - International Dev (Ayori Selassie) | https://www.codenewbie.org/podcast/international-dev
+
+Stop Acting Like a Blunt Skull | https://leadershipfreak.blog/2025/02/28/stop-acting-like-a-blunt-skull/
+
+Best React UI Component Libraries | https://www.sitepoint.com/popular-react-ui-component-libraries/?utm_source=rss
+
+S5:E2 - What is quality engineering? (Rocio Montes) | https://www.codenewbie.org/podcast/what-is-quality-engineering
+
+Introducing Copilot Edits (preview) | https://code.visualstudio.com/blogs/2024/11/12/introducing-copilot-edits
+
+S13:E3 - What’s the deal with auth (Sam Julien) | https://www.codenewbie.org/podcast/what-s-the-deal-with-auth
+
+S8:E6 - How to make the workplace more inclusive (Nicole Sanchez) | https://www.codenewbie.org/podcast/how-to-make-the-workplace-more-inclusive
+
+S27:E8 - Learning AI (Matt Eland) | https://www.codenewbie.org/podcast/learning-ai
+
+S7:E1 - Moms who code (Bekah Hawrot Weigel) | https://www.codenewbie.org/podcast/moms-who-code
+
+AI killed the tech interview. Now what? | https://changelog.com/news/133
+
+Not just for developers: How product and security teams can use GitHub Copilot | https://github.blog/ai-and-ml/github-copilot/not-just-for-developers-how-product-and-security-teams-can-use-github-copilot/
+
+Discovering discovery coding | https://changelog.com/friends/80
+
+How to Send Email with Django Using SMTP Server | https://www.sitepoint.com/django-send-email/?utm_source=rss
+
+Build and deploy a LangChain app on Google Cloud Run | https://innovativeteams.net/build-and-deploy-a-langchain-app-on-google-cloud-run/
+
+Powerful React Form Builders to Consider in 2024 | https://www.sitepoint.com/react-form-builders/?utm_source=rss
+
+Open-Source Meets Design Tooling With Penpot | https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/
+
+GenAI Patterns: Fine Tuning | https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning
+
+Dive Deep into Gemini: Explore  Starter Apps in AI Studio | https://developers.googleblog.com/en/deep-dive-gemini-developer-ready-starter-apps/
+
+Learn how to use hue in CSS colors with HSL | https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/
+
+Ep. 96 - Developing Your Tech Talk Idea (Nickolas Means) | https://www.codenewbie.org/podcast/developing-your-tech-talk-idea
+
+FLOSS Weekly 737: Live, LUG, and Rock On - Dan Lynch, Liverpool Linux User Group | https://twit.tv/shows/floss-weekly/episodes/737
+
+Ep. 53 - Peruvian Developer (Andrea Del Rio) | https://www.codenewbie.org/podcast/peruvian-developer
+
+The problem with tutorials | https://code.visualstudio.com/blogs/2022/03/08/the-tutorial-problem
+
+Ep. 18 - Autotune, Inclusivity, and Getting A Job (Vanessa Hurst) | https://www.codenewbie.org/podcast/autotune-inclusivity-and-getting-a-job
+
+GitHub Copilot Extensions are all you need | https://code.visualstudio.com/blogs/2024/06/24/extensions-are-all-you-need
+
+FLOSS Weekly 733: Open Source Science - Tim Bonnemann, Open Source Science | https://twit.tv/shows/floss-weekly/episodes/733
+
+Ep. 29 - A Children's Makerspace (Gokul Krishnan) | https://www.codenewbie.org/podcast/a-children-s-makerspace
+
+FLOSS Weekly 720: Fostering an Open Source Culture - Arun Gupta on Generative AI, OpenJDK, CNCF | https://twit.tv/shows/floss-weekly/episodes/720
+
+S14:E9 - How to build tech for social justice (Alex Qin) | https://www.codenewbie.org/podcast/how-to-build-tech-for-social-justice
+
+FLOSS Weekly 744: A Chill Pirate Lawyer - Damien Riehl, Open Source and Legal Rights | https://twit.tv/shows/floss-weekly/episodes/744
+
+Ep. 70 - From Servers to Security (Christina Morillo) | https://www.codenewbie.org/podcast/from-servers-to-security
+
+Ep. 30 - The Not-Bootcamp (Jeff Casimir) | https://www.codenewbie.org/podcast/the-not-bootcamp
+
+Announcing the MDN front-end developer curriculum | https://developer.mozilla.org/en-US/blog/announcing-mdn-front-end-developer-curriculum/
+
+S19:E2 - How to learn Swift and get into iOS development (Marc Aupont) | https://www.codenewbie.org/podcast/how-to-learn-swift-and-get-into-ios-development
+
+WebAssembly vs JavaScript: A Comparison | https://www.sitepoint.com/webassembly-javascript-comparison/?utm_source=rss
+
+Setting up service workers on Vultr | https://developer.mozilla.org/en-US/blog/setting-up-service-workers-on-vultr/
+
+Ep. 132 - The Business of Open Source (Safia Abdalla) | https://www.codenewbie.org/podcast/the-business-of-open-source
+
+Build a Spock API with NestJS, Angular, and Google Gemini | https://innovativeteams.net/build-a-mr-spock-api-with-nestjs-angular-and-google-gemini/
+
+Data Science Agent in Colab: The future of data analysis with Gemini | https://developers.googleblog.com/en/data-science-agent-in-colab-with-gemini/
+
+Svelte 5 And The Future Of Frameworks: A Chat With Rich Harris | https://smashingmagazine.com/2025/01/svelte-5-future-frameworks-chat-rich-harris/
+
+Podcast: Investing in Open Source: The Open Source Pledge and Why it Matters | https://www.infoq.com/podcasts/investing-open-source-pledge/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+Level Up Your Coding Skills for Free: Exploring FreeCodeCamp | https://inspiredtoeducate.net/inspiredtoeducate/level-up-your-coding-skills-for-free-exploring-freecodecamp/
+
+AI-Assisted Coding for iOS Development: CursorAI and Upcoming Swift Assist | https://www.sitepoint.com/ai-assisted-coding-for-ios-development/?utm_source=rss
+
+The Leaderly Pursuit of Advice | https://leadershipfreak.blog/2025/03/06/the-leaderly-pursuit-of-advice/
+
+MDN partners with Scrimba to enhance web development learning | https://developer.mozilla.org/en-US/blog/mdn-scrimba-partnership/
+
+Introducing the new MDN Community page | https://developer.mozilla.org/en-US/blog/new-community-page/
+
+Diving deeper into using the Strangler Fig with Mobile Apps | https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026
+
+A Deep Dive into Building Enterprise grade Generative AI Solutions | https://www.sitepoint.com/building-enterprise-grade-generative-ai-solutions/?utm_source=rss
+
+Ep. 69 - Manager Newbie (Selena Deckelmann) | https://www.codenewbie.org/podcast/manager-newbie
+
+Programming with LLMs | https://changelog.com/podcast/629
+
+S27:E2 - The Journey from Sound Engineer to Software Engineer (Alejandro Aspinwall) | https://www.codenewbie.org/podcast/the-journey-from-sound-engineer-to-software-engineer
+
+Building a Weather Service With Genkit and AI | https://feeds.dzone.com/link/23564/16976251/building-weather-service-genkit-ai
+
+FLOSS Weekly 738: Crossplane: Your Cockpit in the Cloud - Jared Watts, Nic Cope, Crossplane and Kubernetes | https://twit.tv/shows/floss-weekly/episodes/738
+
+CSS scrollbar-gutter and scrollbar-width are Baseline Newly available | https://web.dev/blog/baseline-scrollbar-props?hl=en
+
+Ep. 78 - Hardware Newbie (Emily Xie) | https://www.codenewbie.org/podcast/hardware-newbie
+
+How Precision Time Protocol handles leap seconds | https://engineering.fb.com/2025/02/03/production-engineering/how-precision-time-protocol-ptp-handles-leap-seconds/
+
+S19:E5 - What are some common mistakes people make when learning to code (Ceora Ford) | https://www.codenewbie.org/podcast/what-are-some-common-relatable-mistakes-people-make-when-learning-to-code
+
+S6:E4 - Why do I need to test my code? (Jonas Nicklas) | https://www.codenewbie.org/podcast/why-do-i-need-to-test-my-code
+
+Ep. 81 - Social Justice Warrior (Coraline Ada Ehmke) | https://www.codenewbie.org/podcast/social-justice-warrior
+
+FLOSS Weekly 722: DIY Broadcasting With Open Source - Open Source Broadcasting, Tim Pozar and Brian David | https://twit.tv/shows/floss-weekly/episodes/722
+
+S11:E6 - What are the pros and cons of working in civic tech (Aidan Feldman) | https://www.codenewbie.org/podcast/what-are-the-pros-and-cons-of-working-in-civic-tech
+
+How to Use JSON Data Fields in MySQL Databases | https://www.sitepoint.com/use-json-data-fields-mysql-databases/?utm_source=rss
+
+Orlando Tech Meetups – 11/30 | https://innovativeteams.net/orlando-tech-meetups-11-30/
+
+Ep. 8 - From Student Project to Big App (William Jeffries) | https://www.codenewbie.org/podcast/from-student-project-to-big-app
+
+S8:E8 - What it's like to be in a computer science class  (David Malan) | https://www.codenewbie.org/podcast/what-its-like-to-be-in-a-computer-science-class
+
+Ruby on Rails on WebAssembly, the full-stack in-browser journey | https://web.dev/blog/ruby-on-rails-on-webassembly?hl=en
+
+July 2024 (version 1.92) | https://code.visualstudio.com/updates/v1_92
+
+S24:E6 - Surviving Cancer, Building Code, Thriving in Tech (Stacey Graham) | https://www.codenewbie.org/podcast/surviving-cancer-building-code-thriving-in-tech
+
+S4:E5 - Are you ready for a hackathon? (Kathryn Hodge) | https://www.codenewbie.org/podcast/are-you-ready-for-a-hackathon
+
+S23:E4 - Practical A/B Testing (Leemay Nassery) | https://www.codenewbie.org/podcast/practical-a-b-testing
+
+S1:E4 - The JavaScript First Responder (Wes Bos) | https://www.codenewbie.org/podcast/the-javascript-first-responder
+
+Bootstrap Card Component: a Complete Introduction | https://www.sitepoint.com/bootstrap-card-component-introduction/?utm_source=rss
+
+Ep. 144 - Codeland - Accessibility and Education talks from Sterling Walker and Maurice Rogers (Sterling Walker, Maurice Rogers) | https://www.codenewbie.org/podcast/codeland-accessibility-and-education-talks-from-sterling-walker-and-maurice-rogers
+
+Essential Plugins for WordPress Developers: Top Picks for 2024 | https://www.sitepoint.com/top-wordpress-developer-plugins/?utm_source=rss
+
+June 2023 (version 1.80) | https://code.visualstudio.com/updates/v1_80
+
+Let's Talk About The American Dream | https://blog.codinghorror.com/lets-talk-about-the-american-dream/
+
+New to the web platform in February | https://web.dev/blog/web-platform-02-2025?hl=en
+
+GenAI Patterns: Query Rewriting | https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite
+
+How Precision Time Protocol handles leap seconds | https://engineering.fb.com/2025/02/03/production-engineering/how-precision-time-protocol-ptp-handles-leap-seconds/
+
+April 2023 (version 1.78) | https://code.visualstudio.com/updates/v1_78
+
+S20:E5 - What are some fundamentals of machine learning and AI (Oscar Beijbom) | https://www.codenewbie.org/podcast/what-are-some-fundamentals-of-machine-learning-and-ai
+
+Ep. 137 - Intro to Data Science (Briana Vecchione) | https://www.codenewbie.org/podcast/intro-to-data-science
+
+S1:E5 - How to learn React and React Native on a deadline (Brent Vatne, Kim Goulbourne) | https://www.codenewbie.org/podcast/how-to-learn-react-and-react-native-on-a-deadline
+
+How To Test And Measure Content In UX | https://smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/
+
+S8:E1 - From police recruit to developer (Tim Heuer) | https://www.codenewbie.org/podcast/from-police-recruit-to-developer
+
+Ep. 145 - Codeland - NYPL and Khan Academy talks from Courteney Ervin and Celia La (Courteney Ervin, Celia La) | https://www.codenewbie.org/podcast/codeland-nypl-and-khan-academy-talks-from-courteney-ervin-and-celia-la
+
+S4:E3 - What’s it like to be a coding apprentice? (Kasey Oglesby , Chris Bay) | https://www.codenewbie.org/podcast/whats-it-like-to-be-a-coding-apprentice
+
+Ep. 120 - 100 Days of Code (Alexander Kallaway) | https://www.codenewbie.org/podcast/100-days-of-code
+
+Learning through Transient Matching in Congested Markets | https://www.youtube.com/watch?v=iOUsPSxDkG8
+
+S14:E8 - What is .NET and why is it useful (Maria Nagagga) | https://www.codenewbie.org/podcast/what-is-net-and-why-is-it-useful
+
+S10:E5 - How to be a good manager and a good employee (Lara Hogan) | https://www.codenewbie.org/podcast/what-are-the-skills-you-need-to-be-a-good-manager-and-in-any-supporting-role
+
+Custom Dev Container Features | https://code.visualstudio.com/blogs/2022/09/15/dev-container-features
+
+Deploying Node.js applications with PM2 on Vultr | https://developer.mozilla.org/en-US/blog/deploying-node-js-applications-with-pm2-on-vultr/
+
+S16:E6 - What failing technical interviews can teach you ( Farhana Mustafa) | https://www.codenewbie.org/podcast/what-failing-technical-interviews-can-teach-you
+
+S19:E6 - How to make learning databases fun and approachable ( Joe Karlsson) | https://www.codenewbie.org/podcast/how-to-make-learning-databases-fun-and-approachable
+
+FLOSS Weekly 749: That's In Chapter Three - Kyle Rankin, How To Write a Tech Book | https://twit.tv/shows/floss-weekly/episodes/749
+
+Ep. 33 - Detroit Water Project (Tiffani Bell) | https://www.codenewbie.org/podcast/detroit-water-project
+
+S9:E4 - What is workplace burnout and how can you stop it (Jeffrey Liebert) | https://www.codenewbie.org/podcast/what-is-workplace-burnout-and-how-can-you-stop-it
+
+The power of the button | https://changelog.com/podcast/623
+
+FLOSS Weekly 713: "Let's Put Thoughts on the Blockchain" - LastPass Databreach, Linux Desktop 2023, Blockchain | https://twit.tv/shows/floss-weekly/episodes/713
+
+S20:E8 - How to be a successful solopreneur (Jennifer Yip) | https://www.codenewbie.org/podcast/how-to-be-a-successful-solopreneur
+
+Ep. 57 - Podcasting with Changelog (Adam Stacoviak, Jerod Santo) | https://www.codenewbie.org/podcast/podcasting-with-changelog
+
+S13:E8 - How to get into data science and machine learning (Jay Feng) | https://www.codenewbie.org/podcast/how-to-get-into-data-science-and-machine-learning
+
+Celebrating innovation: Gemini API Developer Competition | https://developers.googleblog.com/en/celebrating-innovation-gemini-api-developer-competition/
+
+Integrations: From Simple Data Transfer To Modern Composable Architectures | https://smashingmagazine.com/2025/02/integrations-from-simple-data-transfer-to-composable-architectures/
+
+Shipped It! | https://changelog.com/shipit/135
+
+S9:E6 - What is Java good for and why is it still one of the most popular coding languages (Peggy Fisher) | https://www.codenewbie.org/podcast/what-is-java-good-for-and-why-is-it-still-one-of-the-most-popular-coding-languages
+
+GenAI: How to Reduce Cost with Prompt Compression Techniques | https://www.sitepoint.com/prompt-compression-reduce-genai-apps/?utm_source=rss
+
+Rediscovering Angular: Modern Advantages and Technical Stack | https://feeds.dzone.com/link/23564/16961333/angular-advantages-and-technical-stack
+
+Ep. 85 - Technical Writing (Chris Mills) | https://www.codenewbie.org/podcast/technical-writing
+
+S16:E7 - How you can build communities for love and profit (Veni Kunche) | https://www.codenewbie.org/podcast/how-you-can-build-communities-for-love-and-profit
+
+# 🌗 How to Add Theme Switching with MobX in React | https://dev.to/hemantgovekar/-how-to-add-theme-switching-with-mobx-in-react-62h
+
+S23:E6 - From Site Reliability Engineer to Principal Software Engineer (Alice Goldfuss) | https://www.codenewbie.org/podcast/coding-in-2020-and-beyond
+
+10 big predictions for 2025 | https://changelog.com/news/126
+
+S10:E2 - What are the pros and cons of getting paid for open source (Katie Delfin) | https://www.codenewbie.org/podcast/what-are-the-pros-and-cons-of-getting-paid-for-open-source
+
+FLOSS Weekly 735: FLOSS Without Borders - Ahmed Sobeh, Open Source in Developing Countries | https://twit.tv/shows/floss-weekly/episodes/735
+
+New reference pages on MDN for JavaScript regular expressions | https://developer.mozilla.org/en-US/blog/regular-expressions-reference-updates/
+
+Make computing personal again | https://changelog.com/news/128
+
+Ep. 114 - What's an Innovation Accountant? (Nick DePrey) | https://www.codenewbie.org/podcast/what-s-an-innovation-accountant
+
+Quick Tip: How to Align Column Rows with CSS Subgrid | https://www.sitepoint.com/css-subgrid-align-column-rows/?utm_source=rss
+
+FLOSS Weekly 743: Data Is Surprisingly Exciting - Apache SeaTunnel, William Kwok | https://twit.tv/shows/floss-weekly/episodes/743
+
+S13:E2 - How newbies can contribute to open source (Janessa Tran) | https://www.codenewbie.org/podcast/how-newbies-can-contribute-to-open-source
+
+Ep. 46 - Self Taught Programmer (Courteney Ervin) | https://www.codenewbie.org/podcast/self-taught-programmer
+
+Ep. 140 - Codeland - Gaming and City Talks from Chris Algoo, Kate Rabinowitz, Eric Brelsford (Chris Algoo, Kate Rabinowitz, Eric Brelsford) | https://www.codenewbie.org/podcast/codeland-gaming-and-city-talks-from-chris-algoo-kate-rabinowitz-eric-brelsford
+
+AI IRL at Honeycomb | https://changelog.com/shipit/134
+
+FLOSS Weekly: FLOSS Weekly Continues at Hackaday - Hackaday is the new home of FLOSS Weekly | https://twit.tv/shows/floss-weekly/episodes/761b
+
+S10:E3 - How do you prepare for bootcamp and break into tech? (Ruben Harris) | https://www.codenewbie.org/podcast/how-do-you-prepare-for-bootcamp-and-break-into-tech
+
+A Comprehensive Guide to Understanding TypeScript Record Type | https://www.sitepoint.com/typescript-record-type-comprehensive-guide/?utm_source=rss
+
+S25:E6 - Big Tech: What They Say vs. What They Mean (Rachel Lee Nabors) | https://www.codenewbie.org/podcast/big-tech-what-they-say-vs-what-they-mean
+
+Ep. 89 - Mobile Developer (Kaya Thomas) | https://www.codenewbie.org/podcast/mobile-developer
+
+S15:E6 - What is cryptography and how to get into it ( Marcus Carey) | https://www.codenewbie.org/podcast/what-is-cryptography-and-how-to-get-into-it
+
+Creating effective technical documentation | https://developer.mozilla.org/en-US/blog/technical-writing/
+
+Monitoring with Prometheus and Grafana: A Comprehensive Guide | https://dev.to/devcorner/monitoring-with-prometheus-and-grafana-a-comprehensive-guide-48gf
+
+Revolutionizing software testing: Introducing LLM-powered bug catchers | https://engineering.fb.com/2025/02/05/security/revolutionizing-software-testing-llm-powered-bug-catchers-meta-ach/
+
+Using HTML landmark roles to improve accessibility | https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/
+
+Mastering SVG Arcs | https://smashingmagazine.com/2024/12/mastering-svg-arcs/
+
+Change my mind | https://changelog.com/friends/81
+
+JavaScript fatigue strikes back | https://changelog.com/news/134
+
+7 Simple Rules for Better Data Visualization | https://www.sitepoint.com/better-data-visualization-simple-rules/?utm_source=rss
+
+October 2024 (version 1.95) | https://code.visualstudio.com/updates/v1_95
+
+10 Best AI Code Review Tools and How They Work | https://www.sitepoint.com/best-ai-code-review-tools-for-developers/?utm_source=rss
+
+10 Common Web Development Mistakes to Avoid Right Now | https://www.sitepoint.com/common-web-development-mistakes/?utm_source=rss
+
+Dev Hackathon: Reusable Creativity on Wix Studio | https://www.sitepoint.com/dev-hackathon-reusable-creativity-on-wix-studio/?utm_source=rss
+
+Ep. 94 - UX Design and Gaming (Lil Chen) | https://www.codenewbie.org/podcast/ux-design-and-gaming
+
+From open source to acquired | https://changelog.com/podcast/625
+
+GenAI Patterns: Retrieval Augmented Generation (RAG) | https://martinfowler.com/articles/gen-ai-patterns/#rag
+
+Securing your CDN: Why and how should you use SRI | https://developer.mozilla.org/en-US/blog/securing-cdn-using-sri-why-how/
+
+S2:E2 - How do browsers work? (Lin Clark) | https://www.codenewbie.org/podcast/how-do-browsers-work
+
+S8:E4 - How to get hired (Kevin Lozandier) | https://www.codenewbie.org/podcast/how-to-get-hired
+
+The Importance Of Graceful Degradation In Accessible Interface Design | https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/
+
+Ep. 77 - Technically Speaking (Chiu-Ki Chan) | https://www.codenewbie.org/podcast/technically-speaking
+
+Building A 300 Channel Video Encoding Server | https://www.sitepoint.com/building-a-300-channel-video-encoding-server/?utm_source=rss
+
+S9:E5 - Why you should understand user interface and design (Mina Markham) | https://www.codenewbie.org/podcast/why-you-should-understand-user-interface-and-design
+
+3 Reasons Why Google Developer Groups Support Community Growth | https://inspiredtoeducate.net/inspiredtoeducate/3-reasons-why-google-developer-groups-support-community-growth/
+
+S23:E8 - Empowering the Next Generation of Black Tech Talent (Pariss Chandler) | https://www.codenewbie.org/podcast/empowering-the-next-generation-of-black-tech-talent
+
+S17:E3 - How to do remote work well (Kara Luton) | https://www.codenewbie.org/podcast/how-to-do-remote-work-well
+
+Presentation: Building a Lightning Fast Firewall with Java & eBPF | https://www.infoq.com/presentations/firewall-java-ebpf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+Ep. 86 - Intro to Databases (Mark Nadal) | https://www.codenewbie.org/podcast/intro-to-databases
+
+Streamline Microservices Development With Dapr and Amazon EKS | https://feeds.dzone.com/link/23564/16966276/streamline-microservices-development-with-dapr-amazon-eks
+
+Google DeepMind Enhances AMIE for Long-Term Disease Management | https://www.infoq.com/news/2025/03/google-deepmind-amie/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+Gemini 2.0 Deep Dive: Code Execution | https://developers.googleblog.com/en/gemini-20-deep-dive-code-execution/
+
+S14:E6 - What is Typescript and when should you use it (Dan Vanderkam) | https://www.codenewbie.org/podcast/what-is-typescript-and-when-should-you-use-it
+
+Ep. 133 - Building Robot Vacuum Cleaners: An Intro to Embedded Systems (Chris Svec) | https://www.codenewbie.org/podcast/building-robot-vacuum-cleaners-an-intro-to-embedded-systems
+
+Codemods in other languages | https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages
+
+GitHub Availability Report: January 2025 | https://github.blog/news-insights/company-news/github-availability-report-january-2025/
+
+S25:E1 - Pivoting to Tech from Biomedical Science (Marley Anthony) | https://www.codenewbie.org/podcast/pivoting-to-tech-from-biomedical-science
+
+Gemini 2.0: Flash, Flash-Lite and Pro | https://developers.googleblog.com/en/gemini-2-family-expands/
+
+Ep. 42 - POODR And Beyond - Part II (Sandi Metz) | https://www.codenewbie.org/podcast/poodr-and-beyond-part-ii
+
+Shrinking VS Code with name mangling | https://code.visualstudio.com/blogs/2023/07/20/mangling-vscode
+
+S9:E2 - What is data journalism and how do you tell stories through your code (Sandeep Junnarkar) | https://www.codenewbie.org/podcast/what-is-data-journalism-and-how-do-you-tell-stories-through-your-code
+
+Ingredients For A Cozy November (2024 Wallpapers Edition) | https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/
+
+Make A Bird Detector with TensorFlowJs ( Part 1 ) | https://inspiredtoeducate.net/inspiredtoeducate/make-a-bird-detector-with-tensorflowjs-part-1/
+
+S9:E8 - Why you should read the new edition of the Pragmatic Programmer (Andy Hunt, Dave Thomas) | https://www.codenewbie.org/podcast/why-you-should-read-the-new-edition-of-the-pragmatic-programmer
+
+Ep. 61 - Brianna and Brianna's Mother (Brianna Fugate) | https://www.codenewbie.org/podcast/brianna-and-brianna-s-mother
+
+Celebrating Global Accessibility Awareness Day | https://developer.mozilla.org/en-US/blog/accessibility-celebrating-gaad-2023/
+
+S3:E7 - From tech blogger to Fog Creek CEO (Anil Dash) | https://www.codenewbie.org/podcast/from-tech-blogger-to-fog-creek-ceo
+
+S22:E2 - Building the bridge across the tech gap (Michelle Glauser) | https://www.codenewbie.org/podcast/bridge-the-tech-gap
+
+Orlando Dev Meetups – Jan 4th | https://innovativeteams.net/orlando-dev-meetups-jan-4th/
+
+Optimize your workflow with Git stash | https://developer.mozilla.org/en-US/blog/optimize-your-workflow-git-stash/
+
+Design Token-Based UI Architecture | https://martinfowler.com/articles/design-token-based-ui-architecture.html
+
+Ep. 125 - Learning to Code in the 1960s (Mary L Gorden) | https://www.codenewbie.org/podcast/learning-to-code-in-the-1960s
+
+Data Structures and Algorithms (DSA): A Complete Tutorial | https://www.sitepoint.com/data-structures-and-algorithms-tutorial/?utm_source=rss
+
+Ep. 130 - 30 Million Downloads (Jo Overline) | https://www.codenewbie.org/podcast/30-million-downloads
+
+Efficient data handling with the Streams API | https://developer.mozilla.org/en-US/blog/efficient-data-handling-with-the-streams-api/
+
+From Idea to Prototype in Minutes: Claude Sonnet 3.5 | https://www.sitepoint.com/from-idea-to-prototype-in-minutes-claude-sonnet-3-5/?utm_source=rss
+
+S11:E4 - How to get into game development (Jonathan Jennings) | https://www.codenewbie.org/podcast/how-to-get-into-game-development
+
+January 2024 (version 1.86) | https://code.visualstudio.com/updates/v1_86
+
+Ep. 82 - What Is Code? (Paul Ford) | https://www.codenewbie.org/podcast/what-is-code
+
+Ep. 110 - Coding in Uganda (Emily Karungi) | https://www.codenewbie.org/podcast/coding-in-uganda
+
+S7:E6 - What are progressive web apps? (Frances Coronel) | https://www.codenewbie.org/podcast/what-are-progressive-web-apps
+
+Saying goodbye to third-party cookies in 2024 | https://developer.mozilla.org/en-US/blog/goodbye-third-party-cookies/
+
+FLOSS Weekly 751: The Phipps Certification - EFF, AlmaLinux, Vehicle Software and Privacy | https://twit.tv/shows/floss-weekly/episodes/751
+
+Reactive Programming in React With RxJS | https://feeds.dzone.com/link/23564/16962979/reactive-programming-in-react-with-rxjs
+
+What Does AI Really Mean? | https://smashingmagazine.com/2025/01/understanding-ai-meaning/
+
+S12:E5 - How to not get bogged down in technical debt (Nina Zakharenko) | https://www.codenewbie.org/podcast/how-to-not-get-bogged-down-in-technical-debt
+
+Ep. 116 - Diversity in Tech - Part I (Ashe Dryden) | https://www.codenewbie.org/podcast/diversity-in-tech-part-i
+
+Announcing the Web AI Acceleration Fund | https://web.dev/blog/web-ai-acceleration-fund?hl=en
+
+Ep. 23 - Ask CodeNewbie (Scott Hanselman, Tiffany Peon) | https://www.codenewbie.org/podcast/ask-codenewbie
+
+FLOSS Weekly 721: Hacking, Convergence and HyperPurism - Kyle Rankin, Purism, Mobile Phone & Linux Computing Convergence | https://twit.tv/shows/floss-weekly/episodes/721
+
+Ep. 72 - Security Newbie (Chris Palmer) | https://www.codenewbie.org/podcast/security-newbie
+
+FLOSS Weekly 716: Desperately Seeking Software Freedom - Christine Hall, FOSS Force, Software Freedom | https://twit.tv/shows/floss-weekly/episodes/716
+
+S26:E8 - Being Open to the Unexpected (Katherine Evans) | https://www.codenewbie.org/podcast/being-open-to-the-unexpected
+
+S10:E8 - What you should look for in online coding courses (Colt Steele) | https://www.codenewbie.org/podcast/what-you-should-look-for-in-online-coding-courses
+
+Building a better smart home | https://developers.googleblog.com/en/building-a-better-smart-home-expanding-access-for-developers-and-users/
+
+S2:E3 - How do tech companies read your resume? (Eddie Washington) | https://www.codenewbie.org/podcast/how-to-tech-companies-read-your-resume
+
+Ep. 124 - Open Source Newbie (Shubheksha Jalan ) | https://www.codenewbie.org/podcast/open-source-newbie
+
+S23:E2 - Having a Growth Mindset (Tanya Reilly) | https://www.codenewbie.org/podcast/having-a-growth-mindset
+
+TypeScript 5.8 Released with Improved Inference and Better JavaScript Ecosystem Interoperability | https://www.infoq.com/news/2025/03/typescript-58-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+November 2024 (version 1.96) | https://code.visualstudio.com/updates/v1_96
+
+Momento Migrates Object Cache as a Service to Ampere Altra | https://www.sitepoint.com/momento-migrates-object-cache-to-ampere-altra/?utm_source=rss
+
+The CSS Reset Contradiction | https://www.sitepoint.com/css-reset-contradiction/?utm_source=rss
+
+Video: How to run dependency audits with GitHub Copilot | https://github.blog/developer-skills/github/video-how-to-run-dependency-audits-with-github-copilot/
+
+S3:E3 - What is cryptocurrency? (Preethi Kasireddy) | https://www.codenewbie.org/podcast/what-is-cryptocurrency
+
+August 2023 (version 1.82) | https://code.visualstudio.com/updates/v1_82
+
+S21:E8 - How to get into Web3 development (Nader Dabit) | https://www.codenewbie.org/podcast/how-to-get-into-web3-development
+
+A Complete Guide to CSS Logical Properties, with Cheat Sheet | https://www.sitepoint.com/css-logical-properties-guide/?utm_source=rss
+
+Announcing a free GitHub Copilot for VS Code | https://code.visualstudio.com/blogs/2024/12/18/free-github-copilot
+
+Google Enhances AlloyDB Vector Search with Inline Filtering and Enterprise Observability | https://www.infoq.com/news/2025/03/alloydb-filtering-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+S6:E2 - From librarian to developer (Hayley Swimelar) | https://www.codenewbie.org/podcast/from-librarian-to-developer
+
+S5:E5 - How to figure out what’s next in your coding career (Jarvis Johnson) | https://www.codenewbie.org/podcast/how-to-figure-out-what-s-next-in-your-coding-career
+
+S24:E3 - Building Products for Everyone (Daniel Devesa Derksen-Staats) | https://www.codenewbie.org/podcast/how-to-make-code-more-accessible
+
+AI’s Transformative Impact On Web Design: Supercharging Productivity Across The Industry | https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/
+
+Ep. 76 - Data Journalist (Matthew Mitchell) | https://www.codenewbie.org/podcast/data-journalist
+
+Ep. 135 - The Michael Jordan of Tech Talks (Kim Crayton) | https://www.codenewbie.org/podcast/the-michael-jordan-of-tech-talks
+
+S9:E7 - How do you create visual recognition software ethically and responsibly (Nashlie Sephus) | https://www.codenewbie.org/podcast/how-do-you-create-visual-recognition-software-ethically-and-responsibly
+
+The Human Element: Using Research And Psychology To Elevate Data Storytelling | https://smashingmagazine.com/2025/02/human-element-using-research-psychology-elevate-data-storytelling/
+
+S4:E7 - How to teach when you’re not an expert (Angela Andrews) | https://www.codenewbie.org/podcast/how-to-teach-when-youre-not-an-expert
+
+S7:E7 - When things go wrong at work (Jaime-Alexis Fowler) | https://www.codenewbie.org/podcast/when-things-go-wrong-at-work
+
+February 2025 Baseline monthly digest | https://web.dev/blog/baseline-digest-feb-2025?hl=en
+
+The Visual Studio Code Server | https://code.visualstudio.com/blogs/2022/07/07/vscode-server
+
+The Hype Around Signals | https://smashingmagazine.com/2024/11/the-hype-around-signals/
+
+S3:E1 - Should you get a computer science degree? (Dave Thomas, Ashley Fong) | https://www.codenewbie.org/podcast/should-you-get-a-computer-science-degree
+
+Embeddings in GenAI Products | https://martinfowler.com/articles/gen-ai-patterns/#embedding
+
+Tight Mode: Why Browsers Produce Different Performance Results | https://smashingmagazine.com/2025/01/tight-mode-why-browsers-produce-different-performance-results/
+
+New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition) | https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/
+
+Electric Geek Transportation Systems | https://blog.codinghorror.com/electric-geek-transportation-systems/
+
+Vertex AI RAG Engine: A developers tool | https://developers.googleblog.com/en/vertex-ai-rag-engine-a-developers-tool/
+
+ruby-align is Baseline Newly available | https://web.dev/blog/baseline-ruby-align?hl=en
+
+S11:E8 - How to not let imposter syndrome hold you back (Allen Whearry) | https://www.codenewbie.org/podcast/how-to-not-let-imposter-syndrome-hold-you-back
+
+LLM Dataset Inference: Did you train on my dataset? | https://www.youtube.com/watch?v=27CsPDM6pfo
+
+A new era for the Changelog Podcast Universe | https://changelog.com/posts/a-new-era-for-the-changelog-podcast-universe
+
+Webview UI Toolkit for Visual Studio Code | https://code.visualstudio.com/blogs/2021/10/11/webview-ui-toolkit
+
+Exclusive accordions using the HTML details element | https://developer.mozilla.org/en-US/blog/html-details-exclusive-accordions/
+
+Optimize Cumulative Layout Shift | https://web.dev/articles/optimize-cls?hl=en
+
+FLOSS Weekly 750: AI: Just Make It Normal - IQXR, AI and Open Source | https://twit.tv/shows/floss-weekly/episodes/750
+
+Ep. 14 - On Testing (Noel Rappin) | https://www.codenewbie.org/podcast/on-testing
+
+Ep. 38 - Hacker Hours (Aidan Feldman) | https://www.codenewbie.org/podcast/hacker-hours
+
+Over the top auth strategies | https://changelog.com/friends/78
+
+S17:E6 - How to transition into development after over a decade in your field (Christine Fletcher) | https://www.codenewbie.org/podcast/how-to-transition-into-development-after-over-a-decade-in-your-field
+
+SQL Commands: The List of Basic SQL Language Commands | https://www.sitepoint.com/sql-commands/?utm_source=rss
+
+Countdown to the holidays with daily coding challenges | https://developer.mozilla.org/en-US/blog/daily-holiday-javascript-challenges/
+
+The 2030 Self-Driving Car Bet | https://blog.codinghorror.com/the-2030-self-driving-car-bet/
+
+S2:E1 - How she built a mobile app to help victims of domestic violence (Alicia Carr) | https://www.codenewbie.org/podcast/how-she-built-a-mobile-app-to-help-victims-of-domestic-violence
+
+S1:E8 - What and why is web animation? (Rachel Lee Nabors) | https://www.codenewbie.org/podcast/what-and-why-is-web-animation
+
+S1:E1 - Intro to Accessibility (Stephanie Slattery) | https://www.codenewbie.org/podcast/intro-to-accessibility
+
+How to query the Web Platform Dashboard for Baseline tooling | https://web.dev/articles/web-platform-dashboard-baseline?hl=en
+
+LocalXpose: The Most Useful Tool for Developers to Share Localhost Online | https://www.sitepoint.com/localxpose-share-localhost-online/?utm_source=rss
+
+Tool calling and agents | https://changelog.com/practicalai/303
+
+S21:E5 - What is the Metaverse and what does it look like to build for it (Daniel Liebeskind) | https://www.codenewbie.org/podcast/what-is-the-metaverse-and-what-does-it-look-like-to-build-for-it
+
+Building a Digital Fortress: How to Strengthen DNS Against DDoS Attacks? | https://www.sitepoint.com/building-a-digital-fortress-how-to-strengthen-dns-against-ddos-attacks/?utm_source=rss
+
+How To Design For High-Traffic Events And Prevent Your Website From Crashing | https://smashingmagazine.com/2025/01/designing-high-traffic-events-cloudways/
+
+Creating color palettes with the CSS color-mix() function | https://developer.mozilla.org/en-US/blog/color-palettes-css-color-mix/
+
+Introduction to web sustainability | https://developer.mozilla.org/en-US/blog/introduction-to-web-sustainability/
+
+Posting on Bluesky, and other thoughts on social media | https://martinfowler.com/articles/2024-social-media.html
+
+React Performance Optimization: Tricks Every Dev Should Know | https://feeds.dzone.com/link/23564/16976375/react-performance-optimization-tricks
+
+S15:E2 - How to code without typing (Matt Wiethoff, Tommy MacWilliam) | https://www.codenewbie.org/podcast/how-to-code-without-typing
+
+FLOSS Weekly 725: VanillaOS on a Stick - Pietro di Caprio, VanillaOS | https://twit.tv/shows/floss-weekly/episodes/725
+
+GenAI Patterns: Reranker | https://martinfowler.com/articles/gen-ai-patterns/#reranker
+
+Testing JavaScript with Jest on Vultr | https://developer.mozilla.org/en-US/blog/test-javascript-with-jest-on-vultr/
+
+How to Set Up Basic jQuery Form Validation in Two Minutes | https://www.sitepoint.com/basic-jquery-form-validation-tutorial/?utm_source=rss
+
+FLOSS Weekly 718: Future of openSUSE Leap - Luboš Kocman, Douglas DeMaio, openSUSE Leap | https://twit.tv/shows/floss-weekly/episodes/718
+
+Next.js Theming: CSS Variables for Adaptive Data Visualization | https://feeds.dzone.com/link/23564/16976135/css-theme-title-message-1234567
+
+45 Visual Studio Code Shortcuts for Boosting Your Productivity | https://www.sitepoint.com/visual-studio-code-keyboard-shortcuts/?utm_source=rss
+
+Migrating VS Code to Process Sandboxing | https://code.visualstudio.com/blogs/2022/11/28/vscode-sandbox
+
+S10:E7 - Why you should learn to speak machine (John Maeda) | https://www.codenewbie.org/podcast/combining-art-and-tech-and-why-you-should-learn-to-speak-machine
+
+Ep. 34 - Newbie Story: LaToya Allen (LaToya Allen) | https://www.codenewbie.org/podcast/newbie-story-latoya-allen
+
+FLOSS Weekly 758: Raiders of the Lost Source - Rocky and Oracle Unbreakable Linux, OpenAI Shakeup | https://twit.tv/shows/floss-weekly/episodes/758
+
+Improving Software Estimation using UML | https://innovativeteams.net/improving-software-estimation-using-uml/
+
+Ep. 9 - How To Build A Product (Poornima Vijayashanker) | https://www.codenewbie.org/podcast/how-to-build-a-product
+
+Fine-Tuning an Open-Source LLM with Axolotl Using Direct Preference Optimization (DPO) | https://www.sitepoint.com/fine-tuning-llm-with-direct-preference-optimization-dpo/?utm_source=rss
+
+Finding leaked passwords with AI: How we built Copilot secret scanning | https://github.blog/engineering/platform-security/finding-leaked-passwords-with-ai-how-we-built-copilot-secret-scanning/
+
+FLOSS Weekly 714: Sugar Labs and Music Blocks - Music Composition in Open Source, Devin Ulibarri and Walter Bender | https://twit.tv/shows/floss-weekly/episodes/714
+
+S8:E3 - Coding without code (Joanna Smith) | https://www.codenewbie.org/podcast/coding-without-code
+
+March 2024 (version 1.88) | https://code.visualstudio.com/updates/v1_88
+
+Accessibility Best Practices for Single Page Applications (SPAs) | https://www.sitepoint.com/accessibility-best-practices-for-single-page-applications/?utm_source=rss
+
+How to Reduce Teacher Stress: Self-Care Strategies for 2025 | https://www.coolcatteacher.com/e882/
+
+Unlocking global AI potential with next-generation subsea infrastructure | https://engineering.fb.com/2025/02/14/connectivity/project-waterworth-ai-subsea-infrastructure/
+
+Presentation: The (Not So) Hidden Social Drivers Behind the Highest Performing Engineering Teams | https://www.infoq.com/presentations/trust-psychological-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+Theoretical Limitations of Multi layer Transformers | https://www.youtube.com/watch?v=Pfn-wbyamcU
+
+S12:E6 - Why personal projects are so important (Ze Frank) | https://www.codenewbie.org/podcast/why-personal-projects-are-so-important
+
+Ep. 48 - Freelance to Full-Time (Nicole Dominguez) | https://www.codenewbie.org/podcast/freelance-to-full-time
+
+S4:E1 - How do you build an iOS app? (Amir Rajan) | https://www.codenewbie.org/podcast/how-do-you-build-an-ios-app
+
+S7:E4 - What's a compiler? (Thorsten Ball) | https://www.codenewbie.org/podcast/what-s-a-compiler
+
+FLOSS Weekly 754: Is He Still On? - Jon "maddog" Hall, Caninos Loucos, Open Source vs Free Software | https://twit.tv/shows/floss-weekly/episodes/754
+
+S1:E7 - Why is my website slow? (Lara Hogan) | https://www.codenewbie.org/podcast/why-is-my-website-slow
+
+Download AI models with the Background Fetch API | https://web.dev/articles/background-fetch-ai?hl=en
+
+S11:E7 - Why site reliability is so important (Molly Struve) | https://www.codenewbie.org/podcast/why-site-reliability-is-so-important
+
+FLOSS Weekly 747: New, Hot, Big, and Doomed - Business Software License, OpenELA Initiative | https://twit.tv/shows/floss-weekly/episodes/747
+
+Emerging Patterns in Building GenAI Products | https://martinfowler.com/articles/gen-ai-patterns/
+
+Logging Made Easy: A Beginner’s Guide to Winston in Node.js | https://www.sitepoint.com/logging-made-easy-a-beginners-guide-to-winston-in-node-js/?utm_source=rss
+
+Ep. 101 - Open Sourcerer of Django (Jacob Kaplan-Moss) | https://www.codenewbie.org/podcast/open-sourcerer-of-django
+
+Synchronizing Java Collections for Thread Safety: A Complete Guide | https://dev.to/devcorner/synchronizing-java-collections-for-thread-safety-a-complete-guide-4f8p
+
+August 2024 (version 1.93) | https://code.visualstudio.com/updates/v1_93
+
+Support the open source projects you love this Valentine’s Day | https://github.blog/open-source/support-the-open-source-projects-you-love-this-valentines-day/
+
+Ep. 20 - Accessibility (Joseph McLarty) | https://www.codenewbie.org/podcast/accessibility
+
+Ep. 36 - Creating jQuery (John Resig) | https://www.codenewbie.org/podcast/creating-jquery
+
+Build a Full-stack App with Node.js and htmx | https://www.sitepoint.com/node-js-htmx-build-full-stack-app/?utm_source=rss
+
+S20:E7 - What we can all learn from the experience of being a neurodivergent developer (Alex Karp) | https://www.codenewbie.org/podcast/what-we-can-all-learn-from-the-experience-of-being-a-neurodivergent-developer
+
+vscode.dev(!) | https://code.visualstudio.com/blogs/2021/10/20/vscode-dev
+
+Three Approaches To Amplify Your Design Projects | https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/
+
+S21:E6 - What it looks like to be an apprentice engineer at Pinterest (Alison Quaglia) | https://www.codenewbie.org/podcast/what-is-the-metaverse-and-what-does-it-look-like-to-build-for-it-439f8caf-22e6-478a-bb2b-6236cd293fdb
+
+FLOSS Weekly 727: Homomorphic Encryption: the Next Big Thing - Rand Hindi, Fully Homomorphic Encryption | https://twit.tv/shows/floss-weekly/episodes/727
+
+VS Code Day: An event for an editor? | https://code.visualstudio.com/blogs/2023/04/13/vscode-day
+
+Google Cloud Is the New Way to the Cloud | https://www.sitepoint.com/google-cloud-the-new-way-to-the-cloud/?utm_source=rss
+
+Words Are Rudders – Questions Are Guides | https://leadershipfreak.blog/2025/03/03/words-are-rudders-questions-are-guides/
+
+Taking RWD To The Extreme | https://smashingmagazine.com/2025/02/taking-rwd-to-the-extreme/
+
+S19:E8 - How being demoted could be the right career move (Kristina Lustig) | https://www.codenewbie.org/podcast/how-being-demoted-could-be-the-right-career-move
+
+VS Code: Tips and tricks for beginners | https://developer.mozilla.org/en-US/blog/vs-code-tips-tricks/
+
+Ep. 27 - Intro to Raspberry Pi (Matt Richardson) | https://www.codenewbie.org/podcast/intro-to-raspberry-pi
+
+Introducing the MDN Playground: Bring your code to life! | https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/
+
+Enhancing Security in JavaScript | https://feeds.dzone.com/link/23564/16961913/enhancing-security-in-javascript
+
+AWS Introduces a New Quantum Computing Chip with Ocelot | https://www.infoq.com/news/2025/03/aws-ocelot-quantum-chip/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+S5:E1 - What is open source hardware? (Suz Hinton) | https://www.codenewbie.org/podcast/what-is-open-source-hardware
+
+S22:E3 - Demonstrating curiosity kindly with Matt Newkirk (Matt Newkirk) | https://www.codenewbie.org/podcast/demonstrating-curiosity-kindly-with-matt-newkirk
+
+The code, prose & pods that shaped 2024 | https://changelog.com/news/125
+
+Ep. 79 - Make Magazine (Mike Senese) | https://www.codenewbie.org/podcast/make-magazine
+
+Thank you Indienomicon community for your Mega impact! | https://innovativeteams.net/thank-you-indienomicon-community-for-your-mega-impact/
+
+My favorite musical discoveries of 2024 | https://martinfowler.com/articles/2024-music.html
+
+S26:E4 - The Ins and Outs of LinkedIn (Laura Thorson) | https://www.codenewbie.org/podcast/the-ins-and-outs-of-linkedin
+
+FLOSS Weekly 736: Don't Fear The AI - David Sifry, AI and Open Source | https://twit.tv/shows/floss-weekly/episodes/736
+
+S3:E8 - How to learn to code when you have no time and money (Colleen Schnettler) | https://www.codenewbie.org/podcast/how-to-learn-to-code-when-you-have-no-time-and-money
+
+Building a Full-Stack Resume Screening Application With AI | https://feeds.dzone.com/link/23564/16954390/smarter-hiring-building-an-ai-powered-full-stack-r
+
+GitHub for Beginners: How to get started with GitHub Copilot | https://github.blog/ai-and-ml/github-copilot/github-for-beginners-how-to-get-started-with-github-copilot/
+
+S18:E2 - What are some essential skills you’ll need to be successful on your coding journey (Fernando Doglio) | https://www.codenewbie.org/podcast/what-are-some-essential-skills-you-ll-need-to-be-successful-on-your-coding-journey
+
+Ep. 63 - Free Code Camp (Quincy Larson) | https://www.codenewbie.org/podcast/free-code-camp
+
+Harnessing Real-Time Insights With Streaming SQL on Kafka | https://feeds.dzone.com/link/23564/16977101/real-time-insights-with-streaming-sql-on-kafka
+
+Beyond English: How Gemma open models are bridging the language gap | https://developers.googleblog.com/en/building-more-inclusive-llms-using-gemma-open-models/
+
+Gemini 2.0: Level Up Your Apps with Real-Time Multimodal Interactions | https://developers.googleblog.com/en/gemini-2-0-level-up-your-apps-with-real-time-multimodal-interactions/
+
+Building a Telemedicine Platform with AI-Powered Diagnostics Using Vultr | https://www.sitepoint.com/building-a-telemedicine-platform-with-ai-vultr/?utm_source=rss
+
+How Metrics Flow from Applications to Grafana Dashboard | https://dev.to/devcorner/how-metrics-flow-from-applications-to-grafana-dashboard-1k5d
+
+Data logs: The latest evolution in Meta’s access tools | https://engineering.fb.com/2025/02/04/security/data-logs-the-latest-evolution-in-metas-access-tools/
+
+What Is Cloud Computing? | https://www.sitepoint.com/what-is-cloud-computing/?utm_source=rss
+
+S25:E8 - Empowering Developers of All Abilities (Judith Lung) | https://www.codenewbie.org/podcast/empowering-developers-of-all-abilities
+
+S22:E4 - Showing up in tech (Jason Lengstorf) | https://www.codenewbie.org/podcast/showing-up-in-tech
+
+S17:E2 - DevNews: Inside the Gpt-3-Powered Chatbot That Someone Used to Talk to Their Fiancé Who Passed (Jason Rohrer) | https://www.codenewbie.org/podcast/devnews-inside-the-gpt-3-powered-chatbot-that-someone-used-to-talk-to-their-fiance-who-passed
+
+Leveraging Bun on Vultr: A superior Node.js alternative | https://developer.mozilla.org/en-US/blog/leveraging-bun-on-vultr-a-superior-node-js-alternative/
+
+How to Deploy Apache Airflow on Vultr Using Anaconda | https://www.sitepoint.com/deploy-apache-airflow-vultr-anaconda/?utm_source=rss
+
+S20:E3 - How to think like a CTO (Joel Beasley) | https://www.codenewbie.org/podcast/how-to-think-like-a-cto
+
+Everyone knows your location | https://changelog.com/news/130
+
+GenAI hot takes and bad use cases | https://changelog.com/practicalai/304
+
+Creating An Effective Multistep Form For Better User Experience | https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/
+
+Sidekick is an AI Shopify expert | https://changelog.com/practicalai/299
+
+S10:E6 - How can we make the future of programming more inclusive? (Tim O'Reilly) | https://www.codenewbie.org/podcast/what-is-the-future-of-programming-and-what-can-we-do-to-make-it-more-inclusive-for-people-who-aren-t-just-career-developers
+
+Control Statements in C: A Comprehensive Guide | https://www.sitepoint.com/control-statements-in-c-part-1/?utm_source=rss
+
+S18:E8 - How to use different memory techniques to learn coding (Kylo Robinson) | https://www.codenewbie.org/podcast/how-to-use-different-memory-techniques-to-learn-coding
+
+Ep. 139 - Codeland - Gaming Talks from Jessica Rudder and Opher Vishnia (Jessica Rudder, Opher Vishnia) | https://www.codenewbie.org/podcast/codeland-gaming-talks-from-jessica-rudder-and-opher-vishnia
+
+FLOSS Weekly 739: Whose AI Is It Anyway? - AI Security, Decentralized Identifiers | https://twit.tv/shows/floss-weekly/episodes/739
+
+Fix your website's Largest Contentful Paint by optimizing image loading | https://developer.mozilla.org/en-US/blog/fix-image-lcp/
+
+Ep. 107 - Mom and Son Learn To Code (Lorraine Hutter, Bobby Hutter) | https://www.codenewbie.org/podcast/mom-and-son-learn-to-code
+
+Introducing the Markdown Language Server | https://code.visualstudio.com/blogs/2022/08/16/markdown-language-server
+
+The Cloud Is Just Someone Else’s Computer | https://blog.codinghorror.com/the-cloud-is-just-someone-elses-computer/
+
+Containerization of a Node.js Service | https://feeds.dzone.com/link/23564/16961819/containerization-of-a-nodejs-service
+
+How To Use jQuery’s Ajax() Function for Asynchronous HTTP Requests | https://www.sitepoint.com/use-jquerys-ajax-function/?utm_source=rss
+
+S20:E4 - How to transition from the arts into a career in tech (Jessica Wilkins) | https://www.codenewbie.org/podcast/how-to-transition-from-the-arts-into-a-career-in-tech
+
+S12:E3 - How to hack legally and penetrate the security field (Karen Miller) | https://www.codenewbie.org/podcast/how-to-hack-legally-and-penetrate-the-security-field
+
+Using WebAssembly for Extension Development - Part Two | https://code.visualstudio.com/blogs/2024/06/07/wasm-part2
+
+S21:E1 - What it looks like to be an AR/VR engineer (Luca Mefisto) | https://www.codenewbie.org/podcast/what-it-looks-like-to-be-an-ar-vr-engineer
+
+Ep. 68 - Too Late To Be Awesome (Chanelle Henry) | https://www.codenewbie.org/podcast/too-late-to-be-awesome
+
+Introducing AI Help (Beta): Your Companion for Web Development | https://developer.mozilla.org/en-US/blog/introducing-ai-help/
+
+Ep. 105 - Open Sourcing Mental Health - Part I (Julia Nguyen) | https://www.codenewbie.org/podcast/open-sourcing-mental-health-part-i
+
+Ep. 104 - Scrum Master (Anjuan Simmons) | https://www.codenewbie.org/podcast/scrum-master
+
+Other people's robots | https://changelog.com/friends/76
+
+Building the developer cloud | https://changelog.com/podcast/621
+
+Using JSON Web Tokens with Node.js | https://www.sitepoint.com/using-json-web-tokens-node-js/?utm_source=rss
+
+Ep. 92 - Afghan Women Coding (Fereshteh Forough	) | https://www.codenewbie.org/podcast/afghan-women-coding
+
+FLOSS Weekly 729: Commitment Issues - Stormy Peters, GitHub Accelerator | https://twit.tv/shows/floss-weekly/episodes/729
+
+Sessionless Transactions in Database 23ai(23.6) | https://dev.to/vahidusefzadeh/sessionless-transactions-in-database-23ai236-4oai
+
+Revolutionizing software testing: Introducing LLM-powered bug catchers | https://engineering.fb.com/2025/02/05/security/revolutionizing-software-testing-llm-powered-bug-catchers-meta-ach/
+
+Ep. 67 - Android Developer (Annyce Davis) | https://www.codenewbie.org/podcast/android-developer
+
+Building multimodal AI for Ray-Ban Meta glasses | https://engineering.fb.com/2025/03/04/virtual-reality/building-multimodal-ai-for-ray-ban-meta-glasses/
+
+Is it possible to make self-adjusting data structures concurrent? | https://www.youtube.com/watch?v=A7DaSVMm0To
+
+Video Recaps of Ampere’s 2024 Developer Summit | https://www.sitepoint.com/video-recaps-of-amperes-2024-developer-summit/?utm_source=rss
+
+Locale-sensitive text segmentation in JavaScript with Intl.Segmenter | https://developer.mozilla.org/en-US/blog/javascript-intl-segmenter-i18n/
+
+October 2023 (version 1.84) | https://code.visualstudio.com/updates/v1_84
+
+Ep. 6 - Comics and Code (Rachel Nabors) | https://www.codenewbie.org/podcast/comics-and-code
+
+S4:E8 - What’s it like to be the CTO of Microsoft? (Kevin Scott) | https://www.codenewbie.org/podcast/what-s-it-like-to-be-the-cto-of-microsoft
+
+Optimizing DevSecOps workflows with GitLab's conditional CI/CD pipelines | https://developer.mozilla.org/en-US/blog/optimizing-devsecops-workflows-with-gitlab-conditional-ci-cd-pipelines/
+
+The Great Filter Comes For Us All | https://blog.codinghorror.com/the-great-filter-comes-for-us-all/
+
+How to integrate artificial intelligence into office software: the ONLYOFFICE Docs case study | https://www.sitepoint.com/artificial-intelligence-into-office-software-with-onlyoffice-docs/?utm_source=rss
+
+Fixing your website's JavaScript performance | https://developer.mozilla.org/en-US/blog/fix-javascript-performance/
+
+Ep. 51 - The Pragmatic Programmer - Part II (Dave Thomas) | https://www.codenewbie.org/podcast/the-pragmatic-programmer-part-ii
+
+S17:E8 - What's in store for CodeLand 2021 (Ben Halpern) | https://www.codenewbie.org/podcast/what-s-in-store-for-codeland-2021
+
+How to Avoid the Jerk Boss Trap | https://leadershipfreak.blog/2025/03/04/how-to-avoid-the-jerk-boss-trap/
+
+Ep. 115 - Getting a Computer Science Degree (Terri Burns) | https://www.codenewbie.org/podcast/getting-a-computer-science-degree
+
+Kaizen! Three wise men? | https://changelog.com/friends/73
+
+Building a PC, Part IX: Downsizing | https://blog.codinghorror.com/building-a-pc-part-ix-downsizing/
+
+S14:E3 - Introducing DevNews (Joseph Cox) | https://www.codenewbie.org/podcast/introducing-devnews-a9ba7716-cb49-42e5-9176-5268b0b82f7f
+
+S18:E1 - What are SVGs and when should you use them (Christina Gorton) | https://www.codenewbie.org/podcast/what-are-svgs-and-when-should-you-use-them
+
+Friendly Feud: JS Party Edition | https://changelog.com/friends/83
+
+March 2023 (version 1.77) | https://code.visualstudio.com/updates/v1_77
+
+S5:E3 - From teacher to developer (Dan Piston) | https://www.codenewbie.org/podcast/from-teacher-to-developer
+
+Expert IEP and RTI Strategies You Need to Know | https://www.coolcatteacher.com/iep-rti-reach-every-child/
+
+Crafting Interactive Scatter Plots with Plotly | https://www.sitepoint.com/plotly-crafting-interactive-scatter-plots/?utm_source=rss
+
+Ep. 55 - Open Source Contributor (Steve Klabnik) | https://www.codenewbie.org/podcast/open-source-contributor
+
+FLOSS Weekly 740: Baking the Printer - Jonathan Bennett: A Bad Face For Radio, IBM and Red Hat | https://twit.tv/shows/floss-weekly/episodes/740
+
+Meeting European Accessibility Act (EAA) Standards: A Developer’s Checklist | https://www.sitepoint.com/meeting-european-accessibility-act-eaa-standards/?utm_source=rss
+
+S24:E8 - A Model's Journey to Software Development (Madison Kanna) | https://www.codenewbie.org/podcast/a-model-s-journey-to-software-development
+
+How Engineering Teams Are Tackling AI, Platform Engineering & DevEx: InfoQ Dev Summit Boston 2025 | https://www.infoq.com/news/2025/03/ids-boston2025-conference/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+FLOSS Weekly 726: Mojaloop and Digital Public Goods - Paula Hunter, Mojaloop, Unbanked World | https://twit.tv/shows/floss-weekly/episodes/726
+
+Ep. 49 - Getting The Job (Suzan Bond) | https://www.codenewbie.org/podcast/getting-the-job
+
+React’s Unstoppable Rise: Why It’s Here to Stay | https://feeds.dzone.com/link/23564/16957446/reacts-unstoppable-rise-why-its-here-to-stay
+
+Using the Page Visibility API | https://developer.mozilla.org/en-US/blog/using-the-page-visibility-api/
+
+What role does LLM reasoning play for software tasks? | https://martinfowler.com/articles/exploring-gen-ai.html#memo-12
+
+S17:E7 - When and how might you want to use different clouds (Erica Windisch) | https://www.codenewbie.org/podcast/when-and-how-might-you-want-to-use-the-cloud
+
+Ep. 7 - Meteor (Ciara Burkett) | https://www.codenewbie.org/podcast/meteor
+
+The new $30,000 side hustle | https://changelog.com/news/127
+
+S7:E2 - How do I level up? (Ben Orenstein) | https://www.codenewbie.org/podcast/how-do-i-level-up
+
+S9:E0 - Season 9 trailer (Jeffrey Liebert, Ali Spittel, Mina Markham, Andy Hunt, Dave Thomas) | https://www.codenewbie.org/podcast/season-9-trailer
+
+FLOSS Weekly 745: The Buffer Bloke - Dave Taht, Music Collab, Private AI | https://twit.tv/shows/floss-weekly/episodes/745
+
+FLOSS Weekly 742: Endless Sky, Endless Fun - Open Source Game Development | https://twit.tv/shows/floss-weekly/episodes/742
+
+Bird Watching With Python and TensorFlowJS ( Part 2 ) | https://inspiredtoeducate.net/inspiredtoeducate/bird-watching-with-python-and-tensorflowjs-part-2/
+
+How to Build a Simple Web Server with Node.js | https://www.sitepoint.com/build-a-simple-web-server-with-node-js/?utm_source=rss
+
+Digital Transformation with AI: The Benefits and Challenges | https://www.sitepoint.com/digital-transformation-ai-benefits-challenges/?utm_source=rss
+
+FLOSS Weekly 730: Going Off the Grid with Meshtastic - Decentralized Open Source Mesh Network, Meshtastic | https://twit.tv/shows/floss-weekly/episodes/730
+
+Community managers in action: Leading a developer community for good | https://github.blog/open-source/social-impact/community-managers-in-action-leading-a-developer-community-for-good/
+
+Ep. 134 - Getting Into Hardware (Elecia White) | https://www.codenewbie.org/podcast/getting-into-hardware
+
+Unlocking global AI potential with next-generation subsea infrastructure | https://engineering.fb.com/2025/02/14/connectivity/project-waterworth-ai-subsea-infrastructure/
+
+S6:E1 - How do you build a database? (Jeff Nelson) | https://www.codenewbie.org/podcast/how-do-you-build-a-database
+
+S27:E6 - The Crossover of Health, Technology and Art (Daniel Bourke) | https://www.codenewbie.org/podcast/the-crossover-of-health-technology-and-art
+
+Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty | https://www.youtube.com/watch?v=HQgjLWp4Lo8
+
+Ep. 58 - From Journalist to Developer (Amy Simmons) | https://www.codenewbie.org/podcast/from-journalist-to-developer
+
+Start building with Gemini 2.0 Flash and Flash-Lite | https://developers.googleblog.com/en/start-building-with-the-gemini-2-0-flash-family/
+
+Antirez returns to Redis! | https://changelog.com/podcast/631
+
+July 2023 (version 1.81) | https://code.visualstudio.com/updates/v1_81
+
+FLOSS Weekly 761: We Won! - The Victories of Free Software and Open Source | https://twit.tv/shows/floss-weekly/episodes/761
+
+S26:E5 - Exploring the Path from Medicine to a Tech Career (Shona Chan) | https://www.codenewbie.org/podcast/exploring-the-path-from-medicine-to-a-tech-career
+
+January 2025 Baseline monthly digest | https://web.dev/blog/baseline-digest-jan-2025?hl=en
+
+S1:E2 - Building community in a virtual world: Moderation tools in VR (Cameron Brown) | https://www.codenewbie.org/podcast/building-community-in-a-virtual-world-moderation-tools-in-vr
+
+JS basic question. with answer | https://dev.to/anjali_gurjar_dff81513867/js-basic-question-with-answer-1b7j
+
+January 2025 Baseline monthly digest | https://web.dev/blog/baseline-digest-jan-2025?hl=en
+
+S16:E1 - What it’s like to break into tech as a mother (Arit Amana) | https://www.codenewbie.org/podcast/what-it-s-like-to-break-into-tech-as-a-mother
+
+Ep. 37 - From Skates To Code (Aimee Knight) | https://www.codenewbie.org/podcast/from-skates-to-code
+
+Ep. 11 - 24 Pull Requests (Andrew Nesbitt) | https://www.codenewbie.org/podcast/24-pull-requests
+
+S15:E7 - How to communicate complex technical topics (Anna Skoulikari) | https://www.codenewbie.org/podcast/how-to-communicate-complex-technical-topics
+
+Scroll progress animations in CSS | https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/
+
+Pursuit of wicked smartness in VS Code | https://code.visualstudio.com/blogs/2023/11/13/vscode-copilot-smarter
+
+10 Amazing Web Developer Resume Examples for Different Web Dev Specializations | https://www.sitepoint.com/web-developer-resume-examples/?utm_source=rss
+
+Transitioning Top-Layer Entries And The Display Property In CSS | https://smashingmagazine.com/2025/01/transitioning-top-layer-entries-display-property-css/
+
+Stop Offering Encouragement – Do This Instead | https://leadershipfreak.blog/2025/03/07/stop-offering-encouragement-do-this-instead/
+
+Ep. 19 - The Hard Way (Zed A. Shaw) | https://www.codenewbie.org/podcast/the-hard-way
+
+S13:E7 - What it’s like to build React (Sophie Alpert) | https://www.codenewbie.org/podcast/what-it-s-like-to-build-react
+
+Time To First Byte: Beyond Server Response Time | https://smashingmagazine.com/2025/02/time-to-first-byte-beyond-server-response-time/
+
+New to the web platform in January | https://web.dev/blog/web-platform-01-2025?hl=en
+
+The Popover API is now Baseline Newly available | https://web.dev/blog/popover-baseline?hl=en
+
+Learning To Code Google Gemini AI | https://inspiredtoeducate.net/inspiredtoeducate/learning-to-code-google-gemini-ai/
+
+VS Code Community Discussions for Extension Authors | https://code.visualstudio.com/blogs/2022/10/04/vscode-community-discussions
+
+S21:E3 - Why learning good documentation skills is so important for leveling up (Eddie Hinkle) | https://www.codenewbie.org/podcast/why-learning-good-documentation-skills-is-so-important-for-leveling-up
+
+Bird Watching With Python and TensorFlowJS ( Part 3 ) | https://inspiredtoeducate.net/inspiredtoeducate/bird-watching-with-python-and-tensorflowjs-part-3/
+
+Java Stream API: 3 Things Every Developer Should Know About | https://feeds.dzone.com/link/23564/16954336/java-stream-api-things-developer-should-know
+
+S16:E8 - What you should know about frontend development ( Laurie Barth) | https://www.codenewbie.org/podcast/what-you-should-know-about-frontend-development
+
+S9:E3 - How do you develop yourself and your code while fighting off trolls (Ali Spittel) | https://www.codenewbie.org/podcast/how-do-you-develop-yourself-and-your-code-while-fighting-off-trolls
+
+S16:E2 - What is creative coding and generative art ( Varun Vachhar) | https://www.codenewbie.org/podcast/what-is-creative-coding-and-generative-art
+
+GenAI Patterns: Guardrails and RAG overview | https://martinfowler.com/articles/gen-ai-patterns/#guardrails
+
+May 2023 (version 1.79) | https://code.visualstudio.com/updates/v1_79
+
+Ep. 126 - The Mechanic (Ray Acevedo) | https://www.codenewbie.org/podcast/the-mechanic
+
+Advanced Error Handling in JavaScript | https://feeds.dzone.com/link/23564/16977198/advanced-error-handling-in-javascript-custom-error
+
+The Role Of Illustration Style In Visual Storytelling | https://smashingmagazine.com/2025/01/role-illustration-style-visual-storytelling/
+
+FLOSS Weekly 752: Stalkers Beware - Cooper Quintin on Personal Privacy and TOR University Challenge | https://twit.tv/shows/floss-weekly/episodes/752
+
+Best Payment Gateways in France for 2025 | https://www.sitepoint.com/best-payment-gateways-in-france/?utm_source=rss
+
+Ep. 41 - POODR And Beyond - Part I (Sandi Metz) | https://www.codenewbie.org/podcast/poodr-and-beyond-part-i
+
+S22:E6 - Technical writing (Philip Kiely) | https://www.codenewbie.org/podcast/technical-writing-e3787c31-47c8-4bbe-83b4-ca58ff809e06
+
+Random Forest Algorithm in Machine Learning | https://www.sitepoint.com/random-forest-algorithm-in-machine-learning/?utm_source=rss
+
+See the Similarity: Personalizing Visual Search with Multimodal Embeddings | https://developers.googleblog.com/en/see-the-similarity-personalizing-visual-search-with-multimodal-embeddings/
+
+FLOSS Weekly 748: Show Me The ProofMode - Nathan Freitas, ProofMode | https://twit.tv/shows/floss-weekly/episodes/748
+
+Four steps toward building an open source community | https://github.blog/open-source/maintainers/four-steps-toward-building-an-open-source-community/
+
+Notebooks, Visual Studio Code style | https://code.visualstudio.com/blogs/2021/11/08/custom-notebooks
+
+The Existential Terror of Battle Royale | https://blog.codinghorror.com/the-existential-terror-of-battle-royale/
+
+The DeepSeek Series: A Technical Overview | https://martinfowler.com/articles/deepseek-papers.html
+
+S26:E2 - Freelancing While Homeschooling (Sarah Greer) | https://www.codenewbie.org/podcast/freelancing-while-homeschooling
+
+Video generation with realistic motion | https://changelog.com/practicalai/301
+
+Refactoring with Codemods to Automate API Changes | https://martinfowler.com/articles/codemods-api-refactoring.html
+
+The Rise of the Electric Scooter | https://blog.codinghorror.com/the-rise-of-the-electric-scooter/
+
+S11:E3 - Why apprenticeships are important for equality, diversity, and inclusion (Ryan Carson) | https://www.codenewbie.org/podcast/why-apprenticeships-are-important-for-equality-diversity-and-inclusion
+
+S7:E3 - Can you do open source full-time? (Jessie Frazelle, Bryan Liles) | https://www.codenewbie.org/podcast/can-you-do-open-source-full-time
+
+FLOSS Weekly 724: The Wide World of Open Radio - Levi C. Maaia, Ham Radio | https://twit.tv/shows/floss-weekly/episodes/724
+
+FLOSS Weekly 732: Update Your Kernels! - Greg Kroah-Hartman, Linux Kernel, Cyber Resilience Act | https://twit.tv/shows/floss-weekly/episodes/732
+
+FLOSS Weekly 756: We Won, Now What? - Luis Villa, Tidelift | https://twit.tv/shows/floss-weekly/episodes/756
+
+S20:E6 - How to create successful mobile games (Bria Sullivan) | https://www.codenewbie.org/podcast/how-to-create-successful-mobile-games
+
+Ep. 10 - Nitpicks and Devils (Katrina Owen) | https://www.codenewbie.org/podcast/nitpicks-and-devils
+
+S14:E7 - How to stay motivated and get your first job ( Danny Thompson) | https://www.codenewbie.org/podcast/how-to-get-that-first-coding-job
+
+Comparing Full Stack and Headless CMS Platforms | https://www.sitepoint.com/comparing-full-stack-and-headless-cms-platforms/?utm_source=rss
+
+Introducing GitHub Copilot for Azure (preview) | https://code.visualstudio.com/blogs/2024/11/15/introducing-github-copilot-for-azure
+
+Protecting user data through source code analysis at scale | https://engineering.fb.com/2025/02/18/security/protecting-user-data-through-source-code-analysis/
+
+15 Top Web Design Tools & Resources To Try in 2024 | https://www.sitepoint.com/best-web-design-tools-2024/?utm_source=rss
+
+Perfecting CRUD Functionality in NextJS | https://feeds.dzone.com/link/23564/16960372/mastering-crud-with-nextjs
+
+Ep. 98 - Creating Lifehacker - Part I (Gina Trapani) | https://www.codenewbie.org/podcast/creating-lifehacker-part-i
+
+S25:E5 - Mastering Leadership (Brian Jenney) | https://www.codenewbie.org/podcast/mastering-leadership
+
+The Design Leader Dilemma | https://smashingmagazine.com/2024/12/the-design-leader-dilemma/
+
+January 2023 (version 1.75) | https://code.visualstudio.com/updates/v1_75
+
+S19:E3 - Why Python is still one of the most popular coding languages (Meredydd Luff) | https://www.codenewbie.org/podcast/why-python-is-still-one-of-the-most-popular-coding-languages
+
+OpenSSF Publishes Security Baseline for Open-Source Projects | https://www.infoq.com/news/2025/03/openssf-security-baseline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+Pitching Go in 2025 | https://changelog.com/gotime/339
+
+React Middleware: Bridging APIs and Components | https://feeds.dzone.com/link/23564/16961818/demystifying-react-middleware-bridging-apis-and-co
+
+S1:E3 - How to teach yourself computer science (Vaidehi Joshi) | https://www.codenewbie.org/podcast/how-to-teach-yourself-computer-science
+
+September 2024 (version 1.94) | https://code.visualstudio.com/updates/v1_94
+
+Make music with code using DotNet Core | https://inspiredtoeducate.net/inspiredtoeducate/make-music-with-code-using-dotnet-core/
+
+Ep. 4 - Wearing All The Hats (Kinsey Ann Durham) | https://www.codenewbie.org/podcast/wearing-all-the-hats
+
+A Beginner’s Guide to Setting Up a Project in Laravel | https://www.sitepoint.com/laravel-project-setup-beginners-guide/?utm_source=rss
+
+S10:E1 - What does ageism in tech look like (Ariana Tobin) | https://www.codenewbie.org/podcast/what-does-ageism-in-tech-look-like
+
+Orlando Tech Meetup Update – 10/27 | https://innovativeteams.net/orlando-tech-meetup-update-10-13/
+
+Ep. 80 - Designing Makerspaces (Kristen Smith) | https://www.codenewbie.org/podcast/designing-maker-spaces
+
+FLOSS Weekly 757: Noodling Around with OpenZiti - Philip Griffiths, OpenZiti and Secure Networking | https://twit.tv/shows/floss-weekly/episodes/757
+
+Welcome to the MDN blog | https://developer.mozilla.org/en-US/blog/welcome-to-the-MDN-blog/
+
+S16:E5 - What are the quirks that come with being a developer ( Tyler Hawkins) | https://www.codenewbie.org/podcast/what-are-the-quirks-that-come-with-being-a-developer
+
+S24:E1 - From Customer Service to Code (Tae'lur Alexis) | https://www.codenewbie.org/podcast/from-customer-service-to-cybersecurity
+
+FLOSS Weekly 755: Nextcloud - Frank Karlitschek, Nextcloud Growth and Updates | https://twit.tv/shows/floss-weekly/episodes/755
+
+November 2023 (version 1.85) | https://code.visualstudio.com/updates/v1_85
+
+From the Shadowed Depths: Why Telegram Mini Apps Outshine Native Apps for Business | https://dev.to/devflex-pro/from-the-shadowed-depths-why-telegram-mini-apps-outshine-native-apps-for-business-39ha
+
+S11:E1 - Why ethics and contributor behavior matters in open source (Coraline Ada Ehmke) | https://www.codenewbie.org/podcast/why-ethics-and-contributor-behavior-matters-in-open-source
+
+What does Stack Overflow want to be when it grows up? | https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/
+
+Collections in Java | https://www.sitepoint.com/collections-in-java/?utm_source=rss
+
+Using the Strangler Fig with Mobile Apps | https://martinfowler.com/articles/strangler-fig-mobile-apps.html
+
+Ep. 12 - Mother Coders (Tina Lee) | https://www.codenewbie.org/podcast/mother-coders
+
+Fallthrough & Friends | https://changelog.com/friends/77
+
+ShopTalk & Friends | https://changelog.com/friends/72
+
+S12:E2 - What is COBOL and should you learn it (Pete Dashwood) | https://www.codenewbie.org/podcast/what-is-cobol-and-should-you-learn-it
+
+An Exercise Program for the Fat Web | https://blog.codinghorror.com/an-exercise-program-for-the-fat-web/
+
+Ep. 99 - Creating Lifehacker - Part II (Gina Trapani) | https://www.codenewbie.org/podcast/creating-lifehacker-part-ii
+
+Ep. 22 - Intro to UX (Catt Small) | https://www.codenewbie.org/podcast/intro-to-ux
+
+React Callback Refs: What They Are and How to Use Them | https://feeds.dzone.com/link/23564/16958426/react-callback-refs-guide
+
+Turso is rewriting SQLite in Rust | https://changelog.com/podcast/626
+
+A year of publishing the MDN Blog | https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/
+
+The Chinese Computer: A Global History of the Information Age | https://www.youtube.com/watch?v=XBVNy-pUqVk
+
+A case for QLC SSDs in the data center | https://engineering.fb.com/2025/03/04/data-center-engineering/a-case-for-qlc-ssds-in-the-data-center/
+
+Cloud-Native Distributed Storage System CubeFS Graduates from CNCF | https://www.infoq.com/news/2025/03/cubefs-cncf-graduation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+An Ode To Side Project Time | https://smashingmagazine.com/2025/01/ode-to-side-project-time/
+
+S3:E2 - What's a container? (Kelsey Hightower) | https://www.codenewbie.org/podcast/what-s-a-container
+
+S22:E1 - The new wave of frontend developer tools are on their way (Chris Ferdinandi) | https://www.codenewbie.org/podcast/the-new-wave-of-frontend-developer-tools-are-on-their-way
+
+Ep. 142 - Codeland - Mental Health talks from Michelle Morales and Greg Baugues (Michelle Morales, Greg Baugues) | https://www.codenewbie.org/podcast/codeland-mental-health-talks-from-michelle-morales-and-greg-baugues
+
+Privacy Preserving ML with Fully Homomorphic Encryption | https://www.youtube.com/watch?v=g1Zlu63TP0Y
+
+AI Snake Oil | https://www.youtube.com/watch?v=CedHzg-VRiI
+
+Understanding LLMs Like Physicists: Observation, Hypothesis, Experimentation, and Prediction | https://www.youtube.com/watch?v=sl1LJ6HKcjI
+
+S25:E4 - Diversity Dialogues in Tech (Ale Thomas) | https://www.codenewbie.org/podcast/diversity-dialogues-in-tech
+
+Static Site Generation (SSG) with Next.js | https://developer.mozilla.org/en-US/blog/static-site-generation-with-nextjs/
+
+Deep-dive into DeepSeek | https://changelog.com/practicalai/302
+
+Ep. 15 - Intro to DevOps (Christopher Webber) | https://www.codenewbie.org/podcast/intro-to-devops
+
+Modernizing conventional test automation with TestGrid | https://developer.mozilla.org/en-US/blog/modernizing-test-automation-with-test-grid/
+
+S25:E3 - Self-Taught Coding Stories of a Former Lab Scientist (Vanessa Vun) | https://www.codenewbie.org/podcast/self-taught-coding-stories-of-an-former-lab-scientist
+
+S12:E8 - How to harness privilege to create equitable design  (Aubrey Blanche) | https://www.codenewbie.org/podcast/how-to-harness-privilege-to-create-equitable-design
+
+Ep. 28 - Coding Printers (Kate Donahue) | https://www.codenewbie.org/podcast/coding-printers
+
+How Game Developers Detect and Prevent Modding and Scripting | https://www.sitepoint.com/how-game-developers-detect-modding-and-scripting/?utm_source=rss
+
+Ignite a Love for Reading: Top Tips Every Teacher and Parent Must Know | https://www.coolcatteacher.com/talkreading/
+
+Ep. 129 - Getting My First Developer Job (Paola Mata) | https://www.codenewbie.org/podcast/getting-my-first-developer-job
+
+Ep. 39 - From Coding To Venture Capital (Andrew Chen) | https://www.codenewbie.org/podcast/from-coding-to-venture-capital
+
+KAN: Kolmogorov-Arnold Networks | https://www.youtube.com/watch?v=JuPwfQlPUt0
+
+Ep. 113 - Hackathons (Leslie Hitchcock) | https://www.codenewbie.org/podcast/hackathons
+
+Ep. 40 - From Cars To Code (Angel Jose) | https://www.codenewbie.org/podcast/from-cars-to-code
+
+S20:E2 - What you need to be prepared for any job interview (Randall Kanna) | https://www.codenewbie.org/podcast/what-you-need-to-be-prepared-for-any-job-interview
+
+S20:E1 - Where you can find quality live coding instruction online (Leon Noel) | https://www.codenewbie.org/podcast/where-you-can-find-quality-live-coding-instruction-online
+
+February 2024 (version 1.87) | https://code.visualstudio.com/updates/v1_87
+
+How to Set Up the New Google Auth in a React and Express App | https://www.sitepoint.com/google-auth-react-express/?utm_source=rss
+
+S22:E8 - From Opera to Code (Anna McDougall) | https://www.codenewbie.org/podcast/from-opera-to-code
+
+S23:E7 - How a Single Mom in a Shelter Became a Successful Software Developer (Brittney Ball) | https://www.codenewbie.org/podcast/from-homeless-single-mom-to-software-engineer
+
+S15:E10 - DevNews: Platforms as Utilities, Archiving Yahoo Answers, and Companies Rescinding Accepted Offers (Josh Puetz, Nikolas Guggenberger, Jason Scott) | https://www.codenewbie.org/podcast/devnews-platforms-as-utilities-archiving-yahoo-answers-and-companies-rescinding-accepted-offers
+
+Imagen 3 arrives in the Gemini API | https://developers.googleblog.com/en/imagen-3-arrives-in-the-gemini-api/
+
+Ep. 65 - Art and Code (Dan Shiffman) | https://www.codenewbie.org/podcast/art-and-code
+
+Exploring Motivation | https://inspiredtoeducate.net/inspiredtoeducate/exploring-motivation/
+
+Developer Guide: How to Implement Passkeys | https://www.sitepoint.com/developers-guide-to-implementing-passkeys/?utm_source=rss
+
+S17:E4 - How to find a mentor and be a successful manager (Tanaka Mutakwa) | https://www.codenewbie.org/podcast/how-to-find-a-mentor-and-be-a-successful-manager
+
+January 2025 (version 1.97) | https://code.visualstudio.com/updates/v1_97
+
+Build Scalable AI Agents: Langbase and the Gemini API | https://developers.googleblog.com/en/build-scalable-ai-agents-langbase-and-the-gemini-api/
+
+S18:E4 - How to make sense of the testing landscape (Sergei Egorov) | https://www.codenewbie.org/podcast/how-to-make-sense-of-the-testing-landscape
+
+S5:E8 - From musician to developer (Chad Fowler) | https://www.codenewbie.org/podcast/from-musician-to-developer
+
+S18:E6 - How you can use music to learn code  (Sam Aaron) | https://www.codenewbie.org/podcast/how-you-can-use-music-to-learn-code
+
+Human-Centered Design Through AI-Assisted Usability Testing: Reality Or Fiction? | https://smashingmagazine.com/2025/02/human-centered-design-ai-assisted-usability-testing/
+
+GenAI Patterns: RAG Limitations and Hybrid Retriever | https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice
+
+React: then & now | https://changelog.com/jsparty/349
+
+DeepSeek-R1's epic pull request | https://changelog.com/news/129
+
+FLOSS Weekly 760: Making Money In Open Source - Adam Jacob, Chef & System Initiative | https://twit.tv/shows/floss-weekly/episodes/760
+
+Panel at goto Copenhagen: "Where is SW development Going | https://www.youtube.com/watch?v=86-Dy5U2p5Y
+
+How Business Automation Can Be Affordable for Small Businesses | https://www.sitepoint.com/business-automation-for-small-businesses/?utm_source=rss
+
+Updating The Single Most Influential Book of the BASIC Era | https://blog.codinghorror.com/updating-the-single-most-influential-book-of-the-basic-era/
+
+How to debug mobile apps across devices | https://developer.mozilla.org/en-US/blog/debug-mobile-apps-across-devices/
+
+Quick Tip: Creating a Date Picker in React | https://www.sitepoint.com/quick-tip-creating-a-date-picker-in-react/?utm_source=rss
+
+Retrieval-augmented Generation: Revolution or Overpromise? | https://www.sitepoint.com/retrieval-augmented-generation-revolution-overpromise/?utm_source=rss
+
+Migrating from GitHub to GitLab seamlessly: A step-by-step guide | https://developer.mozilla.org/en-US/blog/migrating-from-github-to-gitlab-seamlessly-a-step-by-step-guide/
+
+Fixing Common Pitfalls of Codemods | https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods
+
+S18:E5 - How military veterans can translate their skills to tech (iAsia Brown) | https://www.codenewbie.org/podcast/how-military-veterans-can-translate-their-skills-to-tech
+
+S15:E4 - What is Node.js and when might you use it (Danielle Adams) | https://www.codenewbie.org/podcast/what-is-node-js-and-when-might-you-use-it-6535ac6c-e291-4937-9992-3a2c2c484a87
+
+The world of embedded systems | https://changelog.com/podcast/624
+
+The dev container CLI | https://code.visualstudio.com/blogs/2022/05/18/dev-container-cli
+
+An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines | https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/
+
+Will instruclab.ai's Synthetic Data-Based LLM Fine-Tuning Make the Process More Accessible? | https://www.infoq.com/news/2025/03/llm-finetuning-synthetic-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global
+
+Ep. 26 - The Hardware Marketplace (Julia Grace) | https://www.codenewbie.org/podcast/the-hardware-marketplace
+
+How Meta is translating its Java codebase to Kotlin | https://engineering.fb.com/2025/02/25/android/how-meta-is-translating-its-java-codebase-to-kotlin/
+
+Teachers Can Save Time with These 11 Simple Hacks! | https://www.coolcatteacher.com/e879/
+
+S14:E4 - How to use code to build cross-cultural understanding (Laura Gutierrez-Funderburk) | https://www.codenewbie.org/podcast/how-to-use-code-to-build-cross-cultural-understanding
+
+S15:E3 - How to build an app from idea to maintenance (Kyle Lee) | https://www.codenewbie.org/podcast/how-to-build-an-app-from-idea-to-maintenance
+
+Ep. 141 - Codeland - Interview with NYC's first CTO (Minerva Tantoco) | https://www.codenewbie.org/podcast/codeland-interview-with-nyc-s-first-cto
+
+S23:E1 - Psychological Safety in Tech (Taylor Poindexter) | https://www.codenewbie.org/podcast/psychological-safety-in-tech
+
+S8:E5 - UX in healthcare (Danielle Smith) | https://www.codenewbie.org/podcast/ux-in-healthcare
+
+Sending Email Using Node.js | https://www.sitepoint.com/sending-email-using-node-js/?utm_source=rss
+
+Ep. 121 - TechHire (Tess Posner) | https://www.codenewbie.org/podcast/techhire
+
+The Developer’s Guide to AI Chatbot Authorization | https://www.sitepoint.com/developers-guide-to-ai-chatbot-authorization/?utm_source=rss
+
+The Case For Minimal WordPress Setups: A Contrarian View On Theme Frameworks | https://smashingmagazine.com/2025/03/case-minimal-wordpress-setups-contrarian-view-theme-frameworks/
+
+S17:E9 - What are some database architectures and their use cases (Kyle Bernhardy) | https://www.codenewbie.org/podcast/what-are-some-database-architectures-and-their-use-cases
+
+MDN 2024 content projects | https://developer.mozilla.org/en-US/blog/mdn-2024-content-projects/
+
+Monitoring and optimizing website performance | https://developer.mozilla.org/en-US/blog/optimize-web-performance/
+
+A Multi Dimensional Online Contention Resolution Scheme | https://www.youtube.com/watch?v=iqa4OYEEjB0
+
+Exploring the Broadcast Channel API for cross-tab communication | https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication/
+
+S13:E4 - Why you shouldn’t forget about CSS (Hui Jing Chen) | https://www.codenewbie.org/podcast/why-you-shouldn-t-forget-about-css
+
+Remote Development Even Better | https://code.visualstudio.com/blogs/2022/12/07/remote-even-better
+
+S15:E9 - What it looks like when you start coding very early in life (Opemipo Disu) | https://www.codenewbie.org/podcast/what-it-looks-like-when-you-start-coding-very-early-in-life
+
+Ep. 5 - Speaking of Speaking (Marty Haught) | https://www.codenewbie.org/podcast/ep-5-speaking-of-speaking
+
+CI/CDagger | https://changelog.com/shipit/133
+
+Introducing the MDN HTTP Observatory | https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/
+
+
+
+
+
+
+
+
+
+# Code
+
+Design Director (Kristy Tillman) | https://www.codenewbie.org/podcast/design-director
+How to get into spatial computing (April Speight) | https://www.codenewbie.org/podcast/how-to-get-into-spatial-computing
+How to create content and build communities ( Cassidy Williams) | https://www.codenewbie.org/podcast/how-to-create-content-and-build-communities
+How freeCodeCamp has evolved over time (Quincy Larson) | https://www.codenewbie.org/podcast/how-freecodecamp-has-evolved-over-time
+Windows Subsystem for Linux 2 (WSL2): The Complete Tutorial for Windows 10 & 11 | https://www.sitepoint.com/wsl2/?utm_source=rss
+Getting Involved (Scott Hanselman) | https://www.codenewbie.org/podcast/getting-involved
+
+
+# Code + AI
+How to debug code with GitHub Copilot | https://github.blog/ai-and-ml/github-copilot/how-to-debug-code-with-github-copilot/
+Introducing GitHub Copilot agent mode (preview) | https://code.visualstudio.com/blogs/2025/02/24/introducing-copilot-agent-mode
+
+
+# GenAI
+How Amazon Q is emerging as no-code serverless Gen AI virtual assistant | https://www.sitepoint.com/amazon-q-as-gen-ai-virtual-assistant/?utm_source=rss
+Enhancing DevSecOps Workflows with Generative AI: A Comprehensive Guide | https://www.sitepoint.com/enhancing-devsecops-workflows-with-generative-ai-a-comprehensive-guide/?utm_source=rss
+
+# DevOps
+The Functional Depth of Docker and Docker Compose | https://www.sitepoint.com/functional-depth-of-docker-and-docker-compose/?utm_source=rss
+
+
+Run WebAssemblies in VS Code for the Web | https://code.visualstudio.com/blogs/2023/06/05/vscode-wasm-wasi
+How to Optimize Website Content for Featured Snippets | https://www.sitepoint.com/featured-snippets-optimize-website-content/?utm_source=rss
 
