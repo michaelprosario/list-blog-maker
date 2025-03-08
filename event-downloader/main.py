@@ -1,5 +1,4 @@
 from jinja2 import Environment, FileSystemLoader
-import google.generativeai as genai
 import os
 import json
 import requests
@@ -86,6 +85,11 @@ def getMeetupGroupList():
         'https://www.meetup.com/angularcommunity',
         'https://www.meetup.com/Beginning-Web-Development',
         'https://www.meetup.com/meetup-group-sklbvjas',
+        'https://www.meetup.com/orlando-innovation-league',
+        'https://www.meetup.com/awe-nite-orlando',
+        'https://www.meetup.com/producttank-orlando',
+        'https://www.meetup.com/agile-orlando',
+        'https://www.meetup.com/onetug'
     ]
 
 def renderBlogs(records, template, outputFile):
@@ -109,6 +113,10 @@ if __name__ == '__main__':
         if first_event_url != '':
             event_data = extract_event_data(first_event_url)
             eventData.append(event_data)
+
+    # sort eventData by date
+    eventData = sorted(eventData, key=lambda x: x['date'])
+
     renderBlogs(eventData, 'template.md', 'output.md')
     
 

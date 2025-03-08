@@ -1,31 +1,24 @@
 ## Orlando Tech Meetups
 
-- [Weekly Meetup, Mon, Aug 19, 2024, 8:00 PM](https://meetup.com/beginning-web-development/events/301732640/?eventOrigin=group_upcoming_events) via beginning-web-development
+- [Weekly General Meetup, Mon, Mar 10, 2025, 8:00 PM](https://www.meetup.com/beginning-web-development/events/306538460/?eventOrigin=group_upcoming_events) via beginning-web-development
 
-- [MeGa Health Social Nite, Thu, Aug 22, 2024, 6:00 PM](https://meetup.com/indienomicon/events/302930317/?eventOrigin=group_upcoming_events) via indienomicon
+- [Python Dinner, Tue, Mar 11, 2025, 7:00 PM](https://www.meetup.com/orlandopython/events/304222772/?eventOrigin=group_upcoming_events) via orlandopython
 
-- [Weekly Hacks, Thu, Aug 22, 2024, 8:00 PM](https://meetup.com/hacktivate/events/302606405/?eventOrigin=group_upcoming_events) via hacktivate
+- [March OrlandoJS meetup, Thu, Mar 13, 2025, 6:30 PM](https://www.meetup.com/orlandojs/events/306422932/?eventOrigin=group_upcoming_events) via orlandojs
 
-- [MeGa Health Jam 2024, Fri, Aug 23, 2024, 6:00 PM](https://meetup.com/gdg-central-florida/events/302738556/?eventOrigin=group_upcoming_events) via gdg-central-florida
+- [Virtual "2nd Fridays" Lean Coffee Orlando , Fri, Mar 14, 2025, 7:30 AM](https://www.meetup.com/agile-orlando/events/305026996/?eventOrigin=group_upcoming_events) via agile-orlando
 
-- [Orlando AI/ML Study Group, Sat, Aug 24, 2024, 10:00 AM](https://meetup.com/orlando-ai-ml-study-group/events/302891168/?eventOrigin=group_upcoming_events) via orlando-ai-ml-study-group
+- [Startup Weekend Orlando Pre-event - Leadership Panel with Black Orlando Tech, Tue, Mar 18, 2025, 6:30 PM](https://www.meetup.com/orlando-innovation-league/events/306238441/?eventOrigin=group_upcoming_events) via orlando-innovation-league
 
-- [Building a JSON API with Golang, Sat, Aug 24, 2024, 7:00 PM](https://meetup.com/florida-software-school/events/301941664/?eventOrigin=group_upcoming_events) via florida-software-school
+- [Weekly Hacks, Thu, Mar 20, 2025, 8:00 PM](https://www.meetup.com/hacktivate/events/306470622/?eventOrigin=group_upcoming_events) via hacktivate
 
-- [Pythonic Monthly Meeting, Tue, Aug 27, 2024, 7:00 PM](https://meetup.com/orlandopython/events/301780861/?eventOrigin=group_upcoming_events) via orlandopython
+- [March ODevs – Knowledge Graphs and eBPF, Wed, Mar 26, 2025, 7:00 PM](https://www.meetup.com/orlando-developers-meetup/events/306343028/?eventOrigin=group_upcoming_events) via orlando-developers-meetup
 
+- [Hands-on Workshop: Implementing Amazon Nova Foundation Models, Thu, Mar 27, 2025, 6:00 PM](https://www.meetup.com/orlandoaws/events/305404595/?eventOrigin=group_upcoming_events) via orlandoaws
 
-- [ODevs Social at Stardust, Thu, Aug 29, 2024, 6:00 PM](https://meetup.com/orlando-developers-meetup/events/302825511/?eventOrigin=group_upcoming_events) via orlando-developers-meetup
+- [Casual Meet and Greet, Sat, Mar 29, 2025, 11:00 AM](https://www.meetup.com/oviedo-codes/events/305455921/?eventOrigin=group_upcoming_events) via oviedo-codes
 
-- [Hands-on Build with GenAI: Build Your Own Chat Assistant with Your Data!, Thu, Aug 29, 2024, 6:00 PM](https://meetup.com/orlandoaws/events/302825766/?eventOrigin=group_upcoming_events) via orlandoaws
+- [Product + AI: Real World Stories, Tue, Apr 1, 2025, 6:30 PM](https://www.meetup.com/producttank-orlando/events/306522755/?eventOrigin=group_upcoming_events) via producttank-orlando
 
-- [Hands-on: Learn Kubernetes (K8S) together , Sat, Aug 31, 2024, 11:00 AM](https://meetup.com/orlando-devops/events/302778333/?eventOrigin=group_upcoming_events) via orlando-devops
-
-- [Casual Meet and Greet, Sat, Aug 31, 2024, 11:00 AM](https://meetup.com/oviedo-codes/events/302181078/?eventOrigin=group_upcoming_events) via oviedo-codes
-
-
-- [August OrlandoJS meetup, Tue, Aug 27, 2024, 6:00 PM](https://meetup.com/orlandojs/events/302691483/?eventOrigin=group_upcoming_events) via orlandojs
-
-
-- [Angular Community Meetup | August 2024, Tue, Aug 27, 2024, 6:00 PM](https://meetup.com/angularcommunity/events/302522823/?eventOrigin=group_upcoming_events) via angularcommunity
+- [Orlando Code Camp 2025 - Save the Date, Sat, Apr 5, 2025, 7:30 AM](https://www.meetup.com/onetug/events/305874385/?eventOrigin=group_upcoming_events) via onetug
 
