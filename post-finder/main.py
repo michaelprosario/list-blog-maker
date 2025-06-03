@@ -1,13 +1,7 @@
 import feedparser
-import random
-
 
 def getBlogs():
     blogs = [
-        {
-            "name": "InspiredToEducate.NET",
-            "rss_feed": "https://inspiredtoeducate.net/inspiredtoeducate/feed"
-        },
         {
             "name": "InnovativeTeams.NET",
             "rss_feed": "https://InnovativeTeams.NET/feed"
@@ -41,10 +35,6 @@ def getBlogs():
             "rss_feed": "https://dev.to/feed"
         },
         {
-            "name": "MDN Blog",
-            "rss_feed": "https://developer.mozilla.org/en-US/blog/rss.xml"
-        },
-        {
             "name": "ChangeLog",
             "rss_feed": "https://changelog.com/feed"
         },
@@ -61,20 +51,8 @@ def getBlogs():
             "rss_feed": "https://martinfowler.com/feed.atom"
         },
         {
-            "name": "coolcatteacher.com",
-            "rss_feed": "https://www.coolcatteacher.com/feed/"
-        },
-        {
-            "name": "FLOSS Weekly",
-            "rss_feed": "https://feeds.twit.tv/floss.xml"
-        },
-        {
             "name": "Coding Newbie",
             "rss_feed": "http://feeds.codenewbie.org/cnpodcast.xml"
-        },
-        {
-            "name": "Leadership freak",
-            "rss_feed": "https://leadershipfreak.blog/feed"
         },
         {
             "name": "VSCode Blog",
@@ -92,22 +70,6 @@ def getBlogs():
             "name": "Facebook Engineering",
             "rss_feed": "https://engineering.fb.com/feed/"
         },
-        {
-            "name": "Coding Horror",
-            "rss_feed": "https://feeds.feedburner.com/codinghorror"
-        },
-        {
-            "name": "LinkedIn Engineering",
-            "rss_feed": "https://engineering.linkedin.com/blog.rss.html"
-        }
-        ]
-
-    return blogs
-
-
-
-def getAndroidDevBlogs():
-    blogs = [
         {
             "name": "Android Developers Blog",
             "rss_feed": "https://medium.com/feed/androiddevelopers"
@@ -132,12 +94,92 @@ def getAndroidDevBlogs():
             "name": "The Knights of Unity Blog",
             "rss_feed": "https://blog.theknightsofunity.com/feed"
         }
-        
     ]
-    
+
     return blogs
 
-blogs = getBlogs()
+def getBlogs2():
+    blogs = [
+    {
+    "name": "Google Cloud Blog",
+    "rss_feed": "https://cloud.google.com/blog/products/gcp/rss.xml"
+    },
+    {
+    "name": "Google Developers Blog",
+    "rss_feed": "https://developers.googleblog.com/feeds/posts/default"
+    },
+    {
+    "name": "Google AI Blog",
+    "rss_feed": "https://ai.googleblog.com/feeds/posts/default"
+    },
+    {
+    "name": "Google Workspace Updates Blog",
+    "rss_feed": "https://workspaceupdates.googleblog.com/feeds/posts/default"
+    },
+    {
+    "name": "Android Developers Blog",
+    "rss_feed": "https://android-developers.googleblog.com/feeds/posts/default"
+    },
+    {
+    "name": "web.dev",
+    "rss_feed": "https://web.dev/feed.xml"
+    },
+    {
+    "name": "Chrome Developers Blog",
+    "rss_feed": "https://developer.chrome.com/blog/feed.xml"
+    },
+    {
+    "name": "Firebase Blog",
+    "rss_feed": "https://firebase.googleblog.com/feeds/posts/default"
+    },
+    {
+    "name": "Google Security Blog",
+    "rss_feed": "https://security.googleblog.com/feeds/posts/default"
+    },
+    {
+    "name": "Google Search Central Blog",
+    "rss_feed": "https://developers.google.com/search/blog/rss.xml"
+    },
+    {
+    "name": "DEV Community (general)",
+    "rss_feed": "https://dev.to/feed"
+    },
+    {
+    "name": "Hacker Noon (general)",
+    "rss_feed": "https://hackernoon.com/feed"
+    },
+    {
+    "name": "InfoQ - Cloud",
+    "rss_feed": "https://www.infoq.com/feed/cloud/"
+    },
+    {
+    "name": "DZone - Cloud",
+    "rss_feed": "https://dzone.com/articles/rss.xml?section=cloud"
+    },
+    {
+    "name": "The New Stack",
+    "rss_feed": "https://thenewstack.io/feed/"
+    },
+    {
+    "name": "Serverless.com Blog",
+    "rss_feed": "https://www.serverless.com/blog/rss.xml"
+    },
+    {
+    "name": "Towards Data Science (publication feed)",
+    "rss_feed": "https://towardsdatascience.com/feed"
+    },
+    {
+    "name": "Cloud Native Computing Foundation (CNCF) Blog",
+    "rss_feed": "https://www.cncf.io/feed/"
+    },
+    {
+    "name": "Google Cloud Community Blogs",
+    "rss_feed": "No single RSS feed available for this section"
+    }
+    ]
+    return blogs
+    
+blogs = getBlogs2()
 
 # create function to blog posts from a rss feed
 def get_blog_posts(rss_feed):    
@@ -148,11 +190,19 @@ def get_blog_posts(rss_feed):
 def getPostsFromBlogs(blogs):
     all_posts = []
     for blog in blogs:
+        
         posts = get_blog_posts(blog["rss_feed"])
-        all_posts.extend(posts)
+
+        for post in posts:
+            post_data = {
+                "title": post.title,
+                "link": post.link,
+                "blog_name": blog["name"]
+            }
+            all_posts.append(post_data)
 
     # randomize the order of the posts array
-    random.shuffle(all_posts)
+    #random.shuffle(all_posts)
     return all_posts
 
 all_posts = getPostsFromBlogs(blogs)
@@ -162,4 +212,4 @@ all_posts = getPostsFromBlogs(blogs)
 # with the name web-links.txt
 with open("posts.txt", "w") as file:
     for post in all_posts:
-        file.write(f"{post.title} | {post.link}\n\n")
+        file.write(f"{post['title']} | {post['link']}\n\n")
