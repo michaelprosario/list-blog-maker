@@ -175,7 +175,48 @@ def getBlogs2():
     {
     "name": "Google Cloud Community Blogs",
     "rss_feed": "No single RSS feed available for this section"
-    }
+    },
+    {
+    "name": "Google Open Source Blog",
+    "rss_feed": "https://opensource.googleblog.com/feeds/posts/default"
+    },
+    {
+    "name": "Open Source Initiative Blog",
+    "rss_feed": "https://opensource.org/feed/"
+    },
+    {
+    "name": "The GitHub Blog (Open Source section)",
+    "rss_feed": "https://github.blog/category/open-source/feed/"
+    },
+    {
+    "name": "ZDNET (Open Source section)",
+    "rss_feed": "https://www.zdnet.com/topic/open-source/rss.xml"
+    },
+    {
+    "name": "Open Source For You",
+    "rss_feed": "https://opensourceforu.com/feed/"
+    },
+    {
+    "name": "Red Hat Blog (Open Source section)",
+    "rss_feed": "https://www.redhat.com/en/blog/feed/rss"
+    },
+    {
+    "name": "Planet GNOME",
+    "rss_feed": "https://planet.gnome.org/rss20.xml"
+    },
+    {
+    "name": "Free Software Foundation (FSF) News",
+    "rss_feed": "https://www.fsf.org/news/rss.xml"
+    },
+    {
+    "name": "DEV Community (Open Source tag)",
+    "rss_feed": "https://dev.to/feed/tag/opensource"
+    },
+    {
+    "name": "TechRepublic (Open Source section)",
+    "rss_feed": "https://www.techrepublic.com/rssfeeds/topic/open-source/"
+    },
+
     ]
     return blogs
     
@@ -210,6 +251,6 @@ all_posts = getPostsFromBlogs(blogs)
 # convert the list posts to a text file of links
 # the file will be saved in the same directory as this script
 # with the name web-links.txt
-with open("posts.txt", "w") as file:
+with open("posts2.txt", "w") as file:
     for post in all_posts:
         file.write(f"{post['title']} | {post['link']}\n\n")

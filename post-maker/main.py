@@ -30,7 +30,22 @@ def buildPosts(urls):
         jsonString = jsonString.split('\n', 1)[1]
         jsonString = jsonString.rsplit('\n', 1)[0]
 
+        ## find ''' and replace with empty string
+        jsonString = jsonString.replace("```", "")
+
+        # trim up the jsonString
+        jsonString = jsonString.strip()
+
+
+        # write json string to file for debugging
+        with open('debug.json', 'w') as f:
+            f.write(jsonString)
+
+
+
         jData = json.loads(jsonString)
+
+
 
         posts.append({
             'title': jData['title'],
@@ -58,10 +73,22 @@ def getPostDataFromUrl(url):
     return response.text
 
 urls = [
-'https://innovativeteams.net/librechat-ai-privacy-focused-client-to-your-favorite-llm-tools/'
-'https://dev.to/crisclacerda/continuous-delivery-is-killing-software-quality-2kpl',
-'https://dev.to/kartikmehta8/advanced-css-animations-1bo9',
-'https://dev.to/samkamuli/understanding-your-data-the-essentials-of-exploratory-data-analysis-35g'
+'https://blog.streamlit.io/hackathon-101-5-simple-tips-for-beginners/',
+'https://firebase.google.com/docs/firestore',
+'https://supabase.com/docs/guides/getting-started/features',
+'https://ai.google.dev/',
+'https://codelabs.developers.google.com/codelabs/cloud-vision-api-python',
+'https://stitch.withgoogle.com',
+'https://data.cityoforlando.net/',
+'https://data.nasa.gov/',
+'https://data.gov/',
+'https://ml5js.org/',
+'https://www.kaggle.com/models',
+'https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-csharp',
+'https://google.github.io/adk-docs/#what-is-agent-development-kit',
+'https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro',
+'https://fastapi.tiangolo.com/',
+'https://benavlabs.github.io/FastAPI-boilerplate/'
 ]
 posts = buildPosts(urls)
 #print(posts)

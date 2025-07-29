@@ -54,17 +54,16 @@ def extract_event_data(url):
     event_date = event_parts[-3].strip()
 
     # get href element with id of event-group-link
-    event_group_link = soup.find('a', {'id': 'event-group-link'})
+    #event_group_link = soup.find('a', {'id': 'event-group-link'})
 
     # get the href attribute of the event_group_link
-    event_group_link_url = event_group_link['href']
+    #event_group_link_url = event_group_link['href']
 
     return {
         'title': event_name,
         'url': url,
         'date': event_date,
-        'time': event_time,
-        'group_url': event_group_link_url,
+        'time': event_time,        
         'meetup_name': meetup_name
     }
 
