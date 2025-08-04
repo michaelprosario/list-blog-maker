@@ -101,6 +101,10 @@ def getBlogs():
 def getBlogs2():
     blogs = [
     {
+        "name": "Innovate Orlando",
+        "rss_feed": "https://innovateorlando.com/feed"
+    },
+    {
     "name": "Google Cloud Blog",
     "rss_feed": "https://cloud.google.com/blog/products/gcp/rss.xml"
     },
@@ -251,6 +255,6 @@ all_posts = getPostsFromBlogs(blogs)
 # convert the list posts to a text file of links
 # the file will be saved in the same directory as this script
 # with the name web-links.txt
-with open("posts2.txt", "w") as file:
+with open("posts__8_4_2025.txt", "w") as file:
     for post in all_posts:
         file.write(f"{post['title']} | {post['link']}\n\n")
