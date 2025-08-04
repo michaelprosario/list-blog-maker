@@ -93,7 +93,8 @@ def getMeetupGroupList():
         'https://www.meetup.com/dba-fundamentals-group',
         'https://www.meetup.com/wordpress-orlando',
         'https://www.meetup.com/orlando-lady-developers-meetup',
-        'https://www.meetup.com/space-coast-devs'
+        'https://www.meetup.com/space-coast-devs',
+        'https://www.meetup.com/1-million-cups-orlando'
     ]
 
 def renderBlogs(records, template, outputFile):
