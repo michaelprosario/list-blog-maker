@@ -255,6 +255,6 @@ all_posts = getPostsFromBlogs(blogs)
 # convert the list posts to a text file of links
 # the file will be saved in the same directory as this script
 # with the name web-links.txt
-with open("posts__8_4_2025.txt", "w") as file:
+with open("posts__8_9_2025.txt", "w") as file:
     for post in all_posts:
         file.write(f"{post['title']} | {post['link']}\n\n")
