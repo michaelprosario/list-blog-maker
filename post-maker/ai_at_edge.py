@@ -73,16 +73,19 @@ def getPostDataFromUrl(url):
     return response.text
 
 urls = [
-'https://reactiveui.github.io/refit',
-'https://github.com/christianhelle/refitter',
-'https://github.com/reactiveui/ReactiveUI',
-'https://docs.avaloniaui.net/docs/overview/what-is-avalonia',
-'https://marp.app/',
-'https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm',
-'https://github.com/dotnet/maui-samples',
-'https://mudblazor.com',
+    'https://devfestflorida.com',
+    'https://google.github.io/adk-docs/',
+    'https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-python',
+    'https://ollama.com/',
+    'https://github.com/michaelprosario/llm-power-tools',
+    'https://github.com/michaelprosario/transformerjs/blob/main/tutorials1/object-detection-tutorial.m',
+    'https://www.eddieboscana.com/articles/full-stack-engineering-captchagrind-app',
+    'https://n8n.io',
+    'https://deno.com/',
+    'https://huggingface.co/docs/transformers.js/en/index',
+    'https://huggingface.co/collections/Xenova/transformersjs-demos-64f9c4f49c099d93dbc611df'
 ]
 posts = buildPosts(urls)
 #print(posts)
-renderBlogs(posts, 'template.md', 'output.md')
+renderBlogs(posts, 'template.md', 'ai_at_edge.md')
 

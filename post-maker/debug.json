@@ -1,0 +1,6 @@
+{
+  "title": "Transformers.js Demos",
+  "summary": "This collection showcases various demos built using Transformers.js, a library for running transformer models in the browser.  The demos highlight the capabilities of Transformers.js, allowing users to interact with and experience the power of these models directly within their web browsers.  These interactive examples are designed to be educational and demonstrate practical applications of transformer models.  Explore diverse applications ranging from text generation and classification to question answering and more.",
+  "tags": ["Transformers.js", "JavaScript", "Machine Learning", "NLP", "Deep Learning", "Web Demo", "Transformer Models", "Browser-based AI", "Interactive Demo"],
+  "blogName": "Hugging Face"
+}
