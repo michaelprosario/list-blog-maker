@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Google Developers Blog",
+    "rss_feed": "https://feeds.feedburner.com/blogspot/Rj-Q"
+  },
+  {
+    "name": "Google Open Source Blog",
+    "rss_feed": "https://opensource.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "name": "Google Cloud Platform Blog",
+    "rss_feed": "https://cloud.google.com/blog/rss.xml"
+  },
+  {
+    "name": "Android Developers Blog",
+    "rss_feed": "https://feeds.feedburner.com/blogspot/hsDu"
+  },
+  {
+    "name": "DEV Community",
+    "rss_feed": "https://dev.to/feed"
+  },
+  {
+    "name": "HackerNoon",
+    "rss_feed": "https://hackernoon.com/feed"
+  },
+  {
+    "name": "Towards Data Science",
+    "rss_feed": "https://towardsdatascience.com/feed"
+  },
+  {
+    "name": "The New Stack",
+    "rss_feed": "https://thenewstack.io/feed/"
+  },
+  {
+    "name": "DZone",
+    "rss_feed": "https://dzone.com/rss/published/all.xml"
+  },
+  {
+    "name": "Netflix Tech Blog",
+    "rss_feed": "https://netflixtechblog.medium.com/feed"
+  },
+  {
+    "name": "Facebook Engineering Blog",
+    "rss_feed": "https://engineering.fb.com/feed/"
+  },
+  {
+    "name": "GitHub Blog",
+    "rss_feed": "https://github.blog/feed/"
+  },
+  {
+    "name": "Microsoft Open Source Blog",
+    "rss_feed": "https://cloudblogs.microsoft.com/opensource/feed/"
+  },
+  {
+    "name": "KDnuggets",
+    "rss_feed": "https://www.kdnuggets.com/feed"
+  },
+  {
+    "name": "Machine Learning Mastery",
+    "rss_feed": "https://machinelearningmastery.com/feed/"
+  },
+  {
+    "name": "Open Data Science (ODSC) Blog",
+    "rss_feed": "https://opendatascience.com/blog/feed/"
+  },
+  {
+    "name": "DataCamp Blog",
+    "rss_feed": "https://www.datacamp.com/community/blog/rss"
+  },
+  {
+    "name": "Smashing Magazine",
+    "rss_feed": "https://www.smashingmagazine.com/feed"
+  },
+  {
+    "name": "CSS-Tricks",
+    "rss_feed": "https://css-tricks.com/feed/"
+  },
+  {
+    "name": "web.dev",
+    "rss_feed": "https://web.dev/feed.xml"
+  },
+  {
+    "name": "The Firebase Blog",
+    "rss_feed": "https://firebase.googleblog.com/feeds/posts/default?alt=rss"
+  },
+  {
+    "name": "Martin Fowler's Blog",
+    "rss_feed": "https://martinfowler.com/bliki/bliki.rss"
+  },
+  {
+    "name": "Julia Evans",
+    "rss_feed": "https://jvns.ca/atom.xml"
+  },
+  {
+    "name": "DigitalOcean Community",
+    "rss_feed": "https://www.digitalocean.com/community/topics/blog/feed.xml"
+  },
+  {
+    "name": "The Pragmatic Engineer",
+    "rss_feed": "https://newsletter.pragmaticengineer.com/feed"
+  },
+    {
+    "name": "JS Party",
+    "rss_feed": "https://jsparty.fm/feed"
+  },
+  {
+    "name": "Android Developers Backstage",
+    "rss_feed": "https://adbackstage.libsyn.com/rss"
+  },
+  {
+    "name": "Data Skeptic",
+    "rss_feed": "https://dataskeptic.libsyn.com/rss"
+  },
+  {
+    "name": "Lex Fridman Podcast",
+    "rss_feed": "https://lexfridman.com/feed/podcast/"
+  },
+  {
+    "name": "Syntax.fm",
+    "rss_feed": "https://feeds.simplecast.com/lD8fA_s2"
+  },
+  {
+    "name": "Front End Happy Hour",
+    "rss_feed": "https://anchor.fm/s/fb57a4a8/podcast/rss"
+  },
+  {
+    "name": "The Changelog",
+    "rss_feed": "https://changelog.com/master/feed"
+  },
+  {
+    "name": "CodeNewbie",
+    "rss_feed": "http://feeds.codenewbie.org/cnpodcast.xml"
+  },
+  {
+    "name": "The Flutter Podcast",
+    "rss_feed": "https://feeds.simplecast.com/2s4JmD6x"
+  },
+  {
+    "name": "Fragmented",
+    "rss_feed": "https://feeds.simplecast.com/LpAGSLnY"
+  },
+  {
+    "name": "React Native Radio",
+    "rss_feed": "https://feeds.simplecast.com/8QeJ-9uL"
+  },
+  {
+    "name": "Google Cloud Platform Podcast",
+    "rss_feed": "https://www.gcppodcast.com/feed.xml"
+  },
+  {
+    "name": "Kubernetes Podcast from Google",
+    "rss_feed": "https://feeds.libsyn.com/654830/rss"
+  },
+  {
+    "name": "Screaming in the Cloud",
+    "rss_feed": "https://feeds.transistor.fm/screaming-in-the-cloud"
+  },
+  {
+    "name": "The Cloudcast",
+    "rss_feed": "http://feeds.thecloudcast.net/"
+  },
+  {
+    "name": "The TWIML AI Podcast",
+    "rss_feed": "https://twimlai.com/feed/podcast/"
+  },
+  {
+    "name": "SuperDataScience",
+    "rss_feed": "https://feeds.simplecast.com/4qQ-N_i0"
+  },
+  {
+    "name": "Free code camp",
+    "rss_feed": "https://www.freecodecamp.org/news/feed/"
+  }
+
+]

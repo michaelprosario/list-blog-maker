@@ -1,0 +1,7 @@
+read 
+- /workspaces/list-blog-maker/post-finder/hot-topics.txt
+-/workspaces/list-blog-maker/post-finder/posts__9_20_2025.txt
+
+Return a list of posts and their URL's that serve developers who work with google technologies.  The list should address topics mentioned in the hot-topics.txt.  store insight into output1.md
+
+Return 30 posts that data scientists would love.
