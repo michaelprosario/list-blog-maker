@@ -8,15 +8,20 @@ import json
 import os
 import requests
 
+# load environment variables from .env file
+from dotenv import load_dotenv
+load_dotenv()
+
 def extract_first_event(group_url):
     response = requests.get(group_url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # get the first anchor tag named event-card-e-1
-    first_event = soup.find('a', {'id': 'event-card-e-1'})
+    first_event = soup.find('a', {'data-event-label': 'Event Card'})
 
     # if first_event is None, return None
     if first_event is None:
+        print(f'No upcoming events found for {group_url}')
         return ''
 
     # get the href attribute of the first_event
@@ -225,8 +230,8 @@ if __name__ == '__main__':
     eventData = []
     for groupLink in groupLinks:
         first_event_url = extract_first_event(groupLink)
+        print(first_event_url)
         if first_event_url != '':
-            
             event_row = getEventDataFromMeetupUrl(groupLink)
 
             if event_row is not None:
@@ -235,6 +240,6 @@ if __name__ == '__main__':
     # sort eventData by date
     eventData = sorted(eventData, key=lambda x: x['when'])
 
-    
+    print("start rendering")
     renderBlogs(eventData, 'template.md', 'output.md')
     
