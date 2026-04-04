@@ -95,14 +95,15 @@ def getMeetupGroupList():
         'https://www.meetup.com/orlando-innovation-league',
         'https://www.meetup.com/awe-nite-orlando',
         'https://www.meetup.com/producttank-orlando',
-        'https://www.meetup.com/agile-orlando',
         'https://www.meetup.com/onetug',
         'https://www.meetup.com/data-tech-florida',
         'https://www.meetup.com/dba-fundamentals-group',
         'https://www.meetup.com/wordpress-orlando',
         'https://www.meetup.com/orlando-lady-developers-meetup',
         'https://www.meetup.com/space-coast-devs',
-        'https://www.meetup.com/1-million-cups-orlando'
+        'https://www.meetup.com/1-million-cups-orlando',
+        'https://www.meetup.com/orlando-jug-java-user-group',
+        'https://www.meetup.com/orlando-web3tech-and-beer'
     ]
 
 def renderBlogs(records, template, outputFile):

@@ -1,6 +1,12 @@
 {
-  "title": "Transformers.js Demos",
-  "summary": "This collection showcases various demos built using Transformers.js, a library for running transformer models in the browser.  The demos highlight the capabilities of Transformers.js, allowing users to interact with and experience the power of these models directly within their web browsers.  These interactive examples are designed to be educational and demonstrate practical applications of transformer models.  Explore diverse applications ranging from text generation and classification to question answering and more.",
-  "tags": ["Transformers.js", "JavaScript", "Machine Learning", "NLP", "Deep Learning", "Web Demo", "Transformer Models", "Browser-based AI", "Interactive Demo"],
-  "blogName": "Hugging Face"
+  "title": "Orlando Code Camp",
+  "summary": "Orlando Code Camp is a free, one-day technical conference organized by the local developer community for software professionals and students. The event features a wide range of sessions covering diverse topics such as AI, .NET, cloud computing, and web development. Attendees have the opportunity to network with industry experts and peers while learning about the latest trends in technology. Held annually, it serves as a premier gathering for fostering collaboration and skill-building within the Florida tech ecosystem.",
+  "tags": [
+    "#OrlandoCodeCamp",
+    "#TechConference",
+    "#SoftwareDevelopment",
+    "#CodingCommunity",
+    "#FloridaTech"
+  ],
+  "blogName": "Orlando Code Camp"
 }

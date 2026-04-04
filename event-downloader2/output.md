@@ -1,160 +1,218 @@
 ## Orlando Tech Meetups
 
 
-### [Virtual Coding and Co-working](https://www.meetup.com/space-coast-devs/events/311096292/?eventOrigin=group_upcoming_events)
-via Space Coast Devs
+### [Startup Weekend Orlando - Spring 2026](https://www.meetup.com/orlando-innovation-league/events/313346922/?eventOrigin=group_featured_event)
+via Isabella L.🔥 Orlando Innovation League
 
-Do you have a side project, side hustle, or need to study. Come and hang out with other members and get stuff done!
+Techstars Startup Weekend Orlando is a 3-day immersive entrepreneurship experience where developers, designers, marketers, and aspiring founders come together to pitch ideas, form teams, build real products or MVPs, validate with real customers, and present to experienced judges. It's an opportunity to turn ideas into real businesses in one high-energy, hands-on weekend.
 
-- WHEN: Every 2 weeks on Tuesday until December 2, 2025, starting Tue, Oct 7, 2025, 8:00 PM
-- WHERE: Online event
+- WHEN: Friday, April 10, 2026, 5:30 PM to Sunday, April 12, 2026, 10:00 PM EDT
+- WHERE: UCF Downtown, 500 W Livingston St · Orlando, FL (final venue details shared after registration)
 
-### [Weekly General Meetup](https://www.meetup.com/beginning-web-development/events/311193874/?eventOrigin=group_upcoming_events)
-via Timothy W. (Beginning Web Development)
+
+### [DevOps Lean Coffee](https://www.meetup.com/orlando-devops/events/313086733/?eventOrigin=group_upcoming_events)
+via Orlando DevOps
+
+Lean Coffee is a quick Kanban style of organizing technical discussions for 10-15 people across many topics. Attendees will start discussing and voting on topics by 7:15 PM and continue until time runs out. All are welcome, regardless of their current DevOps involvement. Attendees can join ODevs Discord for questions or chat.
+
+- WHEN: Mon, Apr 6, 2026, 7:00 PM to 9:00 PM EDT
+- WHERE: Outpost Neighborhood Tavern, 227 N Eola Dr, Orlando, FL
+
+
+### [Weekly General Meetup](https://www.meetup.com/beginning-web-development/events/313827283/?eventOrigin=group_upcoming_events)
+via Beginning Web Development
 
 Join us every week for our Weekly General Meetup, where we come together to discuss, learn, and share ideas on various topics related to web development and technology. Whether you're a beginner or an experienced developer, this casual event provides a space for all skill levels to connect, collaborate, and grow. Each meetup features open discussions, troubleshooting sessions, and the opportunity to ask questions and gain insights from fellow developers. It’s also a great chance to network, share your projects, and learn from others in a supportive and friendly environment. Whether you’re working on a personal project, exploring new technologies, or just starting out in the world of web development, our Weekly General Meetup is the perfect place to continue your learning journey.
 
-- WHEN: Every Monday until December 31, 2025 at 8:00 PM
+- WHEN: Mon, Apr 6, 2026, 8:00 PM (Every week on Monday until January 1, 2027)
 - WHERE: Online event
 
 
-### [Azure Data Fundamentals - Session 5: Preparation for the exam DP-900: Microsoft](https://www.meetup.com/data-tech-florida/events/311024625/?eventOrigin=group_upcoming_events)
-via Data Tech Florida (Hosted by Nicolas N.)
+### [Fabric Data Days](https://www.meetup.com/data-tech-florida/events/311698712/?eventOrigin=group_past_events)
+via Data Tech Florida
 
-This is the fifth session in a free workshop series on Azure Data Fundamentals certification, focusing on preparation for the official DP-900: Microsoft Azure Data Fundamentals exam. It's suitable for newcomers to data, those wanting to review/update knowledge, and individuals seeking international certification. The series is led by MVP Nicolas Nakasone, a Senior Data Engineer at Avanade. Attendees will have the opportunity to ask live questions to leaders and experts.
+Join this event where experts, leaders and MVPs will talk about the latest in MS Fabric on topics such as: Fabric Real Time, Fabric SQL Database, Fabric Data Engineering, Fabric DevOps, Fabric Governance. Speakers include MVP Lucrecia Krause, Mou Rakshit, Nitish Reddy Kotha, and MVP Nicolas Nakasone.
 
-- WHEN: Sat, Oct 11, 2025, 9:00 AM
+- WHEN: Sat, Dec 6, 2025, 9:00 AM
 - WHERE: Online event
 
-### [Coding Horror Stories Only](https://www.meetup.com/oviedo-codes/events/310791295/?eventOrigin=group_upcoming_events)
+
+### [Dive into Virtual Worlds: Intro to AndroidXR & WebXR Tools](https://www.meetup.com/gdg-central-florida/events/313749966/?eventOrigin=group_past_events)
+via GDG G.Google Developer Group Central Florida
+
+An exciting virtual community event introducing AndroidXR and exploring the latest WebXR tools for web developers interested in Extended Reality (XR). It's an opportunity to connect with like-minded individuals, share ideas, and expand skills in the future of web development.
+
+- WHEN: Sat, Mar 28, 2026, 10:00 AM
+- WHERE: Online event
+
+
+### [Orlando Code Camp 2026 - Tickets on Eventbrite](https://www.meetup.com/onetug/events/313057592/?eventOrigin=group_upcoming_events)
+via ONETUG - Orlando .NET User Group
+
+The next edition of Orlando Code Camp is happening on April 11th, 2026. This event includes speakers, sessions, and opportunities for sponsorship and volunteering. Tickets are available on Eventbrite.
+
+- WHEN: Saturday, April 11, 2026, 8:00 AM to 5:00 PM EDT
+- WHERE: Seminole State College - Sanford/Lake Mary Campus, 100 Weldon Blvd, Sanford, FL
+
+
+### [Casual Meet and Greet](https://www.meetup.com/oviedo-codes/events/313695187/?eventOrigin=group_past_events)
 via Oviedo Codes
 
-This event is for members only to share coding horror stories. It is hosted by Oviedo Codes.
+A casual meet and greet event organized by Oviedo Codes.
 
-- WHEN: Saturday, Oct 25, 2025 · 11:00 AM to 12:30 PM EDT
+- WHEN: Saturday, Mar 28, 2026 · 11:00 AM to 12:30 PM EDT
 - WHERE: Location visible to members
 
-### [Practice Solving Data Structures and Algorithms Problems](https://www.meetup.com/florida-software-school/events/308927761/?eventOrigin=group_upcoming_events)
-via Florida Software School (Hosted by Mart)
 
-This event is a practice session to go over solving Data Structures and Algorithms (DSA) problems. The session might cover problems such as "Remove Element", "Move Zeroes", and "Sort Colors" from Leetcode. It's suitable for job interview prep, computer programming, software development, and learning to code.
-
-- WHEN: Thu, Oct 9, 2025, 8:00 PM
-- WHERE: Online event
-
-### [INDIENOMICON FOUNDATION: AWENO Immersive Intelligence Lab](https://www.meetup.com/awe-nite-orlando/events/310858216/?eventOrigin=group_upcoming_events)
-via AWE Nite Orlando
-
-Join INDIENOMICON FOUNDATION & AWE Nite Orlando for a day of cutting-edge innovation, skill-building, and community connection at the Immersive Intelligence Lab. This event brings together XR pioneers, AI innovators, developers, designers, educators, and curious minds ready to explore the future of immersive and intelligent technologies. Expect workshops, developer sessions, live tech demos, and presentations designed to equip you with real-world skills, spark collaboration, and expand your network.
-
-- WHEN: Thursday, Oct 16, 2025, 4:00 PM to 9:00 PM EDT
-- WHERE: Tech Hub, 36 W. Pine St · Orlando, FL
-
-### [DevOps Lean Coffee](https://www.meetup.com/orlando-devops/events/311285206/?eventOrigin=group_past_events)
-via Orlando DevOps
-
-
-### [Weekly Hacks](https://www.meetup.com/hacktivate/events/311248758/?eventOrigin=group_upcoming_events)
+### [Weekly Hacks](https://www.meetup.com/hacktivate/events/313991583/?eventOrigin=group_upcoming_events)
 via Hacktivate - Hackathon Meetup Group
 
 Welcome to Weekly Hacks. We will be hosting a call to talk about what we're hacking on, projects we're looking to collaborate on, or just talk about the latest tech news. It will be every other Thursday from 8 pm until 9 pm ET. This is a great place for tech enthusiasts to connect and collaborate. Whether you're a software developer, UX/UI designer, data scientist, product manager, or just someone fascinated by the ever-evolving world of technology, there's something for everyone. Get ready to unwind after work, share ideas, discuss trends, explore potential collaborations, and get inspired!
 
-- WHEN: Thursday, October 16, 2025 from 8:00 PM to 9:00 PM ET (every other Thursday)
+- WHEN: Thu, Apr 16, 2026, 8:00 PM
 - WHERE: Online event
 
 
-### [Angular Community Meetup - En Español](https://www.meetup.com/angularcommunity/events/rbvdltyjclbpb/?eventOrigin=group_upcoming_events)
-via Angular Community Meetup
+### [GenAI apps with LangChain4j and MCP](https://www.meetup.com/orlando-jug-java-user-group/events/313772240/?eventOrigin=group_upcoming_events)
+via Orlando JUG (Java User Group)
 
-The Angular Community Meetup - En Español aims to help developers of all skill levels learn and improve their Angular skills through technical and non-technical presentations, career networking, participation, games, and prizes. The itinerary includes solving an Angular-themed crossword puzzle.
+This session will explore how to create GenAI apps with LangChain4j and MCP (Model Context Protocol), facilitating standardized interactions with external tools. Through practical examples, attendees will learn how to build enterprise-scale AI solutions that enhance modularity and scalability.
 
-- WHEN: Tue, Aug 11, 2026, 5:00 PM
+- WHEN: Thursday, Apr 9, 2026, 6:30 PM to 8:30 PM EDT
+- WHERE: Tech Hub, 36 W. Pine St · Orlando, FL
+
+
+### [Virtual Coding and Co-working](https://www.meetup.com/space-coast-devs/events/311868765/?eventOrigin=group_past_events)
+via Space Coast Devs
+
+Do you have a side project, side hustle, or need to study. Come and hang out with other members and get stuff done!
+
+- WHEN: Tue, Dec 2, 2025, 8:00 PM
 - WHERE: Online event
 
 
-### [Finding the Right Data Types - Kevin Wilkie](https://www.meetup.com/dba-fundamentals-group/events/310201279/?eventOrigin=group_upcoming_events)
-via DBA Fundamentals Group
-
-This event is a deep dive into data types, exploring how different databases (SQL Server and Snowflake) implement them, what happens under the hood, and the impact of data type choices on performance, storage, and indexes. It offers practical guidance and is suitable for both schema designers and query optimizers.
-
-- WHEN: Tue, Oct 7, 2025, 12:00 PM
-- WHERE: Online event
-
-
-### [Quick Pitch Night with StarterStudio](https://www.meetup.com/orlando-innovation-league/events/311122063/?eventOrigin=group_upcoming_events)
-via Orlando Innovation League
-
-Quick Pitch Night is a fast-paced, high-energy startup showcase and community pitch jam, brought to you by the Orlando Innovation League. Whether you’re a founder, future founder, or just here for the fun—this is your chance to see what Orlando’s startup scene is all about. It features two real Orlando startups pitching to judges, live feedback, a masterclass on pitching, and an open Rapid-Fire Pitch Competition where anyone can pitch for 60 seconds to win prizes.
-
-- WHEN: Tuesday, October 28, 2025, 6:30 PM – 8:30 PM EDT
-- WHERE: Tech Hub Orlando | 36 W Pine St, Orlando, FL
-
-
-### [Girl Develop It! Virtual Hackathon](https://www.meetup.com/orlando-lady-developers-meetup/events/310113554/?eventOrigin=group_upcoming_events)
-via Orlando Lady Developers Meetup
-
-A virtual hackathon hosted by Girl Develop It! Orlando Lady Developers Meetup. Attendees will form teams and collaborate.
-
-- WHEN: Wednesday, Nov 12, 12:00 PM to Saturday, Nov 15, 3:00 PM EST
-- WHERE: Virtual
-
-### [Python Dinner](https://www.meetup.com/orlandopython/events/311313464/?eventOrigin=group_upcoming_events)
+### [Python Dinner](https://www.meetup.com/orlandopython/events/313951372/?eventOrigin=group_upcoming_events)
 via The Orlando Python User Group
 
 Come join fellow Pythonistas for good food and good discussion. Rather than having a set location, drop a suggestion in the comments. A location will be selected and updated a week before the meeting. Previous suggestions can be carried over the the next month. It doesn't need to be downtown. Just make sure that they are ok with splitting checks and seating groups before everyone arrives. See you all there! :)
 
-- WHEN: Wednesday, Oct 15, 2025, 7:00 PM to 9:00 PM EDT
-- WHERE: Relax Grill, 211 Eola Pkwy · Orlando, FL
+- WHEN: Tuesday, April 14, 2026, 7:00 PM to 9:00 PM EDT
+- WHERE: Outpost Neighborhood Tavern, 227 N Eola Dr · Orlando, FL
 
 
-### [AI Product Implementations That Work](https://www.meetup.com/producttank-orlando/events/311096093/?eventOrigin=group_upcoming_events)
-via ProductTank Orlando
+### [OTAB | Orlando Tech and Beer](https://www.meetup.com/orlando-web3tech-and-beer/events/314104444/?eventOrigin=group_upcoming_events)
+via Kia M. and 4 others (Hosted by), Accelerate Orlando & Orlando Devs (hosts)
 
-This event will feature three powerhouse speakers who will share their lessons on how integration across the board shapes AI in products. They will discuss the difference between a company that is +AI and one that is truly AI+, covering aspects like data, pipelines, model choices, evals, governance, legal frameworks, and ROI.
+Join us for a fun evening of OTAB | Orlando Tech and Beer - a monthly networking and social event hosted by Accelerate Orlando & Orlando Devs. First drinks & light bites will be provided thanks to our generous sponsors!
 
-- WHEN: Wednesday, Oct 29, 2025, 6:00 PM to 8:00 PM EDT
-- WHERE: Serendipity Labs, 450 S Orange Avenue, 3rd Floor, Orlando, FL
-
-
-### [[Placeholder] In-Person Meeting](https://www.meetup.com/orlandoaws/events/311358786/?eventOrigin=group_upcoming_events)
-via Orlando AWS User Group
-
-This is a hybrid event. More information coming soon!
-
-- WHEN: Wednesday, Oct 29, 2025, 6:30 PM to 8:30 PM EDT
-- WHERE: Dr. Phillips Academic Commons, 528 W Livingston St · Orlando, FL (and Online)
+- WHEN: Tuesday, April 28, 2026, 6:00 PM to 9:00 PM EDT
+- WHERE: Twelve Talons Beerworks, 2807 E South Street · Orlando, FL
 
 
-### [Frontend with Orlando Devs](https://www.meetup.com/orlando-developers-meetup/events/310925222/?eventOrigin=group_upcoming_events)
+### [🚀 Angular Community Virtual Job Fair: Connect, Learn, and Get Hired!](https://www.meetup.com/angularcommunity/events/313764270/?eventOrigin=group_upcoming_events)
+via Angular Community Meetup
+
+A strategic networking experience focused on transparency, real-time connection, and navigating the new world of AI-driven recruitment for developers and companies looking for Angular talent.
+
+- WHEN: Tuesday, April 28th, 2026, 6:00 PM – 8:00 PM MST
+- WHERE: Online event (Zoom)
+
+
+### [Post SQLCon Ask Me Anything w/ SQL Engineering: SQL Community](https://www.meetup.com/dba-fundamentals-group/events/314061879/?eventOrigin=group_upcoming_events)
+via DBA Fundamentals Group
+
+Literally - Ask us anything (about SQL or Azure). The event features Priya Sath, Bob Ward, Anna Hoffman, Borko Novakovic, Anitha Adusumilli, and Charles Webb.
+
+- WHEN: Wed, Apr 8, 2026, 12:00 PM
+- WHERE: Online event
+
+
+### [JS and PHP joint meetup: Build Native Mobile Apps and Discuss your AI Journey](https://www.meetup.com/orlandojs/events/312269679/?eventOrigin=group_past_events)
+via OrlandoJS, Orlando PHP
+
+Join Orlando PHP and OrlandoJS to connect live with Shane Rosenthal and Simon Hamp, co-founders of NativePHP, to learn about building native desktop and mobile apps with PHP and Laravel. Rahul Ghosh will also share his three-year AI journey. Food, drinks, and networking opportunities will be available.
+
+- WHEN: Wed, Dec 10, 2025, 6:00 PM to 9:00 PM EST
+- WHERE: UCF Downtown, 500 W Livingston St · Orlando, FL
+
+
+### [Hands on + Prizes! GameDay with AWS User Group!](https://www.meetup.com/orlando-developers-meetup/events/313817519/?eventOrigin=group_upcoming_events)
 via Orlando Developers Meetup
 
-Join the Orlando Devs, Orlando PHP, Orlando JS, and Orlando Frontend for an evening of networking and learning. This is a chance to engage with other frontend developers and learn about the network of language and topic specific meetups that Orlando Devs supports. There will be two talks: "Workflows and best practices for FE development" and "Building automations to solve business problems."
+Join the Orlando Devs and the AWS Users Group for an official AI-focused AWS GameDay experience. This is a hands-on, interactive, team-based event where you solve real-world cloud challenges in a live AWS environment. Top teams win prizes. It's beginner-friendly, requiring only a charged laptop. Food and refreshments will be provided.
 
-- WHEN: Wednesday, Oct 29, 2025, 6:30 PM to 9:00 PM EDT
-- WHERE: Tech Hub, 36 W. Pine St · Orlando, FL
+- WHEN: Wednesday, Apr 8, 2026, 6:00 PM to 9:00 PM EDT
+- WHERE: UCF Center for Emerging Media, 500 W. Livingston St · Orlando, FL
 
-### [Building AI Agents with Semantic Kernel, Cloud Run & Blazor](https://www.meetup.com/gdg-central-florida/events/311399556/?eventOrigin=group_upcoming_events)
-via GDG Central Florida and .NET Users Group of Orlando
 
-This session will cover getting started with Semantic Kernel, deploying .NET Solutions to Google Cloud using Cloud Run, building AI agents with tools and orchestration patterns, and exploring real-world examples, including a Blazor podcast app with semantic search. It's an opportunity to connect with developers interested in Google Cloud, AI, and .NET.
+### [AWS GameDay – AI Edition (with HashiCorp + New Relic) - PRIZES](https://www.meetup.com/orlandoaws/events/313378113/?eventOrigin=group_upcoming_events)
+via Orlando AWS User Group
 
-- WHEN: Wednesday, Oct 8, 2025, 7:00 PM to 8:15 PM EDT
-- WHERE: Tech Hub, 36 W. Pine St, Orlando, FL
+Join us for an official AI-focused AWS GameDay experience at Downtown UCF! It's a hands-on, interactive, team-based experience where you solve real-world cloud challenges in a live AWS environment. You earn points, and the top 3 teams will win prizes courtesy of AWS, HashiCorp, and New Relic. This is a beginner-friendly event - even if you have never seen the AWS Console before, you have the chance to win. Strategy and problem-solving skills can trump AWS experience.
 
-### [Coffee & WordPress at Foxtail Coffee - Howell Branch](https://www.meetup.com/wordpress-orlando/events/309218826/?eventOrigin=group_upcoming_events)
+- WHEN: Wednesday, Apr 8, 2026, 6:00 PM to 9:00 PM EDT
+- WHERE: UCF Downtown, 500 W Livingston St · Orlando, FL
+
+
+### [Book Launch And Live Game of Personality Poker](https://www.meetup.com/producttank-orlando/events/313805605/?eventOrigin=group_featured_event)
+via ProductTank Orlando (Hosted by Curtis M.)
+
+Join ProductTank Orlando for a book launch and live game of Personality Poker with serial innovation author Stephen Shapiro. Discover your innovation personality, learn how to maximize team potential, and explore the role of human perspective in an AI-driven world. Stephen will also be signing and giving away copies of his new book, "You’re Not Playing with a Full Deck."
+
+- WHEN: Wednesday, April 22, 2026, 6:30 PM to 8:30 PM EDT
+- WHERE: Beep!, 13485 Veterans Way, Suite 110, Orlando, FL
+
+
+### [1 Million Cups - Orlando Weekly Meetup](https://www.meetup.com/1-million-cups-orlando/events/313850168/?eventOrigin=group_upcoming_events)
+via Erik D. (1 Million Cups - Orlando)
+
+A weekly educational meetup for entrepreneurs and small business supporters to share business ideas, receive feedback, and network. Created by the Kauffman Foundation.
+
+- WHEN: Wednesday, April 8, 2026, 8:30 AM to 10:00 AM EDT
+- WHERE: UCF Executive Development Center Downtown, 36 West Pine Street, Orlando, FL 32801
+
+
+### [Coffee & WordPress at Foxtail Coffee - Howell Branch](https://www.meetup.com/wordpress-orlando/events/313684049/?eventOrigin=group_upcoming_events)
 via WordPress Orlando
 
-This is a low-pressure meetup for WordPress and WooCommerce users to discuss projects, ask questions, and share knowledge. There's no set agenda, and experts will be on-hand to help. Attendees are encouraged to bring laptops for specific help and support the coffee shop.
+A casual meetup for WordPress and WooCommerce users to discuss projects, ask questions, and get help from experts. Attendees are encouraged to bring their laptops for assistance and to support the venue by purchasing a drink or snack.
 
-- WHEN: Wednesday, Oct 8, 2025, 9:30 AM to 11:00 AM EDT
+- WHEN: Wednesday, April 8, 2026, 9:30 AM to 11:00 AM EDT
 - WHERE: Foxtail Coffee - Howell Branch, 2451 Howell Market Ln #1105 · Winter Park, FL
 
 
-### [1 Million Cups - Orlando Weekly Meetup](https://www.meetup.com/1-million-cups-orlando/events/311084646/?eventOrigin=group_upcoming_events)
-via Erik D.
+### [Practice Solving Data Structures and Algorithms Problems](https://www.meetup.com/florida-software-school/events/312022489/?eventOrigin=group_upcoming_events)
+via MartFlorida Software School
 
-A weekly educational meetup for entrepreneurs and small businesses to present their ideas, receive feedback, and learn from each other. This week's presentation is by Antwon Carter of Men of Integrity Mentoring Program.
+This is a practice session to go over solving Data Structures and Algorithms (DSA) problems. The session might cover problems such as comparing two linked lists, inserting a node into a sorted doubly linked list, and reversing a doubly linked list.
 
-- WHEN: Wednesday, October 8, 2025, 8:30 AM to 10:00 AM EDT
-- WHERE: UCF Executive Development Center Downtown (TechHub Orlando), 36 West Pine Street, Orlando, FL 32801
+- WHEN: Wednesday, December 16, 2026, 6:00 PM
+- WHERE: Online event
+
+
+### [XR AI Social](https://www.meetup.com/awe-nite-orlando/events/312949889/?eventOrigin=group_past_events)
+via AWE Nite Orlando & LumeXR
+
+An evening exploring how XR and AI are creating new opportunities for business, creativity, and customer engagement, designed for both specialists and those curious about immersive technologies. It includes networking, a workshop on generating 3D and XR scenes using AI, and an introduction to LumeXR with case studies.
+
+- WHEN: Wednesday, Feb 4, 2026, 6:00 PM - 10:00 PM EST
+- WHERE: Ivanhoe Park Lager House, 23 N Orange Blossom Trail, Orlando, FL 32805, United States
+
+
+### [SQL Engine Improvements](https://www.meetup.com/meetup-group-sklbvjas/events/312807677/?eventOrigin=group_past_events)
+via GILDA .Data, Cloud and AI Central Florida User Group
+
+Hear the latest updates directly from the SQL engineering team, with two expert‑led sessions spotlighting new capabilities and practical guidance for SQL + Fabric users. During this session we will cover: SQL Engine – Query Processing SQL Engine Performance and Reliability Improvement
+
+- WHEN: Wednesday, January 22nd, 2026, 9:00 AM – 10:00 AM PT
+- WHERE: ONLINE
+
+
+### [Lady Devs dinner!](https://www.meetup.com/orlando-lady-developers-meetup/events/313220826/?eventOrigin=group_past_events)
+via Orlando Lady Developers Meetup
+
+Join the Lady Devs for dinner this March! drinks & apps provided by ODevs.
+
+- WHEN: Wednesday, Mar 11, 2026, 6:00 PM to 8:00 PM EDT
+- WHERE: Azteca D’Oro, 3130 Daniels Road · Winter Garden, FL
 

@@ -1,25 +1,31 @@
 from jinja2 import Environment, FileSystemLoader
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import os
 import json
 
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+# load environment variables from .env file
+from dotenv import load_dotenv
+load_dotenv()
 
-# Create the model
-generation_config = {
-  "temperature": 1,
-  "top_p": 0.95,
-  "top_k": 64,
-  "max_output_tokens": 8192,
-  "response_mime_type": "text/plain",
-}
+client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
 
-model = genai.GenerativeModel(
-  model_name="gemini-1.5-flash",
-  generation_config=generation_config,
-  # safety_settings = Adjust safety settings
-  # See https://ai.google.dev/gemini-api/docs/safety-settings
-  system_instruction="Extract the following data from the input.  Return data json.  Return the following.\n- title: title of the web page\n- summary: summary should be limited to 4 sentences\n- tags: recommended hash tags based on summary\n- blogName: blog name",
+MODEL_NAME = "gemini-3-flash-preview"
+
+SYSTEM_INSTRUCTION = (
+    "Extract the following data from the input.  Return data json.  Return the following.\n"
+    "- title: title of the web page\n"
+    "- summary: summary should be limited to 4 sentences\n"
+    "- tags: recommended hash tags based on summary\n"
+    "- blogName: blog name"
+)
+
+generation_config = types.GenerateContentConfig(
+    temperature=1,
+    top_p=0.95,
+    top_k=64,
+    max_output_tokens=8192,
+    system_instruction=SYSTEM_INSTRUCTION,
 )
 
 def buildPosts(urls):
@@ -69,18 +75,23 @@ def renderBlogs(blogs, template, outputFile):
         f.write(output)
 
 def getPostDataFromUrl(url):
-    response = model.generate_content(url)
+    response = client.models.generate_content(
+        model=MODEL_NAME,
+        contents=url,
+        config=generation_config,
+    )
     return response.text
 
 urls = [
-'https://reactiveui.github.io/refit',
-'https://github.com/christianhelle/refitter',
-'https://github.com/reactiveui/ReactiveUI',
-'https://docs.avaloniaui.net/docs/overview/what-is-avalonia',
-'https://marp.app/',
-'https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm',
-'https://github.com/dotnet/maui-samples',
-'https://mudblazor.com',
+'https://www.android.com/xr/',
+'https://xrblocks.github.io/',
+'https://playcanvas.com/',
+'https://aframe.io/',
+'https://r3f.docs.pmnd.rs/',
+'https://thepolys.com/',
+'https://discord.com/invite/webxr',
+'https://googledevscentralflorida.com/',
+'https://www.orlandocodecamp.com/'
 ]
 posts = buildPosts(urls)
 #print(posts)
