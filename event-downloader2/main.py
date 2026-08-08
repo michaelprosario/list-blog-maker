@@ -1,5 +1,7 @@
 
 from bs4 import BeautifulSoup
+from datetime import datetime
+from dateutil import parser as date_parser
 from google import genai
 from google.genai import types
 from jinja2 import Environment, FileSystemLoader
@@ -77,33 +79,33 @@ def extract_event_data(url):
 
 def getMeetupGroupList():
     return [
-        'https://www.meetup.com/gdg-central-florida',
-        'https://www.meetup.com/Orlando-Developers-Meetup',
-        'https://www.meetup.com/florida-software-school',
-        'https://www.meetup.com/orlando-devops',
-        'https://www.meetup.com/orlandopython',
-        'https://www.meetup.com/oviedo-codes',
-        'https://www.meetup.com/orlando-chatgpt-meetup',
-        'https://www.meetup.com/orlandoaws',
-        'https://www.meetup.com/orlando-ai-ml-study-group',
-        'https://www.meetup.com/orlandojs',
-        'https://www.meetup.com/indienomicon',
-        'https://www.meetup.com/hacktivate',
+        'https://www.meetup.com/1-million-cups-orlando',
+        'https://www.meetup.com/agentville',
         'https://www.meetup.com/angularcommunity',
-        'https://www.meetup.com/Beginning-Web-Development',
-        'https://www.meetup.com/meetup-group-sklbvjas',
-        'https://www.meetup.com/orlando-innovation-league',
         'https://www.meetup.com/awe-nite-orlando',
-        'https://www.meetup.com/producttank-orlando',
-        'https://www.meetup.com/onetug',
+        'https://www.meetup.com/Beginning-Web-Development',
         'https://www.meetup.com/data-tech-florida',
         'https://www.meetup.com/dba-fundamentals-group',
-        'https://www.meetup.com/wordpress-orlando',
-        'https://www.meetup.com/orlando-lady-developers-meetup',
-        'https://www.meetup.com/space-coast-devs',
-        'https://www.meetup.com/1-million-cups-orlando',
+        'https://www.meetup.com/flhealth',
+        'https://www.meetup.com/florida-software-school',
+        'https://www.meetup.com/gdg-central-florida',
+        'https://www.meetup.com/hacktivate',
+        'https://www.meetup.com/indienomicon',
+        'https://www.meetup.com/meetup-group-sklbvjas',
+        'https://www.meetup.com/onetug',
+        'https://www.meetup.com/orlando-chatgpt-meetup',
+        'https://www.meetup.com/Orlando-Developers-Meetup',
+        'https://www.meetup.com/orlando-devops',
+        'https://www.meetup.com/orlando-innovation-league',
         'https://www.meetup.com/orlando-jug-java-user-group',
-        'https://www.meetup.com/orlando-web3tech-and-beer'
+        'https://www.meetup.com/orlando-lady-developers-meetup',
+        'https://www.meetup.com/orlandoaws',
+        'https://www.meetup.com/orlandojs',
+        'https://www.meetup.com/orlandopreneur',
+        'https://www.meetup.com/orlandopython',
+        'https://www.meetup.com/producttank-orlando',
+        'https://www.meetup.com/space-coast-devs',
+        'https://www.meetup.com/wordpress-orlando',
     ]
 
 def renderBlogs(records, template, outputFile):
@@ -117,6 +119,19 @@ def renderBlogs(records, template, outputFile):
     # Write the output to a file
     with open(outputFile, 'w') as f:
         f.write(output)
+
+def get_event_sort_key(event, *fields):
+    for field in fields:
+        value = event.get(field)
+        if not value:
+            continue
+
+        try:
+            return date_parser.parse(value, fuzzy=True)
+        except (TypeError, ValueError, OverflowError):
+            continue
+
+    return datetime.max
 
 def get_url_text(url):
     """
@@ -210,7 +225,7 @@ def getDataFromMeetup():
             eventData.append(event_data)
 
     # sort eventData by date
-    eventData = sorted(eventData, key=lambda x: x['date'])
+    eventData = sorted(eventData, key=lambda x: get_event_sort_key(x, 'date', 'time'))
 
     renderBlogs(eventData, 'template.md', 'output.md')
 
@@ -239,7 +254,7 @@ if __name__ == '__main__':
                 eventData.append(event_row)
 
     # sort eventData by date
-    eventData = sorted(eventData, key=lambda x: x['when'])
+    eventData = sorted(eventData, key=lambda x: get_event_sort_key(x, 'when', 'date', 'time'))
 
     print("start rendering")
     renderBlogs(eventData, 'template.md', 'output.md')

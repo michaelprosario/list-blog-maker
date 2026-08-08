@@ -1,12 +1,12 @@
 {
-  "title": "Orlando Code Camp",
-  "summary": "Orlando Code Camp is a free, one-day technical conference organized by the local developer community for software professionals and students. The event features a wide range of sessions covering diverse topics such as AI, .NET, cloud computing, and web development. Attendees have the opportunity to network with industry experts and peers while learning about the latest trends in technology. Held annually, it serves as a premier gathering for fostering collaboration and skill-building within the Florida tech ecosystem.",
+  "title": "Microsoft Agent Framework at Build 2024",
+  "summary": "Microsoft introduced the Microsoft Agent Framework at the Build conference, providing a new standard for building and orchestrating multi-agent systems. The framework simplifies the creation of autonomous agents that can collaborate, handle complex workflows, and leverage existing AI tools. Deep integration with Azure services ensures that these agents are scalable and ready for enterprise-level deployment. This release is a key part of Microsoft's strategy to empower developers in the era of agentic AI.",
   "tags": [
-    "#OrlandoCodeCamp",
-    "#TechConference",
-    "#SoftwareDevelopment",
-    "#CodingCommunity",
-    "#FloridaTech"
+    "#MicrosoftBuild",
+    "#AIAgents",
+    "#MicrosoftAgentFramework",
+    "#AzureAI",
+    "#SoftwareDevelopment"
   ],
-  "blogName": "Orlando Code Camp"
+  "blogName": "Microsoft Agent Framework Blog"
 }

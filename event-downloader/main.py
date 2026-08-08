@@ -1,4 +1,6 @@
 from jinja2 import Environment, FileSystemLoader
+from datetime import datetime
+from dateutil import parser as date_parser
 import os
 import json
 import requests
@@ -109,6 +111,19 @@ def renderBlogs(records, template, outputFile):
     with open(outputFile, 'w') as f:
         f.write(output)
 
+def get_event_sort_key(event, *fields):
+    for field in fields:
+        value = event.get(field)
+        if not value:
+            continue
+
+        try:
+            return date_parser.parse(value, fuzzy=True)
+        except (TypeError, ValueError, OverflowError):
+            continue
+
+    return datetime.max
+
 
 if __name__ == '__main__':
     groupLinks = getMeetupGroupList()
@@ -120,7 +135,7 @@ if __name__ == '__main__':
             eventData.append(event_data)
 
     # sort eventData by date
-    eventData = sorted(eventData, key=lambda x: x['date'])
+    eventData = sorted(eventData, key=lambda x: get_event_sort_key(x, 'date', 'time'))
 
     renderBlogs(eventData, 'template.md', 'output.md')
     

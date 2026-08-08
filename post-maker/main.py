@@ -83,15 +83,12 @@ def getPostDataFromUrl(url):
     return response.text
 
 urls = [
-'https://www.android.com/xr/',
-'https://xrblocks.github.io/',
-'https://playcanvas.com/',
-'https://aframe.io/',
-'https://r3f.docs.pmnd.rs/',
-'https://thepolys.com/',
-'https://discord.com/invite/webxr',
-'https://googledevscentralflorida.com/',
-'https://www.orlandocodecamp.com/'
+'https://microsoft.ai/models/',
+'https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/work-iq/',
+'https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq?tabs=portal#capabilities',
+'https://learn.microsoft.com/en-us/azure/foundry/agents/overview',
+'https://commandline.microsoft.com/project-solara-build-2026/',
+'https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-at-build-2026/?utm_source=copilot.com',
 ]
 posts = buildPosts(urls)
 #print(posts)

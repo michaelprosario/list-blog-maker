@@ -2,3 +2,4 @@ beautifulsoup4
 jinja2
 google-genai
 dotenv
+python-dateutil
